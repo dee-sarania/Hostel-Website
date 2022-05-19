@@ -1,20 +1,18 @@
 <template>
-<div>
-    <div class="container1">
-    <img src="hostel.jpg" class="py-10 imag">
+<div class="bg">
+    <div class="flex mt-50 items-center justify-center">
+     <img src="hostel2.jpg" class=" flex imag opacity-75 mb-96 object-cover object-center ">
+      <div class="flex items-center justify-center title_card" >
+        <h6 class="uppercase font-bold"> Welcome to the official website of Jiri Women's Hostel</h6>
+      </div>
     </div>
-    <div class="container items-center justify-between mx-auto text-2xl">
-        <h6 class="font-semibold"> ABOUT US </h6>
-        <h1>Welcome to the official home-page of Jiri Women's Hostel, Tezpur University. Jiri Women's Hostel, or JWH as it is occassionally called, is home away from home for its boarders, from undergrads to research scholars. With a capacity of 400 students, and modern facilities, it is the ideal residence for students persuing their studies in Tezpur University.
-        </h1>
-        </div>
-   <!-- <div class="relative">
-    <img src="hostel.jpg" class="imag opacity-75 object-cover mb-96 object-center">
-    <div class="container flex items-center justify-center title-card" >
-        <h6 class="uppercase font-bold"> Welcome to the official website of Jiri Women's Hostel
-        </h6>
-    </div>
-    </div> -->
+
+    
+    
+    
+    
+   
+
 
 
 </div>        
@@ -25,25 +23,44 @@
 
 
 <style scoped>
-.container1{
-    @apply w-1/2 relative mx-auto;
+
+   
+    
+
+
+
+.imag{
     max-width: auto;
     max-height: auto;
-}
-.imag{
     width: 100%;
     height:450px;
+    padding: 0px 0px 0px 0px;
+    margin-top: 190px;
 }
-.title-card{
-    position: absolute;
-    padding:10px ;
-    top:0;
+
+.about{
+    padding: 10px 10px 10px 10px;
+    margin-top: 100 px;
+    background-color: #ffccd2 ;
+}   
+
+.bg{
+    background-color:#fae1e1;
+}
+    
+    
+
+
+.title_card{
+    position:absolute;
+    padding:250px ;
+    top:20px;
     left:0;
     right:0;
-    bottom:0;
+    bottom:10px;
     color:azure;
     font-size: 50px;
-    text-align: center;
+    text-align:center;
 }    
 
     

@@ -1,56 +1,56 @@
 <template>
-<div>
+<div class="bg">
     <footer>
-  <div class="flex justify-center items-center lg:justify-between p-6 border-b container">
+  <div class="container flex justify-center items-center lg:justify-between p-6 border-b">
     <div class="mr-5 hidden lg:block">
-      <span class="font-bold"> QUICK LINKS </span>
+      <span class="font-bold text-red-50"> QUICK LINKS </span>
     </div>
     <div class="flex justify-center">
-     <a href="#!" class="mr-6 w-9 text-black">
+     <a href="#!" class="mr-6 w-9 text-red-50">
         <img src="icon-facebook.png">
       </a>
-      <a href="#!" class="mr-6 w-9 text-black">
+      <a href="#!" class="mr-6 w-9 text-red-50">
         <img src="icon-instagram.png">
       </a>
     </div>
   </div>
-  <div class="mx-6 py-10 text-center md:text-left container">
+  <div class="mx-6 py-10 text-center text-red-50 md:text-left container">
     <div class="grid grid-1 md:grid-cols-3 lg:grid-cols-3 gap-8">
       <div>
-        <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+        <h6 class="uppercase font-semibold mb-4 text-red-50 flex justify-center md:justify-start">
           DOWNLOAD LINKS
         </h6>
         <p class="mb-3">
-          <a href="#!" class="text-black">Boarder Certificate</a>
+          <a href="#!" class="hover:text-red-200">Boarder Certificate</a>
         </p>
         <p class="mb-3">
-          <a href="#!" class="text-black">Hostel Accomodation</a>
+          <a href="#!" class="hover:text-red-200">Hostel Accomodation</a>
         </p>
         <p class="mb-3">
-          <a href="#!" class="text-black">Hostel Withdrawal Form</a>
+          <a href="#!" class=" hover:text-red-200">Hostel Withdrawal Form</a>
         </p>
         <p class="mb-3">
-          <a href="#!" class="text-black">Late Entry Form</a>
+          <a href="#!" class="hover:text-red-200">Late Entry Form</a>
         </p>
       </div>
       <div class="">
-        <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
+        <h6 class="uppercase font-semibold mb-4 text-red-50 flex justify-center md:justify-start">
           UNIVERSITY LINK
         </h6>
         <p class="mb-4">
-          <a href="#!" class="text-black">Bus Timings</a>
+          <a href="#!" class="hover:text-red-200">Bus Timings</a>
         </p>
         <p class="mb-4">
-          <a href="#!" class="text-black">Central Library</a>
+          <a href="#!" class="hover:text-red-200">Central Library</a>
         </p>
         <p class="mb-4">
-          <a href="#!" class="text-black">Holiday List</a>
+          <a href="#!" class="hover:text-red-200">Holiday List</a>
         </p>
         <p>
-          <a href="#!" class="text-gray-600"></a>
+          <a href="#!" class="text-red-50"></a>
         </p>
       </div>
-      <div class="">
+      <div class="text-red-50">
         <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
           Contact
         </h6>
@@ -96,9 +96,9 @@
       </div>
     </div>
   </div>
-  <div class="text-center p-6 red">
+  <div class="text-center p-6 text-red-200">
     <span>© Copyright 2022:</span>
-    <a class="text-black font-semibold" href="https://tailwind-elements.com/">Jiri Womens' Hostel, Tezpur University, Napaam, Tezpur, 784028</a>
+    <a class="text-red-200 font-semibold" href="https://tailwind-elements.com/">Jiri Womens' Hostel, Tezpur University, Napaam, Tezpur, 784028</a>
   </div>
 </footer>
                     
@@ -110,13 +110,20 @@
 </template>
 <style scoped>
 
+
+
 footer{
-    padding: 10px 10px 0px 10px;
-    bottom: 0;
+    padding: 10px 10px 10px 10px;
+    bottom:100px;
     width:100%;
     height:400px;
-    background-color: #ffccd2;
 }
+
+.bg{
+    background-color:#874356 ;
+}
+    
+
 
 p:hover{
     cursor: pointer;

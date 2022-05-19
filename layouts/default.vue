@@ -1,8 +1,9 @@
 <template>
   <div>
-    <Navbar />
-    <Nuxt />
-    <Footer />
+    <Navbar/>
+    <Nuxt/>
+    
+    
   </div>
 </template>
 
@@ -26,7 +27,7 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 body {
-  background-color: #ffeae7;
+  background-color: #fae1e1;
 }
 ::-webkit-scrollbar {
   width: 10px;
