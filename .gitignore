@@ -1,1 +1,9 @@
-.vscode/
+.nuxt
+.env
+node_modules
+package-lock.json
+yarn.lock
+dist
+ecosystem.config.js
+.npmrc
+.nova
