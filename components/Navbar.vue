@@ -1,8 +1,9 @@
 <template>
   <div>
     <nav class="nav">
+      <!-- navbar with logo and title -->
         <div class="top-header flex items-center justify-center p-2">
-          <NuxtLink to="/homepage" class="nav-link">
+          <NuxtLink to="/homepage" class="nav-link">  
             <img src="logo.png" class="w-20 h-20 rounded-full mr-4">
           </NuxtLink >
         <span class="font-semibold text-2xl tracking-tight logo mx-20 text-red-50">JIRI WOMEN'S HOSTEL </span>
@@ -12,11 +13,12 @@
          </div>   
         </div>
 
-      <div class="container bottom-header p-6">
-          <ul class="flex items-center justify-center space-x-8 text-m font-inter">
+      <!-- lower navbar --> 
+      <div class=" sticky container bottom-header p-6">
+          <ul class="flex items-center justify-center space-x-12 text-m font-inter">
             <li class="nav-item">
               <NuxtLink to="/" class="nav-link">
-              <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> HOMEPAGE</a>
+              <a class="block mt-4 mr-4 lg:inline-block lg:mt-0  text-red-50 hover:text-red-200 active:text-black focus:text-black"> HOMEPAGE</a>
               </NuxtLink>
             </li>
 
@@ -37,26 +39,16 @@
                <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> BOARDERS</a>
              </NuxtLink>
             </li>
-            <!-- <button @click="toggleVisibilty"    class=" block mt-4 lg:inline-block lg:mt-0 text-black hover:text-white mr-4" id="menu-btn"> BOARDERS </button>
-
-            <div class= "bg-gray-200 hidden flex-col rounded mt-1 p-2 text-sm w-32" id="dropdown">
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded"> Wing 1 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded"> Wing 2 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 3 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 4 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 5 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 6 </a>
-            </div> -->
 
             <li class="nav-item">
-             <NuxtLink to="/about" class="nav-link">
+             <NuxtLink to="/gallery" class="nav-link">
                <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> GALLERY</a>
              </NuxtLink>
             </li>
             
             <li class="nav-item">
              <NuxtLink to="contact_us" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> CONTACT US</a>
+               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> CONTACT</a>
              </NuxtLink>
             </li>
             

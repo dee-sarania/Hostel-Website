@@ -1,6 +1,6 @@
 <template>
 <div class="container mb-96">
-   <div>
+      <div>
       <ul class="flex items-center justify-center space-x-12 text-m font-inter">
             <li class="nav-item mt-72">
               <NuxtLink to="/" class="nav-link">
@@ -33,14 +33,14 @@
             </li> 
       </ul>
    </div>          
-            
+           
 
    <!-- administration informantion cards -->
    <div class=" container flex items-center justify-center space-x-10">
       <div class="mt-20 max-w-sm rounded overflow-hidden shadow-lg">
          <img class="max-w-sm transform transition duration-500 hover:scale-110" src="building.jpeg" alt="Sunset in the mountains">
             <div class="px-6 py-4">
-               <div class="font-semibold text-l mb-2 text-center">insert warden's name</div>
+               <div class="font-semibold text-l mb-2 text-center">Rachna Di</div>
                <p class="text-gray-700 text-base text-center">
                  
                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
@@ -51,7 +51,7 @@
       <div class="max-w-sm mt-20 rounded overflow-hidden shadow-lg">
          <img class="max-w-sm transform transition duration-500 hover:scale-110" src="building2.jpeg" alt="Sunset in the mountains">
             <div class="px-6 py-4">
-               <div class="font-semibold text-l mb-2 text-center">insert warden's name</div>
+               <div class="font-semibold text-l mb-2 text-center">Chandrima Paul</div>
                <p class="text-gray-700 text-base text-center">
                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                </p>
@@ -61,7 +61,7 @@
       <div class="max-w-sm mt-20 rounded overflow-hidden shadow-lg">
          <img class="max-w-sm transform transition duration-500 hover:scale-110" src="deansbuilding.jpeg" alt="Sunset in the mountains">
             <div class="px-6 py-4">
-               <div class="font-semibold text-l mb-2 text-center">prefect name</div>
+               <div class="font-semibold text-l mb-2 text-center">Dhritideepa Sarania</div>
                <p class="text-gray-700 text-base text-center">
                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                </p>
@@ -74,10 +74,3 @@
 
 
 </template>
-
-<style>
-
-
-
-
-</style>

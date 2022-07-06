@@ -2,6 +2,7 @@
   <div>
     <Navbar/>
     <Nuxt/>
+    <Footer/>
     
     
   </div>
@@ -42,6 +43,9 @@ body {
 }
 .container {
   @apply w-full relative mx-auto;
-  max-width: 960px;
+  
+  max-width: 1000px;
 }
+
+   
 </style>

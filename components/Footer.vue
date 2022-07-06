@@ -41,7 +41,7 @@
           <a href="#!" class="hover:text-red-200">Bus Timings</a>
         </p>
         <p class="mb-4">
-          <a href="#!" class="hover:text-red-200">Central Library</a>
+          <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">Central Library</a>
         </p>
         <p class="mb-4">
           <a href="#!" class="hover:text-red-200">Holiday List</a>

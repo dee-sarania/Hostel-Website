@@ -1,38 +1,6 @@
 <template>
 <div class="container mb-96">
-   <div>
-      <ul class="flex items-center justify-center space-x-12 text-m font-inter">
-            <li class="nav-item mt-72">
-              <NuxtLink to="/" class="nav-link">
-              <a class="block mt-4 mr-4 lg:inline-block lg:mt-0  text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">WARDENS</a>
-              </NuxtLink>
-            </li>
-
-            <li class="nav-item mt-72">
-             <NuxtLink to="/prefects" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">PREFECTS</a>
-             </NuxtLink>
-            </li>
-
-            <li class="nav-item mt-72">
-             <NuxtLink to="/mess_managers" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">MESS MANAGERS</a>
-             </NuxtLink>
-            </li>  
-
-            <li class="nav-item mt-72">
-             <NuxtLink to="/facilities" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">OFFICE STAFF</a>
-             </NuxtLink>
-            </li> 
-
-            <li class="nav-item mt-72">
-             <NuxtLink to="/web_masters" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">WEB MASTERS</a>
-             </NuxtLink>
-            </li> 
-      </ul>
-   </div>          
+          
             
 
    <!-- administration informantion cards -->
@@ -74,10 +42,3 @@
 
 
 </template>
-
-<style>
-
-
-
-
-</style>
