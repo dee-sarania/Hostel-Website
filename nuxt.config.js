@@ -9,7 +9,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/logo.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/circle_logo.png' },
       {
         rel: "stylesheet",
         href:

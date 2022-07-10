@@ -1,9 +1,8 @@
 <template>
   <div>
-    <Navbar/>
+    
     <Nuxt/>
     <Footer/>
-    
     
   </div>
 </template>
@@ -44,7 +43,7 @@ body {
 .container {
   @apply w-full relative mx-auto;
   
-  max-width: 1000px;
+  max-width: 1024px;
 }
 
    

@@ -1,92 +1,81 @@
 <template>
-<div class="bg">
+<div class="bg-light_pink">
     <!-- main photo with the title card saying "welcome...." -->
-    <div class=" flex mt-50 items-center justify-center">
-     <img src="hostel2.jpg" class=" flex imag opacity-75 mb-70 object-cover object-center ">
-      <div class="flex items-center justify-center title_card" >
+    <div class=" flex mt-30 items-center justify-center">
+     <img src="hostel4.jpg" class=" flex w-full max-h-580 opacity-75 mt-48 mb-70 object-cover object-center ">
+     <div class="absolute w-full max-h-580 top-48 right-0 bottom-0 left-0 overflow-hidden bg-fixed bg-black opacity-20"></div>
+      <div class="flex items-center justify-center title_card">
         <h6 class="uppercase font-bold"> Welcome to the official website of Jiri Women's Hostel</h6>
       </div>
     </div>
 
     <!-- about Jiri element -->
-    <div class="bg1 w-full h-96 mt-5 mb-10">
-        <div class="container py-4 text-center text-white text-2xl tracking-wide font-bold "> <h1> ABOUT JIRI </h1></div>
-        <div class="container flex px-18 py-2 space-x-32 items-center justify-center text-white tracking-wide">
-            <p> Jiri Women's hostel was created on ######## it houses more than 600 students of Tezpur university Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <div class="w-full h-96 mt-20 mb-10">
+        <div class="container py-4 justify-left text-burgundy text-2xl tracking-wide font-bold underline"> <h1> ABOUT JIRI </h1></div>
+        <div class="container flex px-18 py-2 space-x-32">
+            <img src="/images/building2.jpeg" class="mb-4 flex max-w-sm max-h-sm object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105">
+            <p class="w-1/2 text-justify text-burgundy text-lg font-semibold tracking-wide"> Jiri Women's Hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from Boro Ninglo area of Dima Hasao district. <br>Jiri Women's Hostel was inaugurated on 26th May 2022 by Dr. Vinod Kumar Jain, Vice Chancellor of Tezpur University. Recently built, Jiri Women's Hostel has excellent infrastructure and accomodates more than 200 boarders. LOREM IPSUM DOLOR IT QWERTY SKKNDOSKXNLASKXMAL
             </p>   
-            <img src="photo.jpg" class="mb-4 flex max-w-sm max-h-sm object-cover object-center justify-right">
+            
         </div>
-    </div>  
+    </div> 
 
     <!-- facilities component -->
-    <div class="w-full h-96 mb-78">
-        <NuxtLink to="/facilities" class="nav-link"><div class=" py-4 text-red-500 text-2xl tracking-wide font-bold text-center hover:text-red-100 txt_color"><a>FACILITIES </a> </div> </NuxtLink> <!-- clicking will lead to facilities page -->
-        <div class="container flex py-6  space-x-20 item-center justify-center">
-            <div class="h-15 w-15 transform transition duration-500 hover:scale-105"> <img src="power.png"> <p class="text-center txt_color font-semibold"> 24x7 (not) power supply </p></div>
-            <div class="h-15 w-15 transform transition duration-500 hover:scale-105"><img src="room.png"><p class="text-center txt_color font-semibold ">well furnished rooms</p></div>
-            <div class="h-15 w-15 transform transition duration-500 hover:scale-105"><img src="wifi.png"><p class="text-center txt_color font-semibold"> average wifi connection</p></div>
-            <div class="h-15 w-15 transform transition duration-500 hover:scale-105"><img src="food.png"><p class="text-center txt_color font-semibold">good food good life</p></div>
-        </div>
+    <div class="bg-burgundy w-full h-96 mt-48 mb-78 py-4">
+        <NuxtLink to="/facilities" class="nav-link"><div class=" py-4 text-red-500 text-2xl tracking-wide font-bold text-center text-light_pink underline">FACILITIES</div> </NuxtLink> <!-- clicking will lead to facilities page -->
+        <div class="container flex py-6 space-x-8 item-center justify-center"></div>
+         <!--   <div class="h-48 w-48 transform transition duration-500 hover:scale-105"> <img src="/icons/power.png"> <p class="text-center txt font-semibold"> 24x7 (not) power supply </p></div>
+            <div class="h-48 w-48 transform transition duration-500 hover:scale-105"><img src="/icons/room.png"><p class="text-center txt font-semibold ">well furnished rooms</p></div>
+            <div class="h-48 w-48 transform transition duration-500 hover:scale-105"><img src="/icons/wifi.png"><p class="text-center txt font-semibold"> average wifi connection</p></div>
+            <div class="h-48 w-48 transform transition duration-500 hover:scale-105"><img src="/icons/food.png"><p class="text-center txt font-semibold">good food good life</p></div>
+        -->
     </div>    
 
     <!-- Gallery in homepage -->
-    <div class=" mt-24 mb-24">
-        <div class="container text-center text-2xl tracking-wide font-bold txt_color"> <NuxtLink to="/gallery" class="nav-link">  <a> GALLERY </a> </NuxtLink> </div> 
+    
+    <div class="mt-24 mb-24">
+        <div class="container text-center text-burgundy text-2xl tracking-wide underline font-bold"> <NuxtLink to="/gallery" class="nav-link"> GALLERY</NuxtLink> </div> 
         <div class="container px-12 py-6 grid  grid-flow-row-dense grid-cols-3 grid-rows-3 gap-6">
         <div class="mt-10">
-          <img class="object-cover w-full h-full" src="building.jpeg" />
+          <img class="object-cover w-full h-full" src="/images/building.jpeg" >
         </div>
         <div class="mt-10">
-         <img class="object-cover w-full h-full" src="building2.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/building2.jpeg" >
         </div>
         <div class="mt-10">
-         <img class="object-cover w-full h-full" src="corridor.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/corridor.jpeg" >
         </div>
         <div>
-         <img class="object-cover w-full h-full" src="deansbuilding.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/deansbuilding.jpeg" >
         </div>
         <div class="">
-         <img class="object-cover w-full h-full" src="jobhimain.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/jobhimain.jpeg" >
         </div>
         <div class="mt-20">
-         <img class="object-cover w-full h-full" src="building.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/building.jpeg" >
         </div>
         <div class="mt-20">
-         <img class="object-cover w-full h-full" src="building2.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/building2.jpeg" >
         </div>
         <div class="mt-20">
-         <img class="object-cover w-full h-full" src="building2.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/building2.jpeg" >
         </div>
           <div class="">
-         <img class="object-cover w-full h-full" src="jobhimain.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/jobhimain.jpeg" >
         </div>
         <div class="mt-20">
-         <img class="object-cover w-full h-full" src="building.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/building.jpeg" >
         </div>
         <div class="mt-20">
-         <img class="object-cover w-full h-full" src="building2.jpeg" />
+         <img class="object-cover w-full h-full" src="/images/building2.jpeg" >
         </div>
         <div class="mt-20">
-         <img class="object-cover w-full h-full" src="building2.jpeg" />
+         <img class="object-cover w-full h-full" src="images/building2.jpeg" >
         </div>
     </div>  
     </div>
+    
 </div>
-    
-
-
-
-        
-
-    
-    
-    
-    
-   
-
-
-
-</div>        
       
 </template>
 
@@ -100,34 +89,11 @@
 
 
 
-.imag{
-    max-width: auto;
-    max-height: auto;
-    width: 100%;
-    height:450px;
-    padding: 0px 0px 0px 0px;
-    margin-top: 190px;
-}
 
-.about{
-    padding: 10px 10px 10px 10px;
-    margin-top: 100 px;
-    background-color: #ffccd2 ;
-}   
 
-.bg{
-    background-color:#fae1e1;
-}
 
-.bg1{
-    background-color: #874356;
-}
 
-.txt_color{
-    color: #874356;
 
-    
-}
 
 
 

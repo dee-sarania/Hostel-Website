@@ -1,0 +1,1670 @@
+[
+    {
+      "room": 101,
+      "name": "Preetishree Gogoi",
+      "enrollmentNo": "MSI18009",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Kaberi Changmai",
+      "enrollmentNo": "MSI18014",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": 102,
+      "name": "Nayanita Saikia",
+      "enrollmentNo": "FEB19011",
+      "department": "Food engineering and technology"
+    },
+    {
+      "room": "",
+      "name": "Stanzin Tsangyang",
+      "enrollmentNo": "MEB19040",
+      "department": "Mechanical engineering"
+    },
+    {
+      "room": 103,
+      "name": "Shivalika Patranabish",
+      "enrollmentNo": "MCD21007",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Dimpol Bora",
+      "enrollmentNo": "EDM21012",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Parismita  Das",
+      "enrollmentNo": "EDM21002",
+      "department": "Education"
+    },
+    {
+      "room": 104,
+      "name": "Jubita Changkakoti",
+      "enrollmentNo": "EDB21066",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Parishmrita Boruah",
+      "enrollmentNo": "ESE21011",
+      "department": "Environmental science"
+    },
+    {
+      "room": "",
+      "name": "Jyotismita Das",
+      "enrollmentNo": "PHI21003",
+      "department": "Physics"
+    },
+    {
+      "room": 105,
+      "name": "Kangkana Saikia",
+      "enrollmentNo": "MBI21024",
+      "department": "MBBT"
+    },
+    {
+      "room": "",
+      "name": "Tasmiah Rohman",
+      "enrollmentNo": "MSB21005",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Protyasa Proyasi Bhattacharyya",
+      "enrollmentNo": "PHM21012",
+      "department": "PHYSICS"
+    },
+    {
+      "room": 106,
+      "name": "Duhita Das",
+      "enrollmentNo": "EDB21040",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Asha Saikia",
+      "enrollmentNo": "SOM21010",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Priyanka Baniya",
+      "enrollmentNo": "EDB21015",
+      "department": "Education"
+    },
+    {
+      "room": 107,
+      "name": "Trishna Moni Changmai",
+      "enrollmentNo": "EDM21008",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Chandrani Nirmalia",
+      "enrollmentNo": "MEB21044",
+      "department": "Mechanical Engineering"
+    },
+    {
+      "room": "",
+      "name": "Shraddhaa Saha",
+      "enrollmentNo": "MSI21007",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": 108,
+      "name": "Sangeeta Devi",
+      "enrollmentNo": "EDB21067",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Shristi Sumon Baruah",
+      "enrollmentNo": "SOM21022",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Izamin Akhter",
+      "enrollmentNo": "EDB21024",
+      "department": "Education"
+    },
+    {
+      "room": 109,
+      "name": "Debashruti boro",
+      "enrollmentNo": "SOM21005",
+      "department": "sociology"
+    },
+    {
+      "room": "",
+      "name": "Smita Patel",
+      "enrollmentNo": "mcm21008",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Deeksha Bordoloi",
+      "enrollmentNo": "EDB21007",
+      "department": "Education"
+    },
+    {
+      "room": 110,
+      "name": "Ankita Ghosh",
+      "enrollmentNo": "BAM21048",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Bishakha Biswakarma",
+      "enrollmentNo": "MBM21033",
+      "department": "MBBT"
+    },
+    {
+      "room": "",
+      "name": "Gayatri chetia",
+      "enrollmentNo": "EDM21028",
+      "department": "Education"
+    },
+    {
+      "room": 111,
+      "name": "Palki Priyam",
+      "enrollmentNo": "SOM21033",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Semima Akhtar Hannan",
+      "enrollmentNo": "MSM21013",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Jyotshna Bora",
+      "enrollmentNo": "PHB21012",
+      "department": "Physics"
+    },
+    {
+      "room": 112,
+      "name": "Barasha Saikia Borah",
+      "enrollmentNo": "MSI21008",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Nilakshi Bordoloi",
+      "enrollmentNo": "MSM21045",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Saheen S Rahman",
+      "enrollmentNo": "MCD21004",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": 113,
+      "name": "Ponaxi Nunisa",
+      "enrollmentNo": "MCM21026",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Swasti banashpati",
+      "enrollmentNo": "ESE21008",
+      "department": "Environmental science"
+    },
+    {
+      "room": "",
+      "name": "Shrutismriti Dutta",
+      "enrollmentNo": "EDM21004",
+      "department": "Education"
+    },
+    {
+      "room": 114,
+      "name": "Bethellina M Rymbai",
+      "enrollmentNo": "ESE21028",
+      "department": "environmental science"
+    },
+    {
+      "room": "",
+      "name": "kuin Deka",
+      "enrollmentNo": "CHI21022",
+      "department": "chemical sciences"
+    },
+    {
+      "room": "",
+      "name": "Rainy Mahanta",
+      "enrollmentNo": "BAT21004",
+      "department": "Business Administration"
+    },
+    {
+      "room": 115,
+      "name": "Ritisha Boruah",
+      "enrollmentNo": "SOM21032",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Prachurjyaa Chiring",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Himadri Chetia",
+      "enrollmentNo": "EDM21007",
+      "department": "Education"
+    },
+    {
+      "room": 116,
+      "name": "Kaveri Saikia",
+      "enrollmentNo": "ESE21031",
+      "department": "Environmental Science"
+    },
+    {
+      "room": "",
+      "name": "Himangi Rabha",
+      "enrollmentNo": "MSB21006",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Anuska Borah",
+      "enrollmentNo": "COI21010",
+      "department": "Commerce"
+    },
+    {
+      "room": 117,
+      "name": "Shalini Pareek",
+      "enrollmentNo": "EDB21001",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Sanstuti Prasad",
+      "enrollmentNo": "FEM21008",
+      "department": "Food Engineering and Technology"
+    },
+    {
+      "room": "",
+      "name": "Aditee Borah",
+      "enrollmentNo": "EDM21003",
+      "department": "Education"
+    },
+    {
+      "room": 118,
+      "name": "Priyanka Rajkumari",
+      "enrollmentNo": "MCM21014",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Barasha Devi",
+      "enrollmentNo": "COI 21027",
+      "department": "Commerce"
+    },
+    {
+      "room": "",
+      "name": "Shahmina Akhtara Begum",
+      "enrollmentNo": "EDM21023",
+      "department": "Education"
+    },
+    {
+      "room": 119,
+      "name": "Barasha Rani Konwar",
+      "enrollmentNo": "ESE21025",
+      "department": "Environmental Science"
+    },
+    {
+      "room": "",
+      "name": "Chhayasmita Rajkhowa",
+      "enrollmentNo": "CHI21004",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Bandana Baruah",
+      "enrollmentNo": "MCM21013",
+      "department": "Mass Communication & JouRnalism"
+    },
+    {
+      "room": 120,
+      "name": "Geetika Borah",
+      "enrollmentNo": "MSI21003",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Binita Chetry",
+      "enrollmentNo": "MCM21016",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Labhita Rabha",
+      "enrollmentNo": "MSB21008",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": 121,
+      "name": "Dikshita Saikia",
+      "enrollmentNo": "EDM21005",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Sumi Bhagawati",
+      "enrollmentNo": "EDM21010",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Rukmini basumatary",
+      "enrollmentNo": "EDM21006",
+      "department": "Education"
+    },
+    {
+      "room": 122,
+      "name": "Dristi Darsana Kashyap",
+      "enrollmentNo": "SOM21011",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Nisha Patar",
+      "enrollmentNo": "CSI21006",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": "",
+      "name": "Nirva khundrakpam",
+      "enrollmentNo": "FEM21015",
+      "department": "Food Engineering and Technology"
+    },
+    {
+      "room": 123,
+      "name": "Sajida Begum",
+      "enrollmentNo": "PHM21023",
+      "department": "Physics"
+    },
+    {
+      "room": "",
+      "name": "Akajali Boruah",
+      "enrollmentNo": "PHB21002",
+      "department": "Physics"
+    },
+    {
+      "room": "",
+      "name": "Niharika Chutia",
+      "enrollmentNo": "CHM21027",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": 124,
+      "name": "WARDEN OFFICE",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": 125,
+      "name": "Lucky Duwarah",
+      "enrollmentNo": "EDM21013",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Sheta Bordoloi",
+      "enrollmentNo": "mcm21012",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Upasha Mudoi",
+      "enrollmentNo": "MSI21002",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": 126,
+      "name": "Manisha Bhowmick",
+      "enrollmentNo": "MCM21010",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Chayanika Phukan",
+      "enrollmentNo": "EDB21051",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Niharika Swargiary",
+      "enrollmentNo": "MCD21011",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": 127,
+      "name": "Akriti Saikia",
+      "enrollmentNo": "SOM21025",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Sagarika Das",
+      "enrollmentNo": "EDM21036",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Banasmita Das",
+      "enrollmentNo": "CHB21005",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": 128,
+      "name": "Rajeshree Roy",
+      "enrollmentNo": "MCD21003",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Nandini Neog",
+      "enrollmentNo": "SWM21007",
+      "department": "Social Work"
+    },
+    {
+      "room": "",
+      "name": "Probahinee Gogoi",
+      "enrollmentNo": "COI21029",
+      "department": "Commerce"
+    },
+    {
+      "room": 129,
+      "name": "Arpita Adhikary",
+      "enrollmentNo": "MCM21020",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Pixy Das",
+      "enrollmentNo": "CHI21027",
+      "department": "Chemical Science"
+    },
+    {
+      "room": "",
+      "name": "Krishangee Gohain",
+      "enrollmentNo": "MCM21015",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": 130,
+      "name": "Dhritideepa Sarania",
+      "enrollmentNo": "CSB21070",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": "",
+      "name": "Sonia Kaman",
+      "enrollmentNo": "CTM21010",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": "",
+      "name": "Phoebi Vanlalzuimawi Thiek",
+      "enrollmentNo": "SWM21006",
+      "department": "Social Work"
+    },
+    {
+      "room": 201,
+      "name": "Himadri kachari",
+      "enrollmentNo": "CTM21011",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": "",
+      "name": "Nabanita Saikia",
+      "enrollmentNo": "CTM21006",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": "",
+      "name": "Shatabdi Tarafdar",
+      "enrollmentNo": "MCM21034",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": 202,
+      "name": "Elisa Moran",
+      "enrollmentNo": "EDM21017",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Shusmita Sutradhar",
+      "enrollmentNo": "SOM21031",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Raayesha Amin",
+      "enrollmentNo": "PHM21017",
+      "department": "Physics"
+    },
+    {
+      "room": 203,
+      "name": "Meghna Thakuria",
+      "enrollmentNo": "CHI21009",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Kasturi Sarma",
+      "enrollmentNo": "PHI21009",
+      "department": "Physics"
+    },
+    {
+      "room": "",
+      "name": "Baishali Devi",
+      "enrollmentNo": "SOM21029",
+      "department": "Sociology"
+    },
+    {
+      "room": 204,
+      "name": "Rashmi Rekha Saikia",
+      "enrollmentNo": "SOM21027",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Ankita likson",
+      "enrollmentNo": "CHm21020",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Kalyani gogoi",
+      "enrollmentNo": "CHM21022",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": 205,
+      "name": "Akhila Mishra",
+      "enrollmentNo": "COM21007",
+      "department": "Commerce"
+    },
+    {
+      "room": "",
+      "name": "Nabanita Roy",
+      "enrollmentNo": "PHM21014",
+      "department": "Physics"
+    },
+    {
+      "room": "",
+      "name": "Sanchayaita Roy",
+      "enrollmentNo": "MCM21019",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": 206,
+      "name": "Nikita Kakoty",
+      "enrollmentNo": "CHM21028",
+      "department": "Chemical Science"
+    },
+    {
+      "room": "",
+      "name": "karuna Upadhayay Rijal",
+      "enrollmentNo": "ESE21013",
+      "department": "Environmental Science"
+    },
+    {
+      "room": "",
+      "name": "Binita Acharya",
+      "enrollmentNo": "CHM21011",
+      "department": "Chemical Science"
+    },
+    {
+      "room": 207,
+      "name": "Titikhya Priya Boruah",
+      "enrollmentNo": "EDM21020",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Karabi Gogoi",
+      "enrollmentNo": "MBM21029",
+      "department": "MBB"
+    },
+    {
+      "room": "",
+      "name": "Sweata Das",
+      "enrollmentNo": "CSM21049",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": 208,
+      "name": "Chitrankana Bhowmik",
+      "enrollmentNo": "CSM21006",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": "",
+      "name": "RASHMI REKHA SAIKIA",
+      "enrollmentNo": "EDB21060",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Kannaki Bora",
+      "enrollmentNo": "EDB21016",
+      "department": "Education"
+    },
+    {
+      "room": 209,
+      "name": "Sarmistha Bora",
+      "enrollmentNo": "EDB21061",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Chimparani Dowarah",
+      "enrollmentNo": "EDB21021",
+      "department": "Education (B.Ed)"
+    },
+    {
+      "room": "",
+      "name": "Paromita Das",
+      "enrollmentNo": "ECD21024",
+      "department": "ECE"
+    },
+    {
+      "room": 210,
+      "name": "Preyashi Borah",
+      "enrollmentNo": "ESE21023",
+      "department": "Environmental science"
+    },
+    {
+      "room": "",
+      "name": "Gargisri kashyap Goswami",
+      "enrollmentNo": "MBI21008",
+      "department": "MBBT"
+    },
+    {
+      "room": "",
+      "name": "Lopamudra Pathak",
+      "enrollmentNo": "CSI21005",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": 211,
+      "name": "Principriya Konwar",
+      "enrollmentNo": "EDB21039",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Nayanmoni Borpujari",
+      "enrollmentNo": "EDB21043",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Chandita Chetia",
+      "enrollmentNo": "ESE21012",
+      "department": "Environmental Science"
+    },
+    {
+      "room": 212,
+      "name": "Richa Bagiri",
+      "enrollmentNo": "CHI21021",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Priya Seram",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Niharika Paul",
+      "enrollmentNo": "COM21006",
+      "department": "commerce"
+    },
+    {
+      "room": 213,
+      "name": "Panchi Dutta",
+      "enrollmentNo": "BAT21005",
+      "department": "Business Administration"
+    },
+    {
+      "room": "",
+      "name": "Luismita Phukon",
+      "enrollmentNo": "ESE21024",
+      "department": "Environmental Science"
+    },
+    {
+      "room": "",
+      "name": "MANUSHREE MALINI SHARMA",
+      "enrollmentNo": "MBI21009",
+      "department": "MBBT"
+    },
+    {
+      "room": 214,
+      "name": "kalyani Bania",
+      "enrollmentNo": "EDB21059",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Kabita  bora",
+      "enrollmentNo": "EDB21020",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Prerona Phukon",
+      "enrollmentNo": "SWM21004",
+      "department": "Social work"
+    },
+    {
+      "room": 215,
+      "name": "Harinakshi Hazarika",
+      "enrollmentNo": "MCM21032",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Jyoti Roy",
+      "enrollmentNo": "MCM21039",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Deepsikha Saikia",
+      "enrollmentNo": "phm21034",
+      "department": "Physics"
+    },
+    {
+      "room": 216,
+      "name": "Kritika Rajkhowa",
+      "enrollmentNo": "EDB21062",
+      "department": "education"
+    },
+    {
+      "room": "",
+      "name": "Nitika Datta",
+      "enrollmentNo": "MSM21010",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Dubari Das",
+      "enrollmentNo": "CTM21007",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": 217,
+      "name": "surabhi Hazarika",
+      "enrollmentNo": "MSM21011",
+      "department": "Mathematical science"
+    },
+    {
+      "room": "",
+      "name": "Sneha Boruah",
+      "enrollmentNo": "MCD21005",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Rinki Gogoi",
+      "enrollmentNo": "CTM21013",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": 218,
+      "name": "Parthavi Duarah",
+      "enrollmentNo": "MSM21012",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Monju Khakhlari",
+      "enrollmentNo": "SOM21008",
+      "department": "Sociology"
+    },
+    {
+      "room": "",
+      "name": "Akanksha Phookan",
+      "enrollmentNo": "CEB21014",
+      "department": "Civil Engineering"
+    },
+    {
+      "room": 219,
+      "name": "Sagorika Parashor",
+      "enrollmentNo": "MSM21008",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Hrishita Bhuyan",
+      "enrollmentNo": "CSB21097",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": "",
+      "name": "Tribedee Acharjya",
+      "enrollmentNo": "SOM21013",
+      "department": "SOCIOLOGY"
+    },
+    {
+      "room": 220,
+      "name": "Dishamoni Gogoi",
+      "enrollmentNo": "LAM21009",
+      "department": "Law"
+    },
+    {
+      "room": "",
+      "name": "Ankita Borah",
+      "enrollmentNo": "ECB21032",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": "",
+      "name": "Tanaya Debnath",
+      "enrollmentNo": "ECB21039",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": 221,
+      "name": "karabee Devi",
+      "enrollmentNo": "MSM21017",
+      "department": "Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Priyanka Gogoi",
+      "enrollmentNo": "EEB21013",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Praptipriya Phukon",
+      "enrollmentNo": "CSB21094",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": 222,
+      "name": "Nafisa Sultana Hussain",
+      "enrollmentNo": "MSM21006",
+      "department": "Mathematical Science"
+    },
+    {
+      "room": "",
+      "name": "Pakhi Thakuria",
+      "enrollmentNo": "CHI21016",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Amrisha Parasor",
+      "enrollmentNo": "LAM21007",
+      "department": "Law"
+    },
+    {
+      "room": 223,
+      "name": "Karabi Kakati",
+      "enrollmentNo": "EDB21063",
+      "department": "department of education"
+    },
+    {
+      "room": "",
+      "name": "Dulumani kalita",
+      "enrollmentNo": "PHB21007",
+      "department": "department of physics"
+    },
+    {
+      "room": "",
+      "name": "Khushbu Das",
+      "enrollmentNo": "PHI21013",
+      "department": "department of Physics"
+    },
+    {
+      "room": 224,
+      "name": "Sujata Saikia",
+      "enrollmentNo": "MSM21037",
+      "department": "department Of Mathematical Science"
+    },
+    {
+      "room": "",
+      "name": "Bonashri Gogoi",
+      "enrollmentNo": "EDM21021",
+      "department": "department of Education"
+    },
+    {
+      "room": "",
+      "name": "Bipasa Das",
+      "enrollmentNo": "CTM21012",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": 225,
+      "name": "",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Shalini Sarkar",
+      "enrollmentNo": "CEB21017",
+      "department": "Civil Engineering"
+    },
+    {
+      "room": "",
+      "name": "pooja das",
+      "enrollmentNo": "ESE21014",
+      "department": "Environmental science"
+    },
+    {
+      "room": 226,
+      "name": "Dharitri Gogoi",
+      "enrollmentNo": "EDB21017",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Jyotsna Baruah Mahanta",
+      "enrollmentNo": "EDB21032",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Pradhiti Kashyap",
+      "enrollmentNo": "SWM21017",
+      "department": "Social Work"
+    },
+    {
+      "room": 227,
+      "name": "Pratibha Devi",
+      "enrollmentNo": "MCM21030",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Aruna Barman",
+      "enrollmentNo": "ECD21029",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": "",
+      "name": "Karabi Chutia",
+      "enrollmentNo": "EDB21042",
+      "department": "Education"
+    },
+    {
+      "room": 228,
+      "name": "Popy Priya Patir",
+      "enrollmentNo": "CTM21017",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": "",
+      "name": "Poonam Pandiya",
+      "enrollmentNo": "LAM21008",
+      "department": "Law"
+    },
+    {
+      "room": "",
+      "name": "Pomy Doley",
+      "enrollmentNo": "ECD21008",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": 229,
+      "name": "Monikonkona Gogoi",
+      "enrollmentNo": "MSM21047",
+      "department": "department of Mathematical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Alithea Joan Basaiawmoit",
+      "enrollmentNo": "PHM21038",
+      "department": "department of Physics"
+    },
+    {
+      "room": "",
+      "name": "Gayatri Bharadwaj",
+      "enrollmentNo": "CTM21015",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": 230,
+      "name": "Sangita Kumari Prasad",
+      "enrollmentNo": "EDB21031",
+      "department": "department of Education"
+    },
+    {
+      "room": "",
+      "name": "Shobha Suthar",
+      "enrollmentNo": "CEB21070",
+      "department": "Civil Engineering"
+    },
+    {
+      "room": "",
+      "name": "Reshma Chama",
+      "enrollmentNo": "LAM21013",
+      "department": "Law"
+    },
+    {
+      "room": 301,
+      "name": "Debajani Duarah",
+      "enrollmentNo": "CHM21019",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Suparna Deka",
+      "enrollmentNo": "LAM21010",
+      "department": "Law"
+    },
+    {
+      "room": "",
+      "name": "Meena Sarta",
+      "enrollmentNo": "CTM21016",
+      "department": "Cultural Studies"
+    },
+    {
+      "room": 302,
+      "name": "Dikshita Borah",
+      "enrollmentNo": "EDB21005",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Malavika Manoj",
+      "enrollmentNo": "PHM21016",
+      "department": "Physics"
+    },
+    {
+      "room": "",
+      "name": "sabita Biswas",
+      "enrollmentNo": "SWM21022",
+      "department": "Social Work"
+    },
+    {
+      "room": 303,
+      "name": "Debika Dadhara",
+      "enrollmentNo": "EDB21003",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Sarlin Pohthmi",
+      "enrollmentNo": "FEM21018",
+      "department": "Food Engineering and Technology"
+    },
+    {
+      "room": "",
+      "name": "Imrana Khan",
+      "enrollmentNo": "ECB21086",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": 304,
+      "name": "Chandrima Paul",
+      "enrollmentNo": "CSB21087",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": "",
+      "name": "Himadri Gogoi",
+      "enrollmentNo": "EDB21052",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Shrestha Paul",
+      "enrollmentNo": "EGE21010",
+      "department": "English"
+    },
+    {
+      "room": 305,
+      "name": "Nibedita Choudhury",
+      "enrollmentNo": "EGE21017",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Upasana Devi",
+      "enrollmentNo": "EGL21011",
+      "department": "Linguistic & Language Technology"
+    },
+    {
+      "room": "",
+      "name": "varsha mahabal",
+      "enrollmentNo": "MBM21034",
+      "department": "MBBT"
+    },
+    {
+      "room": 306,
+      "name": "Satabdi Dutta",
+      "enrollmentNo": "EGL21024",
+      "department": "Linguistics & Language Technology"
+    },
+    {
+      "room": "",
+      "name": "Pikumoni Boruah",
+      "enrollmentNo": "CHM21010",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Bonjuri Bora",
+      "enrollmentNo": "EGE21014",
+      "department": "English"
+    },
+    {
+      "room": 307,
+      "name": "Riju Dahal",
+      "enrollmentNo": "EGL21012",
+      "department": "Linguistic & Language technology"
+    },
+    {
+      "room": "",
+      "name": "Priyakshi Sarma",
+      "enrollmentNo": "EGE21015",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Uma devi",
+      "enrollmentNo": "EGE21044",
+      "department": "English"
+    },
+    {
+      "room": 308,
+      "name": "Manoshi Saikia",
+      "enrollmentNo": "CHM21007",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Pahari Khanikar",
+      "enrollmentNo": "MCM21018",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Nayna Deori koch",
+      "enrollmentNo": "EGL21022",
+      "department": "Linguistic & Language technology"
+    },
+    {
+      "room": 309,
+      "name": "Samim Iftisha Fahnaz Ullah",
+      "enrollmentNo": "EGL21013",
+      "department": "Linguistic & Language Technology"
+    },
+    {
+      "room": "",
+      "name": "Pritty Kerketta",
+      "enrollmentNo": "EGE21034",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Poree Das",
+      "enrollmentNo": "EGE21038",
+      "department": "English"
+    },
+    {
+      "room": 310,
+      "name": "Simran Das",
+      "enrollmentNo": "EGE21039",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Lupamudra Hazarika",
+      "enrollmentNo": "HIM21019",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Firoza Kauser",
+      "enrollmentNo": "EGE21020",
+      "department": "English"
+    },
+    {
+      "room": 311,
+      "name": "Jublee Roy",
+      "enrollmentNo": "HIM21005",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Debashree Borah",
+      "enrollmentNo": "HIM21OO4",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Uddipana Kalita",
+      "enrollmentNo": "EGL21009",
+      "department": "Linguistics & Language Technology"
+    },
+    {
+      "room": 312,
+      "name": "Shilpi Gogoi",
+      "enrollmentNo": "MCM21017",
+      "department": "Mass Communication & Journalism"
+    },
+    {
+      "room": "",
+      "name": "Anamika Mohari",
+      "enrollmentNo": "EGE21040",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Upasana Deka",
+      "enrollmentNo": "SWM21018",
+      "department": "Social Work"
+    },
+    {
+      "room": 313,
+      "name": "Prokriti Sonowal",
+      "enrollmentNo": "CHM21026",
+      "department": "Chemical Sciences"
+    },
+    {
+      "room": "",
+      "name": "Bhaswati Tamuli",
+      "enrollmentNo": "HIM21008",
+      "department": "hindi"
+    },
+    {
+      "room": "",
+      "name": "Priyam Baruah",
+      "enrollmentNo": "EGE21035",
+      "department": "English"
+    },
+    {
+      "room": 314,
+      "name": "Pratikhya Dutta",
+      "enrollmentNo": "EGE21022",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Dipsikha Das",
+      "enrollmentNo": "EDM21011",
+      "department": "Education"
+    },
+    {
+      "room": "",
+      "name": "Sagarika Borah",
+      "enrollmentNo": "PHM21036",
+      "department": "physics"
+    },
+    {
+      "room": 315,
+      "name": "Jagriti Konwar",
+      "enrollmentNo": "EGL21005",
+      "department": "Linguistic & Language Technology"
+    },
+    {
+      "room": "",
+      "name": "Surabhi Gogoi",
+      "enrollmentNo": "EGL21023",
+      "department": "Linguistic & Language Technology"
+    },
+    {
+      "room": "",
+      "name": "Sreosi Sarkar",
+      "enrollmentNo": "EGE21011",
+      "department": "English"
+    },
+    {
+      "room": 316,
+      "name": "Aditi Dey",
+      "enrollmentNo": "EGE21013",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Sagarika Deb",
+      "enrollmentNo": "EGE21012",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Rupasree Nath",
+      "enrollmentNo": "EGE21008",
+      "department": "English"
+    },
+    {
+      "room": 317,
+      "name": "Alankita Hazarika",
+      "enrollmentNo": "EGL21025",
+      "department": "Linguistic & Language technology"
+    },
+    {
+      "room": "",
+      "name": "Puja Deka",
+      "enrollmentNo": "HIM21024",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Duna Bhowal",
+      "enrollmentNo": "EGE21046",
+      "department": "English"
+    },
+    {
+      "room": 318,
+      "name": "Devulapally kaveri",
+      "enrollmentNo": "COI21009",
+      "department": "Commerce"
+    },
+    {
+      "room": "",
+      "name": "Taduri sanjeevani",
+      "enrollmentNo": "mbi21005",
+      "department": "MBBT"
+    },
+    {
+      "room": "",
+      "name": "gujja poojitha",
+      "enrollmentNo": "mbi21003",
+      "department": "MBBT"
+    },
+    {
+      "room": 319,
+      "name": "Priyanka Devi",
+      "enrollmentNo": "HIM21009",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Radam Roja",
+      "enrollmentNo": "mbi21017",
+      "department": "MBBT"
+    },
+    {
+      "room": "",
+      "name": "Aarepalli Shivani",
+      "enrollmentNo": "MBI21015",
+      "department": "MBBT"
+    },
+    {
+      "room": 320,
+      "name": "Kshetrimayum Bina Devi",
+      "enrollmentNo": "Feb21035",
+      "department": "Food Engineering and Technology"
+    },
+    {
+      "room": "",
+      "name": "SannailaNandini",
+      "enrollmentNo": "MBI21004",
+      "department": "MBBT"
+    },
+    {
+      "room": "",
+      "name": "Mantipalli sony",
+      "enrollmentNo": "MBI21020",
+      "department": "MBBT"
+    },
+    {
+      "room": 321,
+      "name": "Banashree Kataky",
+      "enrollmentNo": "ASM21005",
+      "department": "Assamese"
+    },
+    {
+      "room": "",
+      "name": "Yugasmita Medhi",
+      "enrollmentNo": "EGL21010",
+      "department": "Linguistics & Language Technology"
+    },
+    {
+      "room": "",
+      "name": "Alina M Tungue",
+      "enrollmentNo": "EGL21006",
+      "department": "Linguistics & Language Technology"
+    },
+    {
+      "room": 322,
+      "name": "Debolina Bora",
+      "enrollmentNo": "ESE21010",
+      "department": "Environmental Science"
+    },
+    {
+      "room": "",
+      "name": "Priyam B Bora",
+      "enrollmentNo": "ESE21009",
+      "department": "Environmental Science"
+    },
+    {
+      "room": "",
+      "name": "Rachna Harlalka",
+      "enrollmentNo": "CSM21005",
+      "department": "Computer Science & Engineering"
+    },
+    {
+      "room": 323,
+      "name": "KAGO ONIYA",
+      "enrollmentNo": "EGE21009",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Plabita Sarmah",
+      "enrollmentNo": "EGL21020",
+      "department": "Linguistic & Language technology"
+    },
+    {
+      "room": "",
+      "name": "Shanti Das",
+      "enrollmentNo": "EGE21049",
+      "department": "English"
+    },
+    {
+      "room": 324,
+      "name": "Forzina Rosebin Hoque",
+      "enrollmentNo": "EGI21021",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Indrani Saikia",
+      "enrollmentNo": "ASM21016",
+      "department": "Assamese"
+    },
+    {
+      "room": "",
+      "name": "Hena Dihingia",
+      "enrollmentNo": "Edm21030",
+      "department": "Education"
+    },
+    {
+      "room": 325,
+      "name": "Bhagyashree Dutta",
+      "enrollmentNo": "ASM21006",
+      "department": "Assamese"
+    },
+    {
+      "room": "",
+      "name": "Meghali Devi",
+      "enrollmentNo": "ASM21007",
+      "department": "Assamese"
+    },
+    {
+      "room": "",
+      "name": "Debajani saikia",
+      "enrollmentNo": "ASM21019",
+      "department": "Assamese"
+    },
+    {
+      "room": 326,
+      "name": "Angana Patgiri",
+      "enrollmentNo": "EGI21011",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Anoushka Patgiri",
+      "enrollmentNo": "EGI21010",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "swagata Hazarika",
+      "enrollmentNo": "HIM21020",
+      "department": "Hindi"
+    },
+    {
+      "room": 327,
+      "name": "Anna Rongmei",
+      "enrollmentNo": "EGE21033",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Pratima Kashyap",
+      "enrollmentNo": "ASM21008",
+      "department": "Assamese"
+    },
+    {
+      "room": "",
+      "name": "Juri Gogoi",
+      "enrollmentNo": "ASM21004",
+      "department": "Assamese"
+    },
+    {
+      "room": 328,
+      "name": "Antarleena Chowdhury",
+      "enrollmentNo": "MBM21040",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Shreya  Bhattacharya",
+      "enrollmentNo": "MBM21036",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Naorem Sandhyarani Devi",
+      "enrollmentNo": "FEB21034",
+      "department": "Food Engineering and Technology"
+    },
+    {
+      "room": 329,
+      "name": "parismita Borah",
+      "enrollmentNo": "HIM21012",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Arijeeta Saikia",
+      "enrollmentNo": "Egi21012",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Barnika Hazarika",
+      "enrollmentNo": "Egi 21009",
+      "department": "English"
+    },
+    {
+      "room": 330,
+      "name": "Pallabi Saikia",
+      "enrollmentNo": "HIT21003",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Papari Ghosh",
+      "enrollmentNo": "ECB21040",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": "",
+      "name": "Prashanti Roy",
+      "enrollmentNo": "MEB21063",
+      "department": "Mechanical Engineering"
+    },
+    {
+      "room": "DORM",
+      "name": "Neha Biswakarma",
+      "enrollmentNo": "HIT21004",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Pranami Dutta",
+      "enrollmentNo": "HIT21005",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Rekhashree Borah",
+      "enrollmentNo": "HIM21029",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Kalyani Baruah",
+      "enrollmentNo": "HIM21014",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Pooja das",
+      "enrollmentNo": "HIM21027",
+      "department": "Hindi"
+    },
+    {
+      "room": "",
+      "name": "Nisha Talukdar",
+      "enrollmentNo": "EGI21023",
+      "department": "English"
+    },
+    {
+      "room": "",
+      "name": "Nibha Kumari",
+      "enrollmentNo": "ECB21080",
+      "department": "Electronics & Communication Engineering"
+    },
+    {
+      "room": "",
+      "name": "Dristi Bharali",
+      "enrollmentNo": "",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Jyotsna Baruah Mahanta",
+      "enrollmentNo": "EDB21032",
+      "department": ""
+    },
+    {
+      "room": "",
+      "name": "Priyanka Kumari",
+      "enrollmentNo": "CEB21072",
+      "department": "Civil Engineering"
+    }
+  ]
