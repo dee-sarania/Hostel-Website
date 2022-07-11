@@ -1,58 +1,169 @@
 <template>
-<div class="container">
+<div class="container mb-96">
+   <div>
+      <ul class="nav nav-tabs flex flex-col md:flex-row flex-wrap list-none border-b-0 pl-0 mb-4 " id="tabs-tab" role="tablist">
+         <li class="nav-item" role="presentation">
+            <a href="#tabs-home" class=" mt-48 nav-link block font-medium text-xs leading-tight uppercase border-x-0 border-t-0 border-b-2 border-transparent px-6 py-3 my-2 hover:border-transparent hover:bg-gray-100 focus:border-transparent active"
+               id="tabs-home-tab" data-bs-toggle="pill" data-bs-target="#tabs-home" role="tab" aria-controls="tabs-home" aria-selected="true">Home</a>
+         </li>
+  <li class="nav-item" role="presentation">
+    <a href="#tabs-profile" class="
+      nav-link
+      block
+      font-medium
+      text-xs
+      leading-tight
+      uppercase
+      border-x-0 border-t-0 border-b-2 border-transparent
+      px-6
+      py-3
+      my-2
+      hover:border-transparent hover:bg-gray-100
+      focus:border-transparent
+    " id="tabs-profile-tab" data-bs-toggle="pill" data-bs-target="#tabs-profile" role="tab"
+      aria-controls="tabs-profile" aria-selected="false">Profile</a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a href="#tabs-messages" class="
+      nav-link
+      block
+      font-medium
+      text-xs
+      leading-tight
+      uppercase
+      border-x-0 border-t-0 border-b-2 border-transparent
+      px-6
+      py-3
+      my-2
+      hover:border-transparent hover:bg-gray-100
+      focus:border-transparent
+    " id="tabs-messages-tab" data-bs-toggle="pill" data-bs-target="#tabs-messages" role="tab"
+      aria-controls="tabs-messages" aria-selected="false">Messages</a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a href="#tabs-contact" class="
+      nav-link
+      disabled
+      pointer-events-none
+      block
+      font-medium
+      text-xs
+      leading-tight
+      uppercase
+      border-x-0 border-t-0 border-b-2 border-transparent
+      px-6
+      py-3
+      my-2
+      hover:border-transparent hover:bg-gray-100
+      focus:border-transparent
+    " id="tabs-contact-tab" data-bs-toggle="pill" data-bs-target="#tabs-contact" role="tab"
+      aria-controls="tabs-contact" aria-selected="false">Contact</a>
+  </li>
+</ul>
+<div class="tab-content" id="tabs-tabContent">
+  <div class="tab-pane fade show active" id="tabs-home" role="tabpanel" aria-labelledby="tabs-home-tab">
+    Tab 1 content
+  </div>
+  <div class="tab-pane fade" id="tabs-profile" role="tabpanel" aria-labelledby="tabs-profile-tab">
+    Tab 2 content
+  </div>
+  <div class="tab-pane fade" id="tabs-messages" role="tabpanel" aria-labelledby="tabs-profile-tab">
+    Tab 3 content
+  </div>
+  <div class="tab-pane fade" id="tabs-contact" role="tabpanel" aria-labelledby="tabs-contact-tab">
+    Tab 4 content
+  </div>
+</div>
+     <!-- <ul class="flex items-center justify-center space-x-12 text-m font-inter">
+            <li class="nav-item mt-72">
+              <NuxtLink to="/" class="nav-link">
+              <a class="block mt-4 mr-4 lg:inline-block lg:mt-0  text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">WARDENS</a>
+              </NuxtLink>
+            </li>
 
-    <!--<div class=" h-80 bg-gray-100 flex flex-col justify-between items-stretch">
-        <div class="p-2 h-10 bg-yellow-200"> block 1</div>
-        <div class="p-2 bg-blue-200"> block 1</div>
-        <div class="p-2 bg-red-200"> block 1</div>
-        <div class="p-2 mb-90 bg-green-200"> block 1</div>
-          <h1> administration page</h1>
-        <div class="container p-30 mt-30 grid grid-rows-5 gap-4"> 
-        <div class="fix w-10 h-10"> <img src="icon.png"> </div>
-        <div class="fix"> 02 </div>
-        <div class="fix"> 03 </div>
-        <div class="fix"> 04 </div>
-        <div class="fix"> 05 </div> 
-        </div> -->
-     
-        
-          <div class="flex mb-4">
-              <div clsss="container flex mt-60">
-           <div class="w-1/4 bg-gray-400 h-48"></div>
-           <div class="w-1/2 bg-gray-500 h-48"></div>
-          </div>
-          </div>
+            <li class="nav-item mt-72">
+             <NuxtLink to="/prefects" class="nav-link">
+               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">PREFECTS</a>
+             </NuxtLink>
+            </li>
 
-        <div class=" flex  flex-row-reverse mt-20">
-           <div class="w-1/4 bg-gray-400 h-48"></div>
-           <div class="w-1/2 bg-gray-500 h-48"></div>
-        </div>
+            <li class="nav-item mt-72">
+             <NuxtLink to="/mess_managers" class="nav-link">
+               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">MESS MANAGERS</a>
+             </NuxtLink>
+            </li>  
 
-        <div class="flex  mt-20">
-           <div class="w-1/4 bg-gray-400 h-48"></div>
-           <div class="w-1/2 bg-gray-500 h-48"></div>
-        </div>
+            <li class="nav-item mt-72">
+             <NuxtLink to="/facilities" class="nav-link">
+               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">OFFICE STAFF</a>
+             </NuxtLink>
+            </li> 
 
-        <div class="flex flex-row-reverse mt-20">
-           <div class="w-1/4 bg-gray-400 h-48"></div>
-        <div class="w-1/2 bg-gray-500 h-48"></div>
-        </div>
-        
-        
-         </div>
-     </div>
-     </div>
-           
-    
-   
+            <li class="nav-item mt-72">
+             <NuxtLink to="/web_masters" class="nav-link">
+               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-red-200 font-bold tracking-wide mr-4">WEB MASTERS</a>
+             </NuxtLink>
+            </li> 
+      </ul> -->
+   </div>          
+            
+
+   <!-- administration informantion cards -->
+   <div class=" container flex items-center justify-center space-x-10">
+      <div class="transform transition duration-500 hover:scale-105">
+      <div class="mt-20 max-w-sm rounded overflow-hidden shadow-lg">
+         <img class="max-w-sm " src="/images/building2.jpeg" alt="Sunset in the mountains">
+            <div class="px-6 py-4">
+               <div class="font-semibold text-l mb-2 text-center">insert warden's name</div>
+               <p class="text-gray-700 text-base text-center">
+                 
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+               </p>
+            </div>
+      </div>
+      </div>
+
+
+      <div class="container transform transition duration-500 hover:scale-105"> 
+      <div class="max-w-sm mt-20 rounded overflow-hidden shadow-lg">
+         <img class="max-w-sm object-fill object-center" src="/images/building2.jpeg">
+            <div class="px-6 py-4">
+               <div class="font-semibold text-l mb-2 text-center">insert warden's name</div>
+               <p class="text-gray-700 text-base text-center">
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+               </p>
+            </div>
+      </div>
+      </div> 
+
+
+      <div class="transform transition duration-500 hover:scale-105">
+      <div class="max-w-sm mt-20 rounded overflow-hidden shadow-lg">
+         <img class="max-w-sm" src="/images/deansbuilding.jpeg" alt="Sunset in the mountains">
+            <div class="px-6 py-4">
+               <div class="font-semibold text-l mb-2 text-center">prefect name</div>
+               <p class="text-gray-700 text-base text-center">
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+               </p>
+            </div>
+      </div>
+      </div>            
+   </div>
+
+
+
+ 
+</div>
+
+
+
+
+
 </template>
 
 <style>
-.fix{
-    background-color: #064663;
-    width: 260px;
-    height: 120px;
 
 
-}
+
+
 </style>

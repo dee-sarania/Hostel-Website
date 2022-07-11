@@ -2,7 +2,7 @@
   <div>
     <Navbar/>
     <Nuxt/>
-    
+    <Footer/>
     
   </div>
 </template>
@@ -42,6 +42,9 @@ body {
 }
 .container {
   @apply w-full relative mx-auto;
-  max-width: 960px;
+  
+  max-width: 1024px;
 }
+
+   
 </style>

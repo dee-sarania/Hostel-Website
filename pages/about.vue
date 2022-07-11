@@ -1,11 +1,5 @@
 <template>
     <div>
-      <Gallery/>
+        <Gallery />
     </div>
 </template>
-
-<script>
-export default{
-    name: 'about'
-}
-</script>

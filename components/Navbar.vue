@@ -1,67 +1,73 @@
 <template>
   <div>
-    <nav class="nav">
-        <div class="top-header flex items-center justify-center p-2">
-          <NuxtLink to="/homepage" class="nav-link">
-            <img src="logo.png" class="w-20 h-20 rounded-full mr-4">
+    <nav class="fixed z-100 w-full h-32 bg-burgundy">
+    <!-- navbar with logo and title -->
+       <div class="top-header flex items-center justify-center space-x-26">
+          <NuxtLink to="/homepage" class="nav-link">  
+            <img src="logomain.jpeg" class="w-24 h-24">
           </NuxtLink >
-        <span class="font-semibold text-2xl tracking-tight logo mx-20 text-red-50">JIRI WOMEN'S HOSTEL </span>
+        <p class="font-semibold text-2xl tracking-normal text-red-50 logo mx-28">JIRI WOMEN'S HOSTEL </p>
          <div class="top-header flex items-center justify-center p-6">
-             <a href="http://www.tezu.ernet.in/"><img src="TU-logo.png" class="w-20 h-20"></a>
+             <a href="http://www.tezu.ernet.in/"><img src="tulogo.png" class="w-20 h-20"></a>
              
-         </div>   
-        </div>
+         </div>  
+        </div> 
 
-      <div class="container bottom-header p-6">
-          <ul class="flex items-center justify-center space-x-8 text-m font-inter">
+      <!-- lower navbar --> 
+      
+      <div class="z-100 p-6 bg-burgundy">
+          <ul class="flex items-center justify-center space-x-16 text-m font-inter">
             <li class="nav-item">
-              <NuxtLink to="/" class="nav-link">
-              <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> HOMEPAGE</a>
+              <NuxtLink to="/" class="nav-link block mt-4 mr-4 lg:inline-block lg:mt-0 text-white hover:text-red-200">
+                  HOMEPAGE
               </NuxtLink>
             </li>
 
             <li class="nav-item">
-             <NuxtLink to="/administration" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> ADMINISTRATION</a>
+             <NuxtLink to="/administration" class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+                ADMINISTRATION
              </NuxtLink>
             </li>
 
             <li class="nav-item">
-             <NuxtLink to="/facilities" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> FACILITIES</a>
+             <NuxtLink to="/facilities" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+               FACILITIES
              </NuxtLink>
             </li>   
             
              <li class="nav-item">
-             <NuxtLink to="/boarders" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> BOARDERS</a>
-             </NuxtLink>
-            </li>
-            <!-- <button @click="toggleVisibilty"    class=" block mt-4 lg:inline-block lg:mt-0 text-black hover:text-white mr-4" id="menu-btn"> BOARDERS </button>
-
-            <div class= "bg-gray-200 hidden flex-col rounded mt-1 p-2 text-sm w-32" id="dropdown">
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded"> Wing 1 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded"> Wing 2 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 3 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 4 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 5 </a>
-              <a href="#" class=" px-2 py-1 hover:bg-blue-300 rounded">Wing 6 </a>
-            </div> -->
+              <NuxtLink to="/boarders" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+               BOARDERS   
+              </NuxtLink>
+             </li>
 
             <li class="nav-item">
-             <NuxtLink to="/about" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> GALLERY</a>
-             </NuxtLink>
+              <NuxtLink to="/gallery" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+               GALLERY         
+              </NuxtLink>
             </li>
             
             <li class="nav-item">
-             <NuxtLink to="contact_us" class="nav-link">
-               <a class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4"> CONTACT US</a>
-             </NuxtLink>
+              <NuxtLink to="contact_us" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+               CONTACT
+              </NuxtLink>
             </li>
             
           </ul>
-      </div>
+      </div> 
+      
+
+
+    
+
+
+
+
+
+
+
+
+
     </nav>
   </div>
 </template>
@@ -81,13 +87,14 @@
          }
        
     </script> -->
-
+<!--
 <style>
 .nav{
     z-index:99;
     width:100%;
+    height: 128px;
     position:fixed;
-    background-color:#874356 ;
+    background-color:#874356;
     margin-top: 0px;
     
     
@@ -99,4 +106,4 @@
     text-align: center;
     
 }
-</style>
+</style> -->
