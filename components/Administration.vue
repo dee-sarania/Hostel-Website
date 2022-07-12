@@ -30,7 +30,7 @@
                      <div class="mb-2 text-left text-lg text-burgundy font-semibold capitalize">dr. saona seth</div>
                      <p class="text-base text-test text-left font-medium leading-relaxed">
                         Assistant Professor<br>Dept. of Applied Sciences <br> <b>Phone no:</b> 911234567839
-                        <br><b>Email:</b><a href="mailto:poonam@tezu.ernet.in"
+                        <br><b>Email:</b><a href="mailto:saonas@tezu.ernet.in"
                            class="hover:underline">saonas@tezu.ernet.in</a>
                      </p>
                   </div>
@@ -50,7 +50,7 @@
                      <div class="mb-2 text-lg text-burgundy font-bold capitalize">Preetishree Gogoi</div>
                      <p class="text-justify text-center text-base text-test font-medium font-medium leading-relaxed">
                         Prefect<br>Dept. of Mathematical Sciences <br> <b>Phone no:</b> 911234567839 <br><b>Email:</b><a
-                           href="mailto:poonam@tezu.ernet.in" class="hover:underline"> msi18009@tezu.ac.in</a>
+                           href="mailto:msi18009@tezu.ac.in" class="hover:underline"> msi18009@tezu.ac.in</a>
                      </p>
                   </div>
                </div>
@@ -64,7 +64,7 @@
                      <div class="mb-2 text-left text-lg text-burgundy font-semibold capitalize">kaberi changmai</div>
                      <p class="text-base text-test text-left font-medium leading-relaxed">
                         Assistant Prefect<br>Dept. of Mathematical Sciences <br> <b>Phone no:</b> 911234567839
-                        <br><b>Email:</b><a href="mailto:poonam@tezu.ernet.in" class="hover:underline">
+                        <br><b>Email:</b><a href="mailto:msi18014@tezu.ac.in" class="hover:underline">
                            msi18014@tezu.ac.in</a>
                      </p>
                   </div>
@@ -95,8 +95,7 @@
 
          <!-- mess convenor -->
          <div>
-            <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- Mess Convenor
-               -</p>
+            <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- Mess Convenor -</p>
          </div>
          <div class="container flex items-center justify-center space-x-40">
 

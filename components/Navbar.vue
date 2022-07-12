@@ -49,7 +49,7 @@
             
             <li class="nav-item">
               <NuxtLink to="contact_us" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
-               CONTACT
+               CONTACT US
               </NuxtLink>
             </li>
             
