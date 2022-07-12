@@ -1,5 +1,5 @@
 <template>
-<div class="bg">
+<div>
 
 <div class="container p-4 grid grid-cols-4 grid-rows-4 gap-3">  
       
