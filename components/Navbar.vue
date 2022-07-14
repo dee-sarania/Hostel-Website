@@ -1,22 +1,22 @@
 <template>
   <div>
-    <nav class="fixed z-100 w-full h-32 bg-burgundy md:w-full md:h-16"  id="top-header">
+    <nav class="fixed z-100 w-full lg:w-full max-h-24 md:max-h-32 bg-burgundy"  id="top-header">
     <!-- navbar with logo and title -->
-       <div class="top-header flex items-center justify-center space-x-26 sm:justify-center sm:items-center" >
+       <div class="top-header flex items-center justify-center space-x-20 lg:space-x-26 lg:justify-center lg:items-center" >
           <NuxtLink to="/" class="nav-link">  
-            <img src="logomain.jpeg" class="w-24 h-24 md:w-24 md:h-24">
+            <img src="logomain.jpeg" class="w-16 h-16 lg:w-24 lg:h-24">
           </NuxtLink >
-        <p class="font-semibold text-2xl tracking-normal text-white logo mx-28">JIRI WOMEN'S HOSTEL </p>
+        <p class="font-semibold text-lg lg:text-2xl tracking-normal text-white mx:16 lg:mx-28">JIRI WOMEN'S HOSTEL </p>
          <div class="top-header flex items-center justify-center p-6">
-             <a href="http://www.tezu.ernet.in/"><img src="tulogo.png" class="w-20 h-20"></a>
+             <a href="http://www.tezu.ernet.in/"><img src="tulogo.png" class="w-14 h-14 lg:w-20 lg:h-20"></a>
              
          </div>  
         </div> 
 
       <!-- lower navbar --> 
       
-      <div class="z-100 p-6 bg-burgundy">
-          <ul class="flex xl:items-center xl:justify-center xl:space-x-16 xl:text-m font-inter md:justify-between md:space-x-1.5 mobile:justify-center mobile:space-x-1.5">
+      <div class="block invisible md:visible z-100 md:p-6 bg-burgundy">
+          <ul class="flex lg:items-center lg:justify-center md:space-x-16 lg:text-m font-inter justify-between space-x-1.5">
             <li class="nav-item">
               <NuxtLink to="/" class="nav-link block mt-4 mr-4 lg:inline-block lg:mt-0 text-white hover:text-red-200">
                   HOMEPAGE

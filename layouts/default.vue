@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar v-if="renderPage" />
-    <Sidebar />
+    
     <Nuxt />
     <Footer v-if="renderPage" />
 

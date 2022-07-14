@@ -2,8 +2,8 @@
 <div class="bg-light_pink">
     <!-- main photo with the title card saying "welcome...." -->
     <div class=" flex mt-30 items-center justify-center">
-     <img src="hostel4.jpg" class=" flex w-full max-h-580 opacity-75 mt-48 mb-70 object-cover object-center ">
-     <div class="absolute w-full max-h-580 top-48 right-0 bottom-0 left-0 overflow-hidden bg-fixed bg-black opacity-20"></div>
+     <img src="hostel4.jpg" class=" flex w-full lg:max-h-580 opacity-75 mt-48 mb-70 object-cover object-center ">
+     <div class="absolute w-full max-h-96 lg:max-h-580 top-48 lg:top-48 right-0 bottom-0 left-0 overflow-hidden bg-fixed bg-black opacity-20"></div>
       <div class="flex items-center justify-center title_card">
         <h6 class="uppercase font-bold"> Welcome to the official website of Jiri Women's Hostel</h6>
       </div>
@@ -12,11 +12,11 @@
     <!-- about Jiri element -->
     <div class="w-full h-80 mt-20 mb-20">
         
-        <div class="container flex px-18 py-2 xl:space-x-28 md:space-x-16 ">
-            <img src="/images/building2.jpeg" class="mb-4 flex max-w-sm max-h-sm object-cover object-center justify-left opacity-90 md:max-h-72 transform transition duration-500 hover:scale-105">
+        <div class="container flex px-18 py-2 space-x-16 lg:space-x-28 ">
+            <img src="/images/building2.jpeg" class="mb-4 flex max-w-sm max-h-72 lg:max-h-96  object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105">
             <div>
-                <div class="container justify-left text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
-             <p class="container w-1/2 xl:mt-20 xl:pr-12 text-justify text-test xl:text-xl font-semibold leading-relaxed tracking-wide md:text-base md:pr-8 md:mt-16"> 
+                <div class="container justify-left text-burgundy lg:text-4xl text-2xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
+             <p class="container w-lg lg:w-1/2 mt-16 lg:mt-20 pr-8 lg:pr-12 text-justify text-base lg:text-xl font-semibold text-para leading-relaxed tracking-wide"> 
                 Jiri Women's Hostel was inaugurated on 26th May 2022 by Dr. Vinod Kumar Jain, Vice Chancellor of Tezpur University. <br>This hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from Boro Ninglo area of Dima Hasao district.<br> Recently built, Jiri Women's Hostel has excellent infrastructure and accomodates 200+ boarders. 
             </p>
             </div>
@@ -27,12 +27,11 @@
     </div> 
 
     <!-- facilities component -->
-    <div class="bg-burgundy w-full xl:mt-48 mb-78 py-4 md:mt-20">
-        <NuxtLink to="/facilities" class="nav-link"><div class=" py-4 text-red-500 xl:text-4xl md:text-2xl tracking-wide font-bold text-center text-light_pink ">Facitilies</div> </NuxtLink> <!-- clicking will lead to facilities page -->
+    <div class="bg-burgundy w-full mt-20 lg:mt-48 mb-78 py-4">
+        <NuxtLink to="/facilities" class="nav-link"><div class=" py-4 text-red-500 lg:text-4xl text-2xl tracking-wide font-bold text-center text-light_pink ">Facitilies</div> </NuxtLink> <!-- clicking will lead to facilities page -->
         
-        <div class="container flex py-6 mt-8 mb-20 justify-around item-center xl:space-x-6 md:space-x-">
+        <div class="container flex py-6 mt-8 mb-20 justify-around item-center space-x-6">
             <div class="transform transition duration-500 hover:scale-105">
-                <div class="md:max-w-xs md:max-h-xs">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="112.000000pt" height="112.000000pt"  viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
             <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
             <path d="M2385 4473 c-371 -44 -665 -154 -947 -356 -309 -221 -558 -552 -687 -912 -295 -828 13 -1755 744 -2240 628 -416 1412 -434 2060 -47 418 249 741 685 864 1165 47 181 56 256 56 477 0 266 -29 438 -111 658 -286 769 -1010 1270 -1821 1261 -70 -1 -141 -4 -158 -6z m499 -223 c896 -177 1501 -1015 1381 -1914 -55 -411 -262 -801 -564 -1062 l-86 -74 -3 152 c-2 84 0 177 3 205 6 48 8 52 25 43 30 -16 85 -11 113 10 30 24 131 179 182 279 49 98 110 284 132 401
@@ -58,7 +57,7 @@
 471 415 550 95 125 108 147 108 182 0 27 -7 48 -24 67 l-24 28 -211 3 -211 3
 0 494 0 493 -25 30 c-28 34 -56 42 -102 30z m-40 -1215 c27 -28 29 -28 182
 -33 l155 -5 -243 -321 -242 -322 -5 394 -5 394 -28 27 c-27 28 -29 28 -182 33
-l-155 5 243 321 242 322 5 -394 5 -394 28 -27z"> </path></g></svg></div>
+l-155 5 243 321 242 322 5 -394 5 -394 28 -27z"> </path></g></svg>
         <p class=" container mt-8 justify-center text-center font-semibold text-light_pink uppercase"> 24x7 power supply</p>
         </div>
 

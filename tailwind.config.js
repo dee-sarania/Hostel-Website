@@ -7,7 +7,7 @@ module.exports = {
     colors: {
       'light_pink': '#ffffff',
       'burgundy':'#874356',
-      'test': '#a9546c',
+      'para': '#a9546c',
       'test2': '#b76e82',
     },
     zIndex:{

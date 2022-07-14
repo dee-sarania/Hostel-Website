@@ -1,32 +1,38 @@
 <template>
-   <div class="header-margin pb-64">
+   <div class="header-margin pb-0 lg:pb-64">
       <div class="container">
          <!-- wardens informantion cards -->
          <div class="container w-full">
-            <p class="capitalize pt-28 justify-left text-4xl text-burgundy font-bold">administration</p>
-            <p class="mt-52 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- wardens -</p>
+            <p class="capitalize pt-0 lg:pt-28 text-center lg:justify-left text-2xl lg:text-4xl text-burgundy font-bold">administration</p>
+            <p class="mt-4 lg:mt-52 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
          </div>
          <ProfileCard :people="wardens" />
       </div>
 
       <!-- prefects information card -->
-      <div>
-         <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- prefects -</p>
+      <div class="container">
+      <div class="container w-full">
+         <p class="mt-28 lg:mt-60 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- prefects -</p>
       </div>
       <ProfileCard :people="prefects" />
+      </div>
 
       <!-- office staff -->
-      <div>
-         <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- office staff -</p>
+      <div class="container">
+      <div class="container justify-items-center">
+         <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- office staff -</p>
       </div>
       <ProfileCard :people="officeStaffs" />
+      </div>
 
       <!-- mess convenor -->
-      <div>
-         <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- Mess Convenor-</p>
-
+      <div class="container">
+      <div class="container justify-items-center">
+         <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Mess Convenor-</p>
+      </div>
          <ProfileCard :people="messConvenors" />
       </div>
+      
    </div>
 
 </template>
