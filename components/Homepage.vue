@@ -12,11 +12,11 @@
     <!-- about Jiri element -->
     <div class="w-full h-80 mt-20 mb-20">
         
-        <div class="container flex px-18 py-2 space-x-28">
-            <img src="/images/building2.jpeg" class="mb-4 flex max-w-sm max-h-sm object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105">
+        <div class="container flex px-18 py-2 xl:space-x-28 md:space-x-16 ">
+            <img src="/images/building2.jpeg" class="mb-4 flex max-w-sm max-h-sm object-cover object-center justify-left opacity-90 md:max-h-72 transform transition duration-500 hover:scale-105">
             <div>
-                <div class="container justify-left text-burgundy text-4xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
-             <p class=" container w-1/2 mt-20 pr-12 text-justify text-test text-xl font-semibold leading-relaxed tracking-wide"> 
+                <div class="container justify-left text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
+             <p class="container w-1/2 xl:mt-20 xl:pr-12 text-justify text-test xl:text-xl font-semibold leading-relaxed tracking-wide md:text-base md:pr-8 md:mt-16"> 
                 Jiri Women's Hostel was inaugurated on 26th May 2022 by Dr. Vinod Kumar Jain, Vice Chancellor of Tezpur University. <br>This hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from Boro Ninglo area of Dima Hasao district.<br> Recently built, Jiri Women's Hostel has excellent infrastructure and accomodates 200+ boarders. 
             </p>
             </div>
@@ -27,13 +27,14 @@
     </div> 
 
     <!-- facilities component -->
-    <div class="bg-burgundy w-full mt-48 mb-78 py-4">
-        <NuxtLink to="/facilities" class="nav-link"><div class=" py-4 text-red-500 text-4xl tracking-wide font-bold text-center text-light_pink">Facitilies</div> </NuxtLink> <!-- clicking will lead to facilities page -->
+    <div class="bg-burgundy w-full xl:mt-48 mb-78 py-4 md:mt-20">
+        <NuxtLink to="/facilities" class="nav-link"><div class=" py-4 text-red-500 xl:text-4xl md:text-2xl tracking-wide font-bold text-center text-light_pink ">Facitilies</div> </NuxtLink> <!-- clicking will lead to facilities page -->
         
-        <div class="container flex py-6 mt-8 mb-20 justify-around item-center space-x-6">
+        <div class="container flex py-6 mt-8 mb-20 justify-around item-center xl:space-x-6 md:space-x-">
             <div class="transform transition duration-500 hover:scale-105">
+                <div class="md:max-w-xs md:max-h-xs">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="112.000000pt" height="112.000000pt"  viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
-            <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#fae1e1" stroke="none">
+            <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
             <path d="M2385 4473 c-371 -44 -665 -154 -947 -356 -309 -221 -558 -552 -687 -912 -295 -828 13 -1755 744 -2240 628 -416 1412 -434 2060 -47 418 249 741 685 864 1165 47 181 56 256 56 477 0 266 -29 438 -111 658 -286 769 -1010 1270 -1821 1261 -70 -1 -141 -4 -158 -6z m499 -223 c896 -177 1501 -1015 1381 -1914 -55 -411 -262 -801 -564 -1062 l-86 -74 -3 152 c-2 84 0 177 3 205 6 48 8 52 25 43 30 -16 85 -11 113 10 30 24 131 179 182 279 49 98 110 284 132 401
 25 134 24 400 -1 535 -117 630 -591 1111 -1219 1237 -145 29 -412 31 -554 5
 -180 -33 -414 -121 -446 -168 -26 -36 -22 -95 7 -124 37 -37 71 -41 130 -15
@@ -57,13 +58,13 @@
 471 415 550 95 125 108 147 108 182 0 27 -7 48 -24 67 l-24 28 -211 3 -211 3
 0 494 0 493 -25 30 c-28 34 -56 42 -102 30z m-40 -1215 c27 -28 29 -28 182
 -33 l155 -5 -243 -321 -242 -322 -5 394 -5 394 -28 27 c-27 28 -29 28 -182 33
-l-155 5 243 321 242 322 5 -394 5 -394 28 -27z"> </path></g></svg>
+l-155 5 243 321 242 322 5 -394 5 -394 28 -27z"> </path></g></svg></div>
         <p class=" container mt-8 justify-center text-center font-semibold text-light_pink uppercase"> 24x7 power supply</p>
         </div>
 
     <div class="mt-2 transform transition duration-500 hover:scale-105">
         <svg class="fill-white" version="1.0" xmlns="http://www.w3.org/2000/svg" width="112.000000pt" height="112.000000pt"  viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
-        <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#fae1e1" stroke="none">
+        <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
         <path d="M1268 3755 c-14 -14 -28 -39 -32 -56 -3 -18 -6 -206 -6 -419 l0 -388 -117 -4 c-95 -4 -129 -9 -171 -28 -64 -28 -116 -85 -131 -145 -7 -30 -11 -245 -11 -665 0 -662 1 -674 48 -699 12 -6 39 -11 60 -11 33 0 45 6 66 31 25 30 26 34 26 175 l0 144 1560 0 1560 0 0 -144 c0 -141 1 -145 26 -175 21 -25 33 -31
 66 -31 52 0 77 14 94 55 19 46 21 1249 2 1323 -14 57 -84 131 -143 151 -22 7
 -93 15 -157 18 l-118 5 0 388 c0 213 -3 401 -6 419 -4 17 -18 42 -32 56 l-25
@@ -80,7 +81,7 @@ c0 251 10 245 -362 245 -368 0 -358 7 -358 -242 l0 -158 -105 0 -105 0 0 345
 
     <div class="transform transition duration-500 hover:scale-105"> 
         <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="112.000000pt" height="112.000000pt"  viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
-        <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#fae1e1" stroke="none">
+        <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
         <path d="M3571 4277 c-21 -24 -22 -36 -66 -1043 -25 -560 -47 -1056 -51 -1101
 l-6 -83 -1185 0 c-909 0 -1195 -3 -1227 -12 -53 -16 -118 -81 -134 -134 -15
 -53 -17 -641 -1 -697 13 -49 63 -105 114 -128 34 -16 68 -19 243 -19 l202 0 0
@@ -109,7 +110,7 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
 
         <div class="mt-6 transform transition duration-500 hover:scale-105"> 
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="76.000000pt" height="76.000000pt" viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
-            <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#fae1e1" stroke="none">
+            <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
             <path d="M51 5106 c-51 -28 -50 -14 -50 -711 -1 -730 -1 -731 69 -873 49 -98
 144 -199 238 -252 l62 -35 2 -1505 3 -1505 21 -46 c31 -66 78 -114 142 -146
 47 -23 70 -28 132 -28 125 0 222 62 274 174 l21 46 3 1505 3 1505 62 35 c93
@@ -168,8 +169,8 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
 
     <!-- Gallery in homepage -->
 
-    <div class="mt-32 mb-24">
-        <div class="container text-center text-burgundy text-4xl tracking-wide font-bold"> <NuxtLink to="/gallery" class="nav-link"> Gallery</NuxtLink> </div> 
+    <div class="xl:mt-32 mb-24 md:mt-20 ">
+        <div class="container text-center text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <NuxtLink to="/gallery" class="nav-link"> Gallery</NuxtLink> </div> 
         <div class="container flex flex-wrap px-12 py-6 grid  grid-flow-row-dense grid-cols-3 grid-rows-3 gap-6">
 
         

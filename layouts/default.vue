@@ -1,6 +1,7 @@
 <template>
   <div>
     <Navbar v-if="renderPage" />
+    <Sidebar />
     <Nuxt />
     <Footer v-if="renderPage" />
 
@@ -47,7 +48,7 @@ html {
 }
 
 body {
-  background-color: #fae1e1;
+  background-color: #ffffff;
 }
 
 ::-webkit-scrollbar {
@@ -72,4 +73,6 @@ body {
 .header-margin {
   padding-top: 175px;
 }
+
+
 </style>

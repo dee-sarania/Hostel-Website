@@ -5,7 +5,7 @@ module.exports = {
     extend: {
 
     colors: {
-      'light_pink': '#fae1e1',
+      'light_pink': '#ffffff',
       'burgundy':'#874356',
       'test': '#a9546c',
       'test2': '#b76e82',
@@ -16,6 +16,9 @@ module.exports = {
     spacing: {
       '580': '580px',
     },
+    screens:{
+      'mobile': '360px'
+    }
     },
   },
   variants: {

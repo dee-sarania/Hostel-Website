@@ -1,11 +1,49 @@
 <template>
-  <div>
-    <Administration/>
-  </div>
+   <div class="header-margin pb-64">
+      <div class="container">
+         <!-- wardens informantion cards -->
+         <div class="container w-full">
+            <p class="capitalize pt-28 justify-left text-4xl text-burgundy font-bold">administration</p>
+            <p class="mt-52 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- wardens -</p>
+         </div>
+         <ProfileCard :people="wardens" />
+      </div>
+
+      <!-- prefects information card -->
+      <div>
+         <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- prefects -</p>
+      </div>
+      <ProfileCard :people="prefects" />
+
+      <!-- office staff -->
+      <div>
+         <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- office staff -</p>
+      </div>
+      <ProfileCard :people="officeStaffs" />
+
+      <!-- mess convenor -->
+      <div>
+         <p class="mt-60 justify-center text-center capitalize text-3xl text-burgundy font-semibold">- Mess Convenor-</p>
+
+         <ProfileCard :people="messConvenors" />
+      </div>
+   </div>
+
 </template>
 
 <script>
-export default{
-  name: 'administration'
-}
+import { wardens, prefects, officeStaffs, messConvenors } from './../data/administrationDetails.js';
+export default {
+   data() {
+    return {
+         wardens,
+         prefects,
+         officeStaffs,
+         messConvenors
+      };
+   },
+};
 </script>
+<style scoped>
+
+</style>

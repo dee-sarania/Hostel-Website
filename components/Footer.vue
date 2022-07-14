@@ -1,10 +1,10 @@
 <template>
 <div class="bg-burgundy">
-  <div class="container justify-center items-center ml-14 py-14 text-center text-red-50 md:text-left ">
+  <div class="container justify-center items-center ml-14 py-14 text-center text-white md:text-left ">
     <!-- DOWNLOAD LINKS -->
     <div class="grid grid-1 md:grid-cols-3 lg:grid-cols-3 gap-8">
       <div>
-        <h6 class="uppercase font-semibold mb-4 text-red-50 md:justify-start">
+        <h6 class="uppercase font-semibold mb-4 text-white md:justify-start">
           DOWNLOAD LINKS
         </h6>
         <p class="mb-2">
@@ -26,7 +26,7 @@
 
     <!-- UNIVERSITY LINKS -->
       <div>
-        <h6 class="uppercase font-semibold mb-4 text-red-50 flex justify-center md:justify-start">
+        <h6 class="uppercase font-semibold mb-4 text-white flex justify-center md:justify-start">
           UNIVERSITY LINKS
         </h6>
          <p class="mb-2">
@@ -53,7 +53,7 @@
        </div>
 
        <!-- CONTACT -->
-      <div class="text-red-50">
+      <div class="text-white">
         <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
           Contact Us
         </h6>
@@ -92,7 +92,7 @@
   </div>
   
   <!-- COPYRIGHT -->
-<div class="border-t border-light_pink bg-burgundy text-red-200 py-2">
+<div class="border-t border-light_pink bg-burgundy text-white py-2">
     <span class="container flex justify-center align-center py-2">© Copyright 2022: Jiri Women's Hostel, Tezpur University, Napaam, Tezpur, 784028</span>
 
 </div> 

@@ -35,7 +35,5 @@
 
 
 <style scoped>
-.bg{
-  background-color:#fae1e1 ;
-}
+
 </style>

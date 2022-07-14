@@ -1,12 +1,12 @@
 <template>
   <div>
-    <nav class="fixed z-100 w-full h-32 bg-burgundy"  id="top-header">
+    <nav class="fixed z-100 w-full h-32 bg-burgundy md:w-full md:h-16"  id="top-header">
     <!-- navbar with logo and title -->
-       <div class="top-header flex items-center justify-center space-x-26">
+       <div class="top-header flex items-center justify-center space-x-26 sm:justify-center sm:items-center" >
           <NuxtLink to="/" class="nav-link">  
-            <img src="logomain.jpeg" class="w-24 h-24">
+            <img src="logomain.jpeg" class="w-24 h-24 md:w-24 md:h-24">
           </NuxtLink >
-        <p class="font-semibold text-2xl tracking-normal text-red-50 logo mx-28">JIRI WOMEN'S HOSTEL </p>
+        <p class="font-semibold text-2xl tracking-normal text-white logo mx-28">JIRI WOMEN'S HOSTEL </p>
          <div class="top-header flex items-center justify-center p-6">
              <a href="http://www.tezu.ernet.in/"><img src="tulogo.png" class="w-20 h-20"></a>
              
@@ -16,7 +16,7 @@
       <!-- lower navbar --> 
       
       <div class="z-100 p-6 bg-burgundy">
-          <ul class="flex items-center justify-center space-x-16 text-m font-inter">
+          <ul class="flex xl:items-center xl:justify-center xl:space-x-16 xl:text-m font-inter md:justify-between md:space-x-1.5 mobile:justify-center mobile:space-x-1.5">
             <li class="nav-item">
               <NuxtLink to="/" class="nav-link block mt-4 mr-4 lg:inline-block lg:mt-0 text-white hover:text-red-200">
                   HOMEPAGE
@@ -24,31 +24,31 @@
             </li>
 
             <li class="nav-item">
-             <NuxtLink to="/administration" class="block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+             <NuxtLink to="/administration" class="block mt-4 lg:inline-block lg:mt-0 text-white hover:text-red-200 mr-4">
                 ADMINISTRATION
              </NuxtLink>
             </li>
 
             <li class="nav-item">
-             <NuxtLink to="/facilities" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+             <NuxtLink to="/facilities" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-white hover:text-red-200 mr-4">
                FACILITIES
              </NuxtLink>
             </li>   
             
              <li class="nav-item">
-              <NuxtLink to="/boarders" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+              <NuxtLink to="/boarders" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-white hover:text-red-200 mr-4">
                BOARDERS   
               </NuxtLink>
              </li>
 
             <li class="nav-item">
-              <NuxtLink to="/gallery" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+              <NuxtLink to="/gallery" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-white hover:text-red-200 mr-4">
                GALLERY         
               </NuxtLink>
             </li>
             
             <li class="nav-item">
-              <NuxtLink to="contact_us" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-red-50 hover:text-red-200 mr-4">
+              <NuxtLink to="contact_us" class="nav-link block mt-4 lg:inline-block lg:mt-0 text-white hover:text-red-200 mr-4">
                CONTACT US
               </NuxtLink>
             </li>
@@ -102,42 +102,6 @@ export default {
 }
 </script>
 
-<!--<script>
-       export default{
-         data(){
-           return{
-             isVisble: false
-           };
-           };
-         };
-         methods:{
-           toggleVisibilty(){
-             this.isVisble= !this.isVisble;
-           }
-         }
-       
-    </script> -->
-<!--
-<style>
-.nav{
-    z-index:99;
-    width:100%;
-    height: 128px;
-    position:fixed;
-    background-color:#874356;
-    margin-top: 0px;
-    
-    
-}
-    
-
-.logo{
-    display:inline-block;
-    text-align: center;
-    
-}
-</style> -->
-
 <style scoped>
 #top-header {
     position: fixed;
@@ -148,10 +112,10 @@ export default {
     -webkit-transform: translate3d(0,0,0);
     -moz-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
-    -webkit-transition: -webkit-transform .3s;
-    -moz-transition: -moz-transform .3s;
-    -o-transition: transform .3s;
-    transition: transform .3s;
+    -webkit-transition: -webkit-transform .4s;
+    -moz-transition: -moz-transform .4s;
+    -o-transition: transform .4s;
+    transition: transform .4s;
 }
 #top-header.scrolled {
     /* subtract your height */
