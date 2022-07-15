@@ -34,11 +34,15 @@ export default {
   transition: 1.5s;
     transform: scale(1.35);
   }
+  .card > .image-cover > .card-image{
+
+ transition: 1.5s;
+    transform: scale(1);
+  }
   .card{
     border-top-right-radius: 20px;
     border-bottom-left-radius: 20px;
     overflow: hidden;
-
 
   }
   .card:hover{
