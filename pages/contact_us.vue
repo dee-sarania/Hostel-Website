@@ -4,7 +4,7 @@
     <div class="container w-full">
       <p class="mt-32 justify-center text-center capitalize text-4xl text-burgundy font-semibold">- Web Masters -</p>
     </div>
-      <ProfileCard2 :creators= "webMasters" />
+      <ContactCard :creators= "webMasters" />
   </div>
   </div>
 </template>

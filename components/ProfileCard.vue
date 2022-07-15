@@ -5,10 +5,10 @@
                 <img class="max-h-52 lg:max-h-full lg:max-w-sm object-center" :src="`${p.image}`">
                 <div class="text-para p-4 lg:p-8 leading-relaxed">
                     <h4 class="text-sm lg:text-xl text-burgundy font-bold capitalize">{{ p.name }}</h4>
-                    <p class="text-sm lg:text-lg" >{{ p.designation }}</p>
-                    <p class="text-sm lg:text-lg" >{{ p.department }}</p>
-                    <p class="pt-5 text-sm lg:text-lg"><span class="font-bold">Phone no:</span>&nbsp;{{ p.phoneNo }}</p>
-                    <p class="text-sm lg:text-lg"><span class="font-bold">Email:</span> <a :href="`mailto:${p.email}`" class="hover:underline">{{
+                    <p class="" >{{ p.designation }}</p>
+                    <p class="" >{{ p.department }}</p>
+                    <p class="pt-5 "><span class="font-bold">Phone no:</span>&nbsp;{{ p.phoneNo }}</p>
+                    <p class=""><span class="font-bold">Email:</span> <a :href="`mailto:${p.email}`" class="hover:underline">{{
                             p.email
                     }}</a></p>
                 </div>

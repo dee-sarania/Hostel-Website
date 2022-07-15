@@ -8,7 +8,8 @@ module.exports = {
       'light_pink': '#ffffff',
       'burgundy':'#874356',
       'para': '#a9546c',
-      'test2': '#b76e82',
+      'error': '#ff767f',
+      'error2':'#c43f46'
     },
     zIndex:{
         '100':'100',

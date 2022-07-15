@@ -48,4 +48,4 @@ export default {
 .admin-header{
    @apply mt-32 justify-center text-center capitalize text-3xl text-burgundy font-semibold
 }
-</style>
+</style> text-sm lg:text-xl
