@@ -9,6 +9,8 @@
       </div>
     </div>
 
+    <Carousel />
+
     <!-- about Jiri element -->
     <div class="w-full h-80 mt-20 mb-20">
         
