@@ -2,12 +2,12 @@ export const rooms = [
     {
         "title":"Boarder's room",
         "image":"/facilityPhoto/boarder.jpg",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+        "description":"currently a three-sitter in a room made for two, it may seem congusted and it is but hey it is what it is "
     },
     {
         "title":"Common room",
         "image":"/facilityPhoto/no photo.png",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+        "description":"common room ke naam pe dhoka"
     },
     {
         "title":"Dorm",
@@ -103,7 +103,7 @@ export const gen = [
     {
         "title":"Cycle Stand",
         "image":"/facilityPhoto/no photo.png",
-        "description":"not yet built, but we are hoping to use it someday."
+        "description":"in terms of cycle stand, we have no cycle stand."
     },
 
     {
