@@ -2,40 +2,27 @@
 <div class="header-margin">
 <p class="capitalize pt-0 lg:pt-28 text-center lg:text-center text-2xl lg:text-4xl text-burgundy font-bold">- Gallery -</p>
 
-<div class="px-56 grid grid-row-dense grid-cols-4 grid-rows-4 gap-4">  
-      
-  <div class="mt-24 bg-burgundy transform transition duration-500 hover:scale-105">
-     </div>
-  <div class="mt-24 bg-burgundy transform transition duration-500 hover:scale-105">
-      </div>
-  <div class="mt-24 bg-burgundy transform transition duration-500 hover:scale-105">
-     </div>
-  <div class="mt-24 bg-burgundy transform transition duration-500 hover:scale-105">
-      
-  </div>
-  <div class="mb-60 bg-blue-500 col-span-3 row-span-3">
-    
-  </div>
-  <div class="bg-blue-500 transform transition duration-500 hover:scale-105">
-      </div>
-  <div class="bg-blue-500 transform transition duration-500 hover:scale-105">
-    
-  </div>
-  <div class="bg-blue-500 mb-60 transform transition duration-500 hover:scale-105">
-    
-  </div>
-</div>
+<div class="px-56 pt-20 grid grid-flow-row-dense grid-cols-3 grid-rows-2 gap-4">  
+  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img src="\caro4.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\WhatsApp Image 2022-05-01 at 11.34.36 AM.jpeg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro1.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro2.jpg"></div></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\IMG-20220313-WA0004 - Priya Seram.jpg"></div> </div>
 
-<div class="px-56 mb-60 grid grid-cols-3 grid-row-4 gap-4">
-  <div class="bg-burgundy p-4">01</div>
-  <div class="bg-burgundy p-4">02</div>
-  <div class="bg-burgundy p-4">03</div>
-  <div class="col-span-2 bg-burgundy ">04</div>
-  <div class="bg-burgundy p-4">05</div>
-  <div class="bg-burgundy p-4">06</div>
-  <div class="col-span-2 bg-burgundy">07</div>
+<div class="px-56 pt-4 mb-20 grid grid-flow-row-dense grid-cols-4 grid-rows-4 gap-4"> 
+    <div class="overflow-hidden"><div class="bg-blue-500 h-64 transform transition duration-700 hover:scale-110"><img class="h-64 object-cover object-center" src="\bihu.jpeg"></div></div>
+    <div class="overflow-hidden"><div class="bg-blue-500 h-64 transform transition duration-700 hover:scale-110"><img class="h-64 object-cover object-center" src="\hostelview.jpeg"> </div></div>
+  
+    <div class="overflow-hidden"><div class="bg-blue-500 h-64 transform transition duration-700 hover:scale-110"><img class="h-64 object-cover object-center" src="\images\photo.jpg"></div></div>
+    <div class="overflow-hidden"><div class="bg-blue-500 h-64 transform transition duration-700 hover:scale-110"><img class="h-64 object-cover object-center" src="\C8B98281-BB9C-47DA-B083-8C181419AD1A - Priya Seram.jpeg"></div></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-2 transform transition duration-700 hover:scale-110"><img class="object-cover object-center" src="\WhatsApp Image 2022-07-10 at 2.46.02 PM.jpeg"></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1 transform transition duration-700 hover:scale-110"><img class="container h-64 w-full object-cover object-center" src="\IMG_5745 - Anamika Mohari.JPG"></div>
+    <div class="overflow-hidden"><div class="bg-blue-500 h-64 transform transition duration-700 hover:scale-110"><img class="h-64 object-cover object-center" src="\corridor.jpg"></div></div>
+    <div class="overflow-hidden"><div class="bg-blue-500 h-64 transform transition duration-700 hover:scale-110"><img class="h-64 object-cover object-center" src="\dark.jpg"></div></div>
 </div>
 </div>   
+
+
 
    
 </template>

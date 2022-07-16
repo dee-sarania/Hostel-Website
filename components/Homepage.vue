@@ -191,56 +191,20 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
 
     <div class="xl:mt-32 mb-24 md:mt-20 ">
         <div class="container text-center text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <NuxtLink to="/gallery" class="nav-link"> Gallery</NuxtLink> </div> 
-        <div class="container flex flex-wrap px-12 py-6 grid  grid-flow-row-dense grid-cols-3 grid-rows-3 gap-6">
+       <div class="px-56 pt-20 grid grid-flow-row-dense grid-cols-3 grid-rows-3 gap-4">  
+  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img src="\caro4.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\WhatsApp Image 2022-05-01 at 11.34.36 AM.jpeg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro1.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro2.jpg"></div></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro2.jpg"></div></div>
+    
 
-        
-        
-        
-        <div>
-          <img class="object-cover" src="/images/building2.jpeg" >
-        </div>
-        <div>
-         <img class="object-cover" src="/images/building2.jpeg" >
-        </div>
-        <div>
-         <img class="object-cover" src="/images/building2.jpeg" >
-        </div>
-        
-        <div>
-         <img class="object-cover" src="/images/9to16.jpg" >
-        
-        </div>
-        <div class="h-1/2">
-         <img src="/images/16to9.jpg" >
-        </div>
-        
-        <div>
-         <img class="grid col-span-2 gap-6 object-cover " src="/images/4to3.jpg" >
-        </div>
-       
-        <div>
-         <img src="/images/building2.jpeg" >
-        </div>
-         
-        <div>
-         <img src="/images/building2.jpeg" >
-        </div>
-       
-          <div class="">
-         <img src="/images/jobhimain.jpeg" >
-        </div>
-        <div>
-         <img src="/images/building.jpeg" >
-        </div>
-        <div>
-         <img src="/images/building2.jpeg" >
-        </div>
-        <div>
-         <img src="images/building2.jpeg" >
-        </div>
-    </div> 
     </div>
     </div>
+    </div>
+
 
       
 </template>
