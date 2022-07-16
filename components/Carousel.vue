@@ -3,10 +3,17 @@
         <client-only>
             <splide :options="options">
                 <splide-slide>
-                    <img class="w-full h-full object-cover" src="https://images.unsplash.com/photo-1657866203466-d8aaa7fbad22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60" />
+                    <img class="w-full h-full object-cover object-center" src="\hostel4.jpg" />
+                    <h1 class="mt-96 z-100 text-black font-semibold text-center">fefewrgrg</h1>
                 </splide-slide>
                 <splide-slide>
-                    <img  class="w-full h-full object-cover"  src="https://images.unsplash.com/photo-1657866203466-d8aaa7fbad22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60" />
+                    <img  class="w-full h-full object-cover"  src="\caro2.jpg" />
+                </splide-slide>
+                <splide-slide>
+                    <img  class="w-full h-full object-cover object-left-top"  src="\bihu.jpeg" />
+                </splide-slide>
+                <splide-slide>
+                    <img  class="w-full h-full object-cover"  src="\caro4.jpg" />
                 </splide-slide>
             </splide>
         </client-only>
@@ -18,11 +25,20 @@ export default {
     data() {
         return {
             options: {
+                start:0,
                 rewind: true,
-                height: 500,
+                height: 600,
                 perPage: 1,
                 gap: '1rem',
+                autoplay:true,
+                interval:5000,
+                pauseOnHover: false
             },
+
+            type: {
+                loop: true,
+                slide: true,
+            }
         };
     },
 }

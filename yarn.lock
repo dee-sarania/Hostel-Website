@@ -1729,6 +1729,27 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@splidejs/splide-extension-video@^0.4.6":
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/@splidejs/splide-extension-video/-/splide-extension-video-0.4.6.tgz#fe832e0a2f87a56896e800aead73e6ef78f2cb96"
+  integrity sha512-UEqxkuYClYDhV+DsX9384wKj6FWwWN3HUvUXcNPVKZiHvh0Zn0t1M2w/hcDRJ3VtCxFhx92Kgzlkf22HqdyF+g==
+  dependencies:
+    "@vimeo/player" "^2.10.0"
+
+"@splidejs/splide@^2.4.13":
+  version "2.4.21"
+  resolved "https://registry.yarnpkg.com/@splidejs/splide/-/splide-2.4.21.tgz#ad1954d8d8822c9bfea0d3dc6a119358b88581ad"
+  integrity sha512-LdIwSnmNsGybCCnA3QG2dOeRv/rQl46jf7FflXxMGX0ADYWyL6UJHWJbMZvHBi5I67uRJY1ga/W+CvJ39nH26A==
+
+"@splidejs/vue-splide@0.3.5":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@splidejs/vue-splide/-/vue-splide-0.3.5.tgz#375d3c615fd88c612f46b8029b4ad2007ad6991b"
+  integrity sha512-eI4Kl2v+yAGKMVa9MtfIIPPZtplTfKPx4rCJlZqfethl3tCOGQwL9MxSyLk6bUhl31aOuClxmXQv8O5ubU8fNQ==
+  dependencies:
+    "@splidejs/splide" "^2.4.13"
+    "@splidejs/splide-extension-video" "^0.4.6"
+    vue "^2.6.12"
+
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.npmjs.org/@tootallnate/once/-/once-1.1.2.tgz"
@@ -2123,6 +2144,14 @@
   integrity sha512-T8Yc9wt/5LbJyCaLiHPReJa0kApcIgJ7Bn735GjItUfh08Z1pJvu8QZqb9s+mMvKV6WUQRV7K2R46YbjMXTTJw==
   dependencies:
     "@types/yargs-parser" "*"
+
+"@vimeo/player@^2.10.0":
+  version "2.17.1"
+  resolved "https://registry.yarnpkg.com/@vimeo/player/-/player-2.17.1.tgz#613f722aaafc18bb7dad73c58f1b9ad3e3996b2a"
+  integrity sha512-M8uMYiOwFkqD070/pO/CuRmwKvnHBmEZKckt5C2tAaMhlldzui+lUC5zMFzO0RDPmIXwg1WdDxaJnzuic6ll/A==
+  dependencies:
+    native-promise-only "0.8.1"
+    weakmap-polyfill "2.0.4"
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.2.1":
   version "1.2.1"
@@ -7718,6 +7747,11 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
+native-promise-only@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/native-promise-only/-/native-promise-only-0.8.1.tgz#20a318c30cb45f71fe7adfbf7b21c99c1472ef11"
+  integrity sha512-zkVhZUA3y8mbz652WrL5x0fB0ehrBkulWT3TomAQ9iDtyXZvzKeEA6GPxAItBYeNYl5yngKRX612qHOhvMkDeg==
+
 natural-compare@^1.4.0:
   version "1.4.0"
   resolved "https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz"
@@ -11423,6 +11457,11 @@ watchpack@^1.7.4:
   optionalDependencies:
     chokidar "^3.4.1"
     watchpack-chokidar2 "^2.0.1"
+
+weakmap-polyfill@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/weakmap-polyfill/-/weakmap-polyfill-2.0.4.tgz#bcc301e4c8eb4eda3e406f08f1a691093e407884"
+  integrity sha512-ZzxBf288iALJseijWelmECm/1x7ZwQn3sMYIkDr2VvZp7r6SEKuT8D0O9Wiq6L9Nl5mazrOMcmiZE/2NCenaxw==
 
 web-namespaces@^1.0.0:
   version "1.1.4"

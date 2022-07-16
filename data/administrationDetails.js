@@ -1,7 +1,7 @@
 export const wardens= [
     {
       "name": "Dr. Poonam Mishra",
-      "image": "/images/noimage.jpeg",
+      "image": "/warden1.jpeg",
       "designation": "Senior Warden",
       "department": "Dept. of Food Engg. & Technology",
       "phoneNo": "+91 9876542413",
@@ -19,7 +19,7 @@ export const wardens= [
 export const prefects=[
     {
         "name": "Preetishree Gogoi",
-        "image":"/images/noimage.jpeg",
+        "image":"/caro3.jpg",
         "designation": "Prefect",
         "department": "Dept. of Mathematical Sciences",
         "phoneNo": "919876542413",

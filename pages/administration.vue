@@ -2,9 +2,9 @@
    <div class="header-margin pb-0 lg:pb-64">
       <div class="container">
          <!-- wardens informantion cards -->
-         <div class="container w-full">
+         <div>
             <p class="capitalize pt-0 lg:pt-28 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold">administration</p>
-            <p class="mt-4 lg:mt-52 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
+            <p class="mt-4 lg:mt-20 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
          </div>
          <ProfileCard :people="wardens" />
       </div>

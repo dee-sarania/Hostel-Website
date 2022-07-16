@@ -1,13 +1,13 @@
 <template>
 <div class="bg-light_pink">
     <!-- main photo with the title card saying "welcome...." -->
-    <div class=" flex mt-30 items-center justify-center">
+   <!-- <div class=" flex mt-30 items-center justify-center">
      <img src="hostel4.jpg" class=" flex w-full lg:max-h-580 opacity-75 mt-48 mb-70 object-cover object-center ">
      <div class="absolute w-full max-h-96 lg:max-h-580 top-48 lg:top-48 right-0 bottom-0 left-0 overflow-hidden bg-fixed bg-black opacity-20"></div>
       <div class="flex items-center justify-center title_card">
         <h6 class="uppercase font-bold"> Welcome to the official website of Jiri Women's Hostel</h6>
       </div>
-    </div>
+    </div> -->
 
     <Carousel />
 
