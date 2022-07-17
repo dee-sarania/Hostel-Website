@@ -86,7 +86,7 @@ export default {
        if ( isDown && !navClasses.contains('scrolled') && currentScroll > 65){
           // scrolling down, didn't add class yet
           navClasses.add('scrolled'); // we hide the navbar
-       } else if ( !isDown ){
+       } else if ( !isDown && currentScroll <= 65 ){
           // scrolling up
           navClasses.remove('scrolled'); // won't error if no class found
        }
