@@ -3,7 +3,7 @@
         <client-only>
             <splide :options="options">
                 <splide-slide>
-                    <img class="w-full h-full object-cover object-center" src="\hostel4.jpg" />
+                    <img class="w-full h-full object-cover object-center" src="\sunset.jpg" />
                     <h1 class="mt-96 z-100 text-black font-semibold text-center">fefewrgrg</h1>
                 </splide-slide>
                 <splide-slide>
