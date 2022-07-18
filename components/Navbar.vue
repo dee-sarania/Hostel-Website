@@ -15,7 +15,7 @@
 
       <!-- lower navbar --> 
       
-      <div class="block invisible md:visible z-100 md:p-6 bg-burgundy">
+      <div class="block invisible md:visible z-100 md:p-6 bg-burgundy shadow-lg">
           <ul class="flex lg:items-center lg:justify-center md:space-x-16 lg:text-m font-inter justify-between space-x-1.5">
             <li class="nav-item">
               <NuxtLink to="/" class="nav-link block mt-4 mr-4 lg:inline-block lg:mt-0 text-white hover:text-red-200">

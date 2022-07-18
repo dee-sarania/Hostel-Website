@@ -39,9 +39,6 @@
           <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">> Central Library</a>
         </p>
         <p class="mb-2">
-          <a href="#!" class="hover:text-red-200">> Holiday List</a>
-        </p>
-        <p class="mb-2">
           <a href="http://www.tezu.ernet.in/contact/utility.html" class="hover:text-red-200">> Campus Utility Services</a>
         </p>
         <p class="mb-2">
