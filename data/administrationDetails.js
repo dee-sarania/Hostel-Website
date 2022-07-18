@@ -1,7 +1,7 @@
 export const wardens= [
     {
       "name": "Dr. Poonam Mishra",
-      "image": "/warden1.jpeg",
+      "image": "/images/profile/WhatsApp Image 2022-07-10 at 2.46.02 PM (1).jpeg",
       "designation": "Senior Warden",
       "department": "Dept. of Food Engg. & Technology",
       "phoneNo": "+91 9876542413",
@@ -9,7 +9,7 @@ export const wardens= [
     },
     {
         "name": "Dr. Saona Seth",
-        "image":"/images/noimage.jpeg",
+        "image":"/images/profile/noimage.jpeg",
         "designation": "Warden",
         "department": "Dept. of Applied Sciences",
         "phoneNo": "+91 9876542413",
@@ -19,7 +19,7 @@ export const wardens= [
 export const prefects=[
     {
         "name": "Preetishree Gogoi",
-        "image":"/caro3.jpg",
+        "image":"images/profile/caro3.jpg",
         "designation": "Prefect",
         "department": "Dept. of Mathematical Sciences",
         "phoneNo": "919876542413",
@@ -27,7 +27,7 @@ export const prefects=[
     },
     {
         "name": "Kaberi Changmai",
-        "image":"/images/noimage.jpeg",
+        "image":"/images/profile/noimage.jpeg",
         "designation": "Assistant Prefect",
         "department": "Dept. of Mathematical Sciences",
         "phoneNo": "919876542413",
@@ -37,7 +37,7 @@ export const prefects=[
 export const officeStaffs=[
     {
         "name": "firstname surname",
-        "image":"/images/noimage.jpeg",
+        "image":"/images/profile/noimage.jpeg",
         "designation": "Caretaker",
         "department": "",
         "phoneNo": "919876542413",
@@ -48,7 +48,7 @@ export const messConvenors=[
 
     {
         "name": "firstname surname",
-        "image":"/images/noimage.jpeg",
+        "image":"/images/profile/noimage.jpeg",
         "designation": "Mess Convenor",
         "department": "Dept. of ",
         "phoneNo": "919876542413",

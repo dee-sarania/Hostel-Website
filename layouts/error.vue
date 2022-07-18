@@ -1,6 +1,6 @@
 <template>
     <div class="container w-1/2 h-96">
-     <img class="container flex justify-center" src="/3747371.jpg"> 
+     <img class="container flex justify-center" src="/icons/3747371.jpg"> 
      <p class="mt-20 text-error text-center text-6xl font-extrabold">SEEMS LIKE YOU'RE LOST</p>
     <div class="flex mt-8 justify-center">
         <NuxtLink to="/" class="nav-link">

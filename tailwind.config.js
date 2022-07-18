@@ -15,7 +15,7 @@ module.exports = {
         '100':'100',
       },
     spacing: {
-      '580': '580px',
+      '520': '520px',
     },
     screens:{
       'mobile': '360px'

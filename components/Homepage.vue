@@ -15,7 +15,7 @@
     <div class="w-full h-80 mt-20 mb-20">
         
         <div class="container flex px-18 py-2 space-x-16 lg:space-x-28 ">
-            <img src="/images/building2.jpeg" class="mb-4 flex max-w-sm max-h-72 lg:max-h-96  object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105">
+            <img src="/images/hostel.jpeg" class="mb-4 flex max-w-sm max-h-72 lg:max-h-96  object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105">
             <div>
                 <div class="container justify-left text-burgundy lg:text-4xl text-2xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
              <p class="container w-lg lg:w-1/2 mt-16 lg:mt-20 pr-8 lg:pr-12 text-justify text-base lg:text-xl font-semibold text-para leading-relaxed tracking-wide"> 
@@ -192,13 +192,13 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
     <div class="xl:mt-32 mb-24 md:mt-20 ">
         <div class="container text-center text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <NuxtLink to="/gallery" class="nav-link"> Gallery</NuxtLink> </div> 
        <div class="px-56 pt-20 grid grid-flow-row-dense grid-cols-3 grid-rows-3 gap-4">  
-  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img src="\caro4.jpg"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\WhatsApp Image 2022-05-01 at 11.34.36 AM.jpeg"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro1.jpg"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro2.jpg"></div></div>
-    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
-    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\caro2.jpg"></div></div>
+  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img src="\images\caro4.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\WhatsApp Image 2022-05-01 at 11.34.36 AM.jpeg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\caro1.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\caro2.jpg"></div></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images/caro2.jpg"></div></div>
     
 
     </div>

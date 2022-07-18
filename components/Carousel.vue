@@ -3,17 +3,20 @@
         <client-only>
             <splide :options="options">
                 <splide-slide>
-                    <img class="w-full h-full object-cover object-center" src="\sunset.jpg" />
-                    <h1 class="mt-96 z-100 text-black font-semibold text-center">fefewrgrg</h1>
+                    <div class="absolute left-0 right-0 w-full"><h1 class="mt-80 text-white text-5xl font-semibold text-center opacity-90 uppercase">Welcome to </h1> &nbsp;
+                    <h2 class=" text-white text-5xl font-semibold text-center opacity-90 uppercase">Jiri Women's Hostel</h2></div>
+                    <img class="w-full h-full object-cover object-center" src="\images\main.jpg" />
+                    
+                    
+                </splide-slide>  
+                <splide-slide>
+                    <img  class="w-full h-full object-cover"  src="\images\inauguration2.jpg" />
                 </splide-slide>
                 <splide-slide>
-                    <img  class="w-full h-full object-cover"  src="\caro2.jpg" />
+                    <img  class="w-full h-full object-cover object-left-top"  src="\images\inauguration13.jpeg" />
                 </splide-slide>
                 <splide-slide>
-                    <img  class="w-full h-full object-cover object-left-top"  src="\bihu.jpeg" />
-                </splide-slide>
-                <splide-slide>
-                    <img  class="w-full h-full object-cover"  src="\caro4.jpg" />
+                    <img  class="w-full h-full object-cover"  src="\images\inauguration3.jpg" />
                 </splide-slide>
             </splide>
         </client-only>
@@ -30,7 +33,7 @@ export default {
                 height: 600,
                 perPage: 1,
                 gap: '1rem',
-                autoplay:true,
+                // autoplay:true,
                 interval:5000,
                 pauseOnHover: false
             },

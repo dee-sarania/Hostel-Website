@@ -4,11 +4,11 @@
     <!-- navbar with logo and title -->
        <div class="top-header flex items-center justify-center space-x-20 lg:space-x-26 lg:justify-center lg:items-center" >
           <NuxtLink to="/" class="nav-link">  
-            <img src="logomain.jpeg" class="w-16 h-16 lg:w-24 lg:h-24">
+            <img src="/icons/logomain.jpeg" class="w-16 h-16 lg:w-24 lg:h-24">
           </NuxtLink >
         <p class="font-semibold text-lg lg:text-2xl tracking-normal text-white mx:16 lg:mx-28">JIRI WOMEN'S HOSTEL </p>
          <div class="top-header flex items-center justify-center p-6">
-             <a href="http://www.tezu.ernet.in/"><img src="tulogo.png" class="w-14 h-14 lg:w-20 lg:h-20"></a>
+             <a href="http://www.tezu.ernet.in/"><img src="/icons/tulogo.png" class="w-14 h-14 lg:w-20 lg:h-20"></a>
              
          </div>  
         </div> 
