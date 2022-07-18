@@ -1,15 +1,8 @@
 <template>
 <div class="bg-light_pink">
     <!-- main photo with the title card saying "welcome...." -->
-   <!-- <div class=" flex mt-30 items-center justify-center">
-     <img src="hostel4.jpg" class=" flex w-full lg:max-h-580 opacity-75 mt-48 mb-70 object-cover object-center ">
-     <div class="absolute w-full max-h-96 lg:max-h-580 top-48 lg:top-48 right-0 bottom-0 left-0 overflow-hidden bg-fixed bg-black opacity-20"></div>
-      <div class="flex items-center justify-center title_card">
-        <h6 class="uppercase font-bold"> Welcome to the official website of Jiri Women's Hostel</h6>
-      </div>
-    </div> -->
 
-    <Carousel />
+      <Carousel />
 
     <!-- about Jiri element -->
     <div class="w-full h-80 mt-20 mb-20">
@@ -192,13 +185,13 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
     <div class="xl:mt-32 mb-24 md:mt-20 ">
         <div class="container text-center text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <NuxtLink to="/gallery" class="nav-link"> Gallery</NuxtLink> </div> 
        <div class="px-56 pt-20 grid grid-flow-row-dense grid-cols-3 grid-rows-3 gap-4">  
-  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img src="\images\caro4.jpg"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\WhatsApp Image 2022-05-01 at 11.34.36 AM.jpeg"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\caro1.jpg"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\caro2.jpg"></div></div>
-    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
-    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\IMG-20220313-WA0004 - Priya Seram.jpg"></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images/caro2.jpg"></div></div>
+  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img src="\images\inauguration3.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\freshers3.jpeg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\inauguration1.jpg"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\inauguration2.jpg"></div></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\event1.jpg"></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\inauguration7.jpg"></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images/freshers2.jpeg"></div></div>
     
 
     </div>

@@ -33,7 +33,7 @@ export default {
                 height: 600,
                 perPage: 1,
                 gap: '1rem',
-                // autoplay:true,
+                autoplay:true,
                 interval:5000,
                 pauseOnHover: false
             },
