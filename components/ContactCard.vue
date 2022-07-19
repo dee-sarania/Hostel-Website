@@ -1,8 +1,8 @@
 <template>
-    <div class="grid grid-row grid-cols-3 justify-items-center gap-32">
+    <div class="grid grid-row grid-cols-3 justify-items-center">
         <div class="transform transition duration-500 hover:scale-105" v-for="(q, i ) in creators" :key="i">
-            <div class="max-w-sm mt-14 overflow-hidden card-shadow rounded-tr-3xl rounded-bl-3xl">
-                <img class="max-w-sm object-center" :src="`${q.image}`">
+            <div class="lg:max-w-sm mt-14 overflow-hidden card-shadow rounded-tr-3xl rounded-bl-3xl">
+               <div class="container overflow-hidden h-96 w-full"><img class="w-96 h-full object-cover object-center" :src="`${q.image}`"></div>
                 <div class="text-para p-8 leading-relaxed">
                     <h4 class="text-xl text-burgundy font-bold capitalize">{{ q.name }}</h4>
                     <p>{{ q.course }}</p>

@@ -30,7 +30,7 @@
       <div class="container justify-items-center">
          <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Mess Convenor-</p>
       </div>
-         <ProfileCard :people="messConvenors" />
+        <ProfileCard :people="messConvenors" />
       </div>
       
    </div>

@@ -49,3 +49,7 @@ export default {
    @apply mt-32 justify-center text-center capitalize text-3xl text-burgundy font-semibold
 }
 </style> text-sm lg:text-xl
+.card:hover{
+    box-shadow: 0 0 15px -2px #874356;
+  }
+  WhatsApp Image 2022-07-10 at 2.46.02 PM (1)

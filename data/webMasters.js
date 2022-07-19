@@ -1,7 +1,7 @@
 export const webMasters=[
     {
         "name": "Rachna Harlalka",
-        "image":"/images/profile/noimage.jpeg",
+        "image":"/images/profile/rachna.jpeg",
         "course":"MCA",
         "department": "Dept. of Computer Science & Engg.",
         "phoneNo": "+91 9876542413",
@@ -17,7 +17,7 @@ export const webMasters=[
     },
     {
         "name": "Dhritideepa Sarania",
-        "image":"/images/profile/noimage.jpeg",
+        "image":"/images/profile/dhritideepa.jpeg",
         "course":"B.Tech",
         "department": "Dept. of Computer Science & Engg.",
         "phoneNo": "+91 9876542413",

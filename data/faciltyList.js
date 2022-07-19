@@ -6,7 +6,7 @@ export const rooms = [
     },
     {
         "title":"Common room",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/images/freshers1.jpeg",
         "description":"common room ke naam pe dhoka"
     },
     {
@@ -17,7 +17,7 @@ export const rooms = [
     
     {
         "title":"Pantry room",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/facilityPhoto/pantry.jpg",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
     },
 
@@ -55,9 +55,10 @@ export const mess = [
 export const wash = [
     {
         "title":"Basin area",
-        "image":"/facilityPhoto/basin area.png",
+        "image":"/facilityPhoto/basin.jpeg",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
     },
+   
     {
         "title":"Washing area",
         "image":"/facilityPhoto/washing area.png",
