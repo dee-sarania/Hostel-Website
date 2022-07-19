@@ -25,6 +25,12 @@ export const rooms = [
         "title":"Security Post",
         "image":"/facilityPhoto/security post.png",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+    },
+
+    {
+        "title":"Warden's Office",
+        "image":"/facilityPhoto/no photo.png",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
     }
 ]
 

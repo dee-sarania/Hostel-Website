@@ -3,7 +3,7 @@
       <div class="container">
          <!-- wardens informantion cards -->
          <div>
-            <p class="capitalize pt-0 lg:pt-28 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold">administration</p>
+            ><p class="capitalize pt-0 lg:pt-28 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold">administration</p>
             <p class="mt-4 lg:mt-20 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
          </div>
          <ProfileCard :people="wardens" />
@@ -28,7 +28,7 @@
       <!-- mess convenor -->
       <div class="container">
       <div class="container justify-items-center">
-         <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Mess Convenor-</p>
+         <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Mess Convenor -</p>
       </div>
         <ProfileCard :people="messConvenors" />
       </div>

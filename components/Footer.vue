@@ -7,20 +7,20 @@
         <h6 class="uppercase font-semibold mb-4 text-white md:justify-start">
           DOWNLOAD LINKS
         </h6>
-        <p class="mb-2">
-          <a href="#!" class="hover:text-red-200">> Boarder Certificate</a>
+        <p class="mb-2"> >
+          <a href="#!" class="hover:text-red-200"> Boarder Certificate</a>
         </p>
-        <p class="mb-2">
-          <a href="/docu/Hostel_Accomodation_Form.pdf" class="hover:text-red-200">> Hostel Accomodation</a>
+        <p class="mb-2"> >
+          <a href="/docu/Hostel_Accomodation_Form.pdf" class="hover:text-red-200">Hostel Accomodation</a>
         </p>
-        <p class="mb-2">
-          <a href="/docu/hostel_withdrawal_form.pdf" class=" hover:text-red-200">> Hostel Withdrawal Form</a>
+        <p class="mb-2"> >
+          <a href="/docu/hostel_withdrawal_form.pdf" class=" hover:text-red-200">Hostel Withdrawal Form</a>
         </p>
-        <p class="mb-2">
-          <a href="/docu/Hostel_Rule_11_July_2015.pdf" class="hover:text-red-200">> Hostel Rules</a>
+        <p class="mb-2"> >
+          <a href="/docu/Hostel_Rule_11_July_2015.pdf" class="hover:text-red-200">Hostel Rules</a>
         </p>
-        <p class="mb-2">
-          <a href="" class="hover:text-red-200">> Late Entry Form</a>
+        <p class="mb-2"> >
+          <a href="" class="hover:text-red-200">Late Entry Form</a>
         </p>
       </div>
 
@@ -29,23 +29,23 @@
         <h6 class="uppercase font-semibold mb-4 text-white flex justify-center md:justify-start">
           UNIVERSITY LINKS
         </h6>
-         <p class="mb-2">
-          <a href="http://agnee.tezu.ernet.in/src/login.php" class="hover:text-red-200"> > Student Webmail</a>
+         <p class="mb-2"> >
+          <a href="http://agnee.tezu.ernet.in/src/login.php" class="hover:text-red-200">Student Webmail</a>
         </p>
-        <p class="mb-2">
-          <a href="/docu/bus_timing.pdf" class="hover:text-red-200">> Bus Timings</a>
+        <p class="mb-2"> >
+          <a href="/docu/bus_timing.pdf" class="hover:text-red-200">Bus Timings</a>
         </p>
-        <p class="mb-2">
-          <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">> Central Library</a>
+        <p class="mb-2"> >
+          <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">Central Library</a>
         </p>
-        <p class="mb-2">
-          <a href="http://www.tezu.ernet.in/contact/utility.html" class="hover:text-red-200">> Campus Utility Services</a>
+        <p class="mb-2"> >
+          <a href="http://www.tezu.ernet.in/contact/utility.html" class="hover:text-red-200">Campus Utility Services</a>
         </p>
-        <p class="mb-2">
-          <a href="http://www.tezu.ernet.in/students_affairs/" class="hover:text-red-200">> Student Affairs</a>
+        <p class="mb-2"> >
+          <a href="http://www.tezu.ernet.in/students_affairs/" class="hover:text-red-200">Student Affairs</a>
         </p>
-        <p class="mb-2">
-          <a href="#!" class="hover:text-red-200">> Holiday List</a>
+        <p class="mb-2"> >
+          <a href="#!" class="hover:text-red-200">Holiday List</a>
         </p>
        </div>
 
@@ -90,7 +90,7 @@
   
   <!-- COPYRIGHT -->
 <div class="border-t border-light_pink bg-burgundy text-white py-2">
-    <span class="container flex justify-center align-center py-2">© Copyright 2022: Jiri Women's Hostel, Tezpur University, Napaam, Tezpur, 784028</span>
+    <span class="container flex justify-center align-center py-2">© Copyright 2022: Jiri Women's Hostel, Tezpur University, Napaam, Tezpur-784028</span>
 
 </div> 
 
@@ -107,7 +107,7 @@
 
 <style scoped>
 
-p:hover{
+a:hover{
     cursor: pointer;
     text-decoration: underline;
 }

@@ -9,7 +9,7 @@ export const wardens= [
     },
     {
         "name": "Dr. Saona Seth",
-        "image":"/images/inauguration6.jpeg",
+        "image":"/images/profile/noimage.jpeg",
         "designation": "Warden",
         "department": "Dept. of Applied Sciences",
         "phoneNo": "+91 9876542413",
