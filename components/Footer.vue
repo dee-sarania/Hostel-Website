@@ -2,7 +2,7 @@
 <div class="bg-burgundy">
   <div class="container justify-center items-center ml-14 py-14 text-center text-white md:text-left ">
     <!-- DOWNLOAD LINKS -->
-    <div class="grid grid-1 md:grid-cols-4 lg:grid-cols-4 gap-x-16">
+    <div class="ml-4 grid grid-1 md:grid-cols-4 lg:grid-cols-4 gap-x-16">
       <div>
         <h6 class="uppercase font-semibold mb-4 text-white md:justify-start">
           DOWNLOAD LINKS
@@ -25,7 +25,7 @@
       </div>
 
     <!-- UNIVERSITY LINKS -->
-      <div>
+      <div class="ml-6">
         <h6 class="uppercase font-semibold mb-4 text-white flex justify-center md:justify-start">
           UNIVERSITY LINKS
         </h6>
@@ -50,7 +50,7 @@
        </div>
 
        <!-- CONTACT -->
-      <div class="text-white">
+      <div class="ml-6 text-white">
         <h6 class="uppercase font-semibold mb-4 flex justify-center md:justify-start">
           Contact Us
         </h6>
@@ -60,7 +60,7 @@
         
         <p class="flex items-center justify-center md:justify-start mt-4 mb-4">
           <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope"
-            class="w-4 mr-4" role="img" xmlns="http://www.w3.org/2000/svg"
+            class="mr-2.5" role="img" xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 512 512">
             <path fill="currentColor"
               d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z">
@@ -81,7 +81,7 @@
       </div>
 
     <!-- FOLLOW US -->
-        <div class="justify-center items-center">
+        <div class="ml-16 justify-center items-center">
           <h6 class="uppercase font-semibold mb-4 text-white md:justify-start"> FOLLOW US</h6>
             <div class="flex pt-4 space-x-2">
           <a href="https://www.instagram.com/"><svg version="1.0" class="w-8 mr-4 transform transition duration-500 hover:scale-110" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet"><g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none"><path d="M2315 5109 c-800 -83 -1501 -517 -1927 -1196 -494 -786 -516 -1810 -56 -2613 243 -423 598 -770 1017 -994 357 -191 751 -296 1121 -300 l135 -1 3 993 2 992 -275 0 -275 0 0 320 0 320 273 2 272 3 6 335 c5 304 7 342 27 415 77 276 260 460 537 537 72 20 104 22 315 22 129 1 279 -3 333 -8 l97 -8 0 -288 0 -288 -237 -4 c-237 -3 -238 -3 -290 -30 -110 -58 -123 -105 -123 -435 l0 -253 315 0 c173 0 315 -3 315 -7 0 -5 -18 -145 -40 -312 -22 -168 -40 -308 -40 -313 0 -4 -124 -8 -275 -8 l-275 0 0 -945 c0 -520 2 -945 4 -945 19 0 257 90 347 131 301 138 534 304 774 550 209 215 338 400 471 674 118 244 199 516 236 795 16 124 16 509 0 625 -84 591 -328 1089 -733 1494 -397 396 -891 644 -1454 727 -123 18 -478 26 -600 13z"></path></g></svg> </a>
