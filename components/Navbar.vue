@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="fixed z-100 w-full lg:w-full max-h-24 md:max-h-32 bg-burgundy"  id="top-header">
+    <nav class="fixed block invisible md:visible z-100 w-full lg:w-full max-h-24 md:max-h-32 bg-burgundy"  id="top-header">
     <!-- navbar with logo and title -->
        <div class="top-header flex items-center justify-center space-x-20 lg:space-x-26 lg:justify-center lg:items-center" >
           <NuxtLink to="/" class="nav-link">  

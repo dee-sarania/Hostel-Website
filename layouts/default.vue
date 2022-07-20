@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar v-if="renderPage" />
-    
+    <Sidebar />
     <Nuxt />
     <Footer v-if="renderPage" />
 
@@ -9,20 +9,20 @@
 </template>
 
 <script>
+import Sidebar from '~/components/Sidebar.vue'
 export default {
-  data() {
-    return {
-      blockedPages: ["error", null]
-    }
-  },
-  computed: {
-    renderPage() {
-      return !(this.blockedPages.includes(this.$route.name))
-    }
-  },
-  methods: {
-
-  }
+    data() {
+        return {
+            blockedPages: ["error", null]
+        };
+    },
+    computed: {
+        renderPage() {
+            return !(this.blockedPages.includes(this.$route.name));
+        }
+    },
+    methods: {},
+    components: { Sidebar }
 }
 </script>
 
