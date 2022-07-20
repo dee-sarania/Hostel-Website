@@ -81,6 +81,12 @@ export const wash = [
         "title":"Washing Macine",
         "image":"/facilityPhoto/washing machine.png",
         "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+    },
+
+    {
+        "title":"Bathroom for PwD",
+        "image":"/facilityPhoto/no photo.png",
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
     }
 ]
 
@@ -108,7 +114,7 @@ export const gen = [
     },
 
     {
-        "title":"Cycle Stand",
+        "title":"Cloth drying area",
         "image":"/facilityPhoto/no photo.png",
         "description":"in terms of cycle stand, we have no cycle stand."
     },
