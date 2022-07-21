@@ -9,7 +9,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/circle_logo.png' },
+      { rel: 'icon', type: 'image/x-icon', href: '/icons/circle_logo.png' },
       {
         rel: "stylesheet",
         href:
@@ -28,6 +28,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: '@/plugins/splideplugin' , mode: 'client' }, 
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
