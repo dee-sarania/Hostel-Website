@@ -32,20 +32,29 @@
       </div>
         <ProfileCard :people="messConvenors" />
       </div>
+
+      <!-- Web Team -->
+       <div class="container">
+      <div class="container justify-items-center">
+         <p class="mt-28 lg:mt-60 capitalize justify-center text-center text-xl lg:text-3xl text-burgundy font-semibold">- Web Team -</p>
+      </div>
+        <ProfileCard :people="webTeams" />
+      </div>
       
    </div>
 
 </template>
 
 <script>
-import { wardens, prefects, officeStaffs, messConvenors } from './../data/administrationDetails.js';
+import { wardens, prefects, officeStaffs, messConvenors, webTeams } from './../data/administrationDetails.js';
 export default {
    data() {
     return {
          wardens,
          prefects,
          officeStaffs,
-         messConvenors
+         messConvenors,
+         webTeams
       };
    },
 };

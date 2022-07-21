@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="grid grid-row grid-cols-3 justify-items-center">
         <div class="transform transition duration-500 hover:scale-105" v-for="(q, i ) in creators" :key="i">
             <div class="lg:max-w-sm mt-14 overflow-hidden card-shadow rounded-tr-3xl rounded-bl-3xl">

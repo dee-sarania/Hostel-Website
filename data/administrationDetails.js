@@ -53,5 +53,42 @@ export const messConvenors=[
         "department": "Dept. of ",
         "phoneNo": "919876542413",
         "email": "email@tezu.ernet.in"
-      }
+      },
+
+      {
+        "name": "firstname surname",
+        "image":"/images/profile/noimage.jpeg",
+        "designation": "Mess Convenor",
+        "department": "Dept. of ",
+        "phoneNo": "919876542413",
+        "email": "email@tezu.ernet.in"
+      },  
+    ]
+
+export const webTeams=[
+    {
+        "name": "Rachna Harlalka",
+        "image":"/images/profile/rachna.jpeg",
+        "designation":"MCA",
+        "department": "Dept. of Computer Science & Engg.",
+        "phoneNo": "+91 9876542413",
+        "email": "csm21005@tezu.ernet.in"
+    },
+    {
+        "name": "Chandrima Paul",
+        "image":"/images/profile/noimage.jpeg",
+        "designation":"B.Tech",
+        "department": "Dept. of Computer Science & Engg.",
+        "phoneNo": "+91 9876542413",
+        "email": "csb21087@tezu.ernet.in"
+    },
+    {
+        "name": "Dhritideepa Sarania",
+        "image":"/images/profile/dhritideepa.jpeg",
+        "designation":"B.Tech",
+        "department": "Dept. of Computer Science & Engg.",
+        "phoneNo": "+91 9876542413",
+        "email": "csb21070@tezu.ernet.in"
+    },
 ]
+
