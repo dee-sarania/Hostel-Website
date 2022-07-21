@@ -28,17 +28,17 @@
       <!-- mess convenor -->
       <div class="container">
       <div class="container justify-items-center">
-         <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Mess Convenor -</p>
+         <p class="mt-28 lg:mt-60 capitalize justify-center text-center text-xl lg:text-3xl text-burgundy font-semibold">- Mess Convenor -</p>
       </div>
         <ProfileCard :people="messConvenors" />
       </div>
 
       <!-- Web Team -->
-       <div class="container">
+       <div>
       <div class="container justify-items-center">
          <p class="mt-28 lg:mt-60 capitalize justify-center text-center text-xl lg:text-3xl text-burgundy font-semibold">- Web Team -</p>
       </div>
-        <ProfileCard :people="webTeams" />
+        <WebCard :people="webTeams" />
       </div>
       
    </div>

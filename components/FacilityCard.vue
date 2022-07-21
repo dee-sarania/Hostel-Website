@@ -45,9 +45,7 @@ export default {
     overflow: hidden;
 
   }
-  .card:hover{
-    box-shadow: 0 0 15px -2px #874356;
-  }
+  
   .image-cover{
     overflow: hidden;
   }
