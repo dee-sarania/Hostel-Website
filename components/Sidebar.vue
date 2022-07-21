@@ -1,7 +1,7 @@
 <template>
 <div class="block md:hidden">
 
-   <nav class="fixed block md:hidden justify-items-startx z-100 w-full lg:w-full max-h-24 md:max-h-32 bg-burgundy"  id="top-header">
+   <nav class="fixed block md:hidden justify-items-startx z-100 w-full bg-burgundy"  id="top-header">
     <!-- navbar with logo and title -->
        <div class="top-header flex justify-items-start space-x-20 lg:space-x-26 lg:justify-center lg:items-center" >
           <NuxtLink to="/" class="nav-link">  
