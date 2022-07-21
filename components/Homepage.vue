@@ -190,7 +190,7 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
     <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\inauguration1.jpg"></div></div>
     <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images\inauguration2.jpg"></div></div>
     <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\event1.jpg"></div>
-    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\inauguration7.jpg"></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" src="\images\inauguration7.JPG"></div>
     <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" src="\images/freshers2.jpeg"></div></div>
     
 

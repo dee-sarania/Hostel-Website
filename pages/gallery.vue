@@ -43,7 +43,7 @@ export default {
           styles: "w2"
         },
         {
-          src: "/images/inauguration7.jpg",
+          src: "/images/inauguration7.JPG",
           title: "Test Image",
           styles: "w4"
         },
