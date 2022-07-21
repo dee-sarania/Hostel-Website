@@ -12,13 +12,13 @@ export const rooms = [
     {
         "title":"Dorm",
         "image":"/facilityPhoto/dorm.png",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+        "description":"The dorm is at the first and the second floor which has a capacity of about 14 heads. They are spacious and are provided with a bed, study table and a chair for each boarder. There's also a shoe rack for the boarders."
     },
     
     {
         "title":"Pantry room",
         "image":"/facilityPhoto/no photo.png",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+        "description":"Pantry rooms are available on each floor of the hostel. They are equipped with a water cooler, wash basin and a long slab (counter top). Here, the boarders can use electronic appliances like electric kettle, etc."
     },
 
     {
@@ -32,12 +32,12 @@ export const mess = [
     {
         "title":"Dining Hall",
         "image":"/facilityPhoto/dininghall.jpeg",
-        "description":"capable of accomodating 100 girls at a time."
+        "description":"The hostel has a large hall with a seating capacity of around 110 people at a time. The tables and chairs are well maintained and the whole mess area is cleaned after every meal. The dining hall is also provided with a refrigerator for the boarder's purpose. The three meal per day mess facility timings are Breakfast- from 8:30 to 10:30, Lunch- from 12:30 to 15:30 and Dinner- from 20:30 to 22:30."
     },
     {
         "title":"Kitchen",
         "image":"/facilityPhoto/kitchen.png",
-        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, laudantium animi mollitia doloremque facilis, amet doloribus odio architecto endis ipsam accusamus q"
+        "description":"The hostel kitchen is attached alongside the dining hall at the ground floor. It is provided with all the basic kitchen requirements to cook a meal of 250+ people at a time in a huge and clean kitchen hall. The daily ration and grocery items are taken care of by the mess convenors and the mess managers."
     },
     {
         "title":"Water Cooler",
