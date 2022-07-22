@@ -3,7 +3,7 @@
   <div class="header-margin">
     <p class="capitalize pt-0 lg:pt-28 text-center lg:text-center text-2xl lg:text-4xl text-burgundy font-bold">- Gallery -</p>
 
-    <div class="grid grid-cols-12 w-full gap-4 px-56 pt-20 mb-3">
+    <div class="grid grid-cols-12 w-full gap-4 px-56 pt-20 mb-0">
       <div v-for="(p, i) in images" :key="i" :class="p.styles">
         <div class="animation">
           <img :title="p.title" :alt="p.alt" :src="p.src" />
