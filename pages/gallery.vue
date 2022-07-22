@@ -1,4 +1,5 @@
 <template>
+<div>
   <div class="header-margin">
     <p class="capitalize pt-0 lg:pt-28 text-center lg:text-center text-2xl lg:text-4xl text-burgundy font-bold">- Gallery -</p>
 
@@ -18,6 +19,7 @@
          <ProfileCard :people="photo_credit" />
       </div>
   </div>
+</div>
 </template>
 
 <script>
