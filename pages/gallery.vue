@@ -21,6 +21,7 @@
 </template>
 
 <script>
+import { photo_credit } from './../data/GalleryDetails.js';
 export default {
   data() {
     return {
@@ -91,14 +92,9 @@ export default {
           styles: "w4"
         },
       ]
-    }
-  }
-}
-import { photo_credit } from './../data/GalleryDetails.js';
-export default {
-   data() {
-    return { photo_credit };
-   },
+      photo_credit
+    };
+  },
 };
 </script>
 
