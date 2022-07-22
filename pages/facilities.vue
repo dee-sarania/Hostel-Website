@@ -31,7 +31,7 @@
           <p class="m-0 justify-center text-center capitalize text-3xl text-burgundy font-semibold mb-7">- Database Management -</p>
           <div class="rounded-tr-3xl rounded-bl-full max-w-sm w-full lg:max-w-full lg:flex lg:h-80 transform transition duration-500 hover:scale-105" style="box-shadow: 0 40px 25px -5px rgb(175 13 13 / 16%), 0 40px 25px -5px rgb(135 67 86 / 0%); border-radius: 15px 50px;">
             <div class="h-26 lg:h-auto lg:w-50 flex-none bg-cover rounded-t lg:rounded-t lg:rounded-l text-center overflow-hidden" >
-              <img src="/images/profile/noimage.jpeg" width="299" height="327">
+              <img src="/images/profile/noimage.jpeg" class="h-auto w-72">
             </div>
             <div class="ml-20 w-45 rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
               <div class="mb-8">
