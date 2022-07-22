@@ -76,7 +76,7 @@ export const webTeams=[
     },
     {
         "name": "Chandrima Paul",
-        "image":"/images/profile/ChandrimaP.png",
+        "image":"/images/profile/ChandrimaP.jpeg",
         "designation":"B.Tech",
         "department": "Dept. of Computer Science & Engg.",
         "phoneNo": "+91 9876542413",
