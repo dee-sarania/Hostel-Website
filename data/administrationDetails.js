@@ -36,13 +36,36 @@ export const prefects=[
     ]
 export const officeStaffs=[
     {
-        "name": "firstname surname",
-        "image":"/images/profile/noimage.jpeg",
-        "designation": "Caretaker",
-        "department": "",
-        "phoneNo": "919876542413",
-        "email": "add email"
+        "name": "Monalisha Devi ",
+        "image":"/images/profile/incharge.jpeg",
+        "designation": "Incharge",
+        "phoneNo": "+91-8723859217",
     },
+    {
+        "name": "Joona moni Bhuyan ",
+        "image":"/images/profile/security1.jpeg",
+        "designation": "Security",
+        "phoneNo": "+91-9365442610",
+    },
+    {
+        "name": "Anjana Gowala ",
+        "image":"/images/profile/caretaker.jpeg",
+        "designation": "Caretaker",
+        "phoneNo": "+91-9365573051",
+    },
+    {
+        "name": "Nilima Ekka ",
+        "image":"/images/profile/security2.jpeg",
+        "designation": "Security",
+        "phoneNo": "+91-8822443197",
+    },
+    {
+        "name": "Rima Sultana ",
+        "image":"/images/profile/security3.jpeg",
+        "designation": "security",
+        "phoneNo": "+91-8486538006",
+    }
+
 ]
 export const messConvenors=[
 
