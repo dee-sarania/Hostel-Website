@@ -2,7 +2,7 @@ export const rooms = [
     {
         "title":"Boarder's room",
         "image":"/facilityPhoto/boarder.jpg",
-        "description":"There are 329 rooms, each includes two closet and, an open wardrobe. Currently a three-sitter room, it also includes three set of tables and chairs."
+        "description":"There are 329 rooms, each includes two closet and, an open wardrobe. Currently a three-sitter room, it also includes three sets of tables and chairs."
     },
     {
         "title":"Common room",
@@ -54,7 +54,7 @@ export const mess = [
     {
         "title":"Refrigerator",
         "image":"/facilityPhoto/fridge.jpeg",
-        "description":"A refrigerator is provided for boarder's utilization which is placed at the Dining Hall"
+        "description":"A refrigerator is provided for boarder's utilization which is placed at the Dining Hall."
     }
 ]
 
@@ -99,7 +99,7 @@ export const gen = [
     {
         "title":"Internet Access",
         "image":"/facilityPhoto/server.jpeg",
-        "description":"The hostel provides 24*7 internet access to the boarders. Routers are connected along corridors for wifi connection."
+        "description":"The hostel provides 24*7 internet access to the boarders. Routers are connected along the corridors for wifi connection."
     },
     {
         "title":"Insect Killer",
