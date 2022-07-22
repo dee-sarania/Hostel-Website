@@ -40,30 +40,36 @@ export const officeStaffs=[
         "image":"/images/profile/incharge.jpeg",
         "designation": "Incharge",
         "phoneNo": "+91-8723859217",
-    },
-    {
-        "name": "Joona moni Bhuyan ",
-        "image":"/images/profile/security1.jpeg",
-        "designation": "Security",
-        "phoneNo": "+91-9365442610",
+        "email": "----"
     },
     {
         "name": "Anjana Gowala ",
         "image":"/images/profile/caretaker.jpeg",
         "designation": "Caretaker",
         "phoneNo": "+91-9365573051",
+        "email": "----"
     },
+    {
+        "name": "Joona moni Bhuyan ",
+        "image":"/images/profile/security1.jpeg",
+        "designation": "Security",
+        "phoneNo": "+91-9365442610",
+        "email": "----"
+    },
+    
     {
         "name": "Nilima Ekka ",
         "image":"/images/profile/security2.jpeg",
         "designation": "Security",
         "phoneNo": "+91-8822443197",
+        "email": "----"
     },
     {
         "name": "Rima Sultana ",
         "image":"/images/profile/security3.jpeg",
         "designation": "security",
         "phoneNo": "+91-8486538006",
+        "email": "----"
     }
 
 ]
