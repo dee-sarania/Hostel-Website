@@ -91,7 +91,7 @@ export default {
           title: "Test Image",
           styles: "w4"
         },
-      ]
+      ],
       photo_credit
     };
   },
