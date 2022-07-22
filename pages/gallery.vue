@@ -10,6 +10,14 @@
       </div>
     </div>
   </div>
+  <div class="header-margin pb-0 lg:pb-64">
+      <div class="container">
+         <div>
+            <p class="mt-4 lg:mt-20 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Photo Credits -</p>
+         </div>
+         <ProfileCard :people="photo_credit" />
+      </div>
+  </div>
 </template>
 
 <script>
@@ -86,6 +94,12 @@ export default {
     }
   }
 }
+import { photo_credit } from './../data/GalleryDetails.js';
+export default {
+   data() {
+    return { photo_credit };
+   },
+};
 </script>
 
 
