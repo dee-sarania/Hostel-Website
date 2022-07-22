@@ -15,7 +15,7 @@
     <div>
       <div class="container py-60">
         <p class="justify-center text-center capitalize text-3xl text-burgundy font-semibold mb-10">- Photo Credits -</p>
-        <div class="ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg shadow-lg shadow-burgundy max-w-xs w-full lg:max-w-4xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
+        <div class="ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg shadow max-w-xs w-full lg:max-w-4xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
           <div class="h-auto w-72 overflow-hidden" >
             <img src="/images/profile/pahari_di.jpeg" class="rounded-bl-lg rounded-tl-lg object-cover object-center">
           </div>
@@ -141,5 +141,9 @@ export default {
 
 img{
   @apply h-full w-full object-cover
+}
+
+.shadow{
+box-shadow: 0 10px 15px -3px rgba(135, 67, 86, 0.1), 0 4px 6px -4px rgba(135, 67, 86, 0.1);
 }
 </style>
