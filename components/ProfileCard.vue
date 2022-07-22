@@ -8,9 +8,9 @@
                     <p class="" >{{ p.designation }}</p>
                     <p class="" >{{ p.department }}</p>
                     <p class="pt-5 "><span class="font-bold">Phone no:</span>&nbsp;{{ p.phoneNo }}</p>
-                    <p class=""><span class="font-bold">Email:</span> <a :href="`mailto:${p.email}`" class="hover:underline">{{
+                    <!-- <p class=""><span class="font-bold">Email:</span> <a :href="`mailto:${p.email}`" class="hover:underline">{{
                             p.email
-                    }}</a></p>
+                    }}</a></p> -->
                 </div>
             </div>
         </div>
