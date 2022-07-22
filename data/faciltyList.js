@@ -6,7 +6,7 @@ export const rooms = [
     },
     {
         "title":"Common room",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/images/freshers1.jpeg",
         "description":"A multi-purpose room for boarders situated at the second floor, it is used for any recreational purposes, group activities and, prefect-boarders meetings."
     },
     {
