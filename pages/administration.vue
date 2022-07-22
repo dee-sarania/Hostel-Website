@@ -20,7 +20,7 @@
       <!-- office staff -->
       <div class="container">
       <div class="container justify-items-center">
-         <p class="mt-28 lg:mt-60 ml-20 capitalize text-xl lg:text-3xl text-burgundy font-semibold">- office staff -</p>
+         <p class="mt-28 lg:mt-60 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- office staff -</p>
       </div>
       <ProfileCard :people="officeStaffs" />
       </div>

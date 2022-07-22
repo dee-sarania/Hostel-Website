@@ -25,30 +25,35 @@
         <FacilityCard :facility="gen" />
       </div>
     </div>
-    <div class="header-margin pb-64">
-      <div>
-        <div class="container w-auto">
-          <p class="m-0 justify-center text-center capitalize text-3xl text-burgundy font-semibold mb-7">- Database Management -</p>
-          <div class="rounded-tr-3xl rounded-bl-full max-w-sm w-full lg:max-w-full lg:flex lg:h-80 transform transition duration-500 hover:scale-105" style="box-shadow: 0 40px 25px -5px rgb(175 13 13 / 16%), 0 40px 25px -5px rgb(135 67 86 / 0%); border-radius: 15px 50px;">
-            <div class="h-26 lg:h-auto lg:w-50 flex-none bg-cover rounded-t lg:rounded-t lg:rounded-l text-center overflow-hidden" >
-              <img src="/images/profile/noimage.jpeg" class="h-auto w-72">
-            </div>
-            <div class="ml-20 w-45 rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
-              <div class="mb-8">
-                <p class="mt-10 text-2xl font-bold text-burgundy flex items-center mb-2"> Imrana Khan </p>
-                <p class="text-burgundy text-xl mb-2"> B.Tech </p>
-                <p class="text-burgundy text-xl mb-2">Dept. of Electronics and Communication Engineering</p>
-                <p class="text-burgundy text-xl mb-2"><span class="font-bold">Phone no:</span> +91 9876542413</p>
-                <p class="text-burgundy text-xl mb-2"><span class="font-bold">Email:</span> ecb21086@tezu.ernet.in</p>
-              </div>
+
+    <div>
+      <div class="container py-60 px-16">
+        
+        <div class="bg-burgundy ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg shadow max-w-xs w-full lg:max-w-3xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
+          <div class="h-auto w-72 overflow-hidden" >
+            <img src="/images/profile/imrana_khan.jpeg" class="h-80 rounded-bl-lg rounded-tl-lg object-cover object-center">
+          </div>
+          <div class="ml-10 mt-8 p-6">
+            <div>
+              <p class="text-white text-md mb-2 uppercase">This page has been edited by</p>
+              <h1 class="mt-5 text-xl font-bold text-white mb-2"> Imrana Khan</h1>
+              <p class="text-white text-md mb-2">B.Tech <br> Dept. of Electronics and Communication Engg. </p>&nbsp;
+              <p class="text-white text-md mb-2"><span class="font-bold">Phone no: </span>+91 9876542413 <br>
+              <span class="font-bold">Email:</span> ecb21086@tezu.ernet.in </p>
             </div>
           </div>
         </div>
       </div>
-    </div>
+      </div>
   </div>
 
 </template>
+
+<style scoped>
+.shadow{
+box-shadow: 0 10px 15px -3px rgba(135, 67, 86, 0.1), 0 4px 6px -4px rgba(135, 67, 86, 0.1);
+}
+</style>
 
 <script>
 import {rooms,mess,wash,gen} from './../data/faciltyList.js'
