@@ -11,13 +11,26 @@
       </div>
     </div>
   </div>
-  <div class="header-margin pb-0 lg:pb-64">
-      <div class="container">
-         <div>
-            <p class="mt-0 lg:mt-0 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- Photo Credits -</p>
-         </div>
-         <ProfileCard :people="photo_credit" />
+  <div class="header-margin pb-64">
+    <div>
+      <div class="container w-auto">
+        <p class="m-0 justify-center text-center capitalize text-3xl text-burgundy font-semibold mb-7">- Photo Credits -</p>
+        <div class="rounded-tr-3xl rounded-bl-full max-w-sm w-full lg:max-w-full lg:flex lg:h-80 transform transition duration-500 hover:scale-105" style="box-shadow: 0 40px 25px -5px rgb(175 13 13 / 16%), 0 40px 25px -5px rgb(135 67 86 / 0%); border-radius: 15px 50px;">
+          <div class="h-13 lg:h-auto lg:w-50 flex-none bg-cover rounded-t lg:rounded-t lg:rounded-l text-center overflow-hidden" >
+            <img src="/images/profile/pahari_di.jpeg" style="border-radius-bottom-left: 50px;">
+          </div>
+          <div class="ml-20 w-45 rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
+            <div class="mb-8">
+              <p class="mt-10 text-2xl font-bold text-burgundy flex items-center mb-2"> Pahari Khanikar </p>
+              <p class="text-burgundy text-xl mb-2">Masters</p>
+              <p class="text-burgundy text-xl mb-2">Dept. of Mass Communication and Journalism</p>
+              <p class="text-burgundy text-xl mb-2"><span class="font-bold">Phone no:</span> +91 9876542413</p>
+              <p class="text-burgundy text-xl mb-2"><span class="font-bold">Email:</span> mcm21018@tezu.ernet.in</p>
+            </div>
+          </div>
+        </div>
       </div>
+    </div>
   </div>
 </div>
 </template>
