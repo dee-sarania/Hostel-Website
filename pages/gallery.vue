@@ -15,15 +15,15 @@
     <div>
       <div class="container py-60 px-16">
         <p class="justify-center text-center capitalize text-3xl text-burgundy font-semibold mb-10">- Photo Credits -</p>
-        <div class="ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg shadow max-w-xs w-full lg:max-w-3xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
+        <div class="bg-burgundy ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg card-shadow max-w-xs w-full lg:max-w-3xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
           <div class="h-auto w-72 overflow-hidden" >
             <img src="/images/profile/pahari_di.jpeg" class="rounded-bl-lg rounded-tl-lg object-cover object-center">
           </div>
           <div class="ml-10 mt-5 p-4">
             <div>
-              <h1 class="mt-10 text-xl font-bold text-burgundy mb-2"> Pahari Khanikar </h1>
-              <p class="text-burgundy text-md mb-2">Masters <br> Dept. of Mass Communication and Journalism </p>&nbsp;
-              <p class="text-burgundy text-md mb-2"><span class="font-bold">Phone no:</span>+91 9876542413 <br>
+              <h1 class="mt-10 text-xl font-bold text-white mb-2"> Pahari Khanikar </h1>
+              <p class="text-white text-md mb-2">Masters <br> Dept. of Mass Communication and Journalism </p>&nbsp;
+              <p class="text-white text-md mb-2"><span class="font-bold">Phone no:</span>+91 9876542413 <br>
               <span class="font-bold">Email:</span> mcm21018@tezu.ernet.in </p>
             </div>
           </div>
@@ -143,7 +143,7 @@ img{
   @apply h-full w-full object-cover
 }
 
-.shadow{
-box-shadow: 0 10px 15px -3px rgba(135, 67, 86, 0.1), 0 4px 6px -4px rgba(135, 67, 86, 0.1);
+.card-shadow {
+   box-shadow: 0 40px 20px -5px rgb(175 13 13 / 16%), 0 40px 20px -5px rgb(135 67 86 / 0%)
 }
 </style>
