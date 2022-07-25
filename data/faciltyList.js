@@ -6,12 +6,12 @@ export const rooms = [
     },
     {
         "title":"Common room",
-        "image":"/images/freshers1.jpeg",
+        "image":"/facilityPhoto/common_room.jpeg",
         "description":"A multi-purpose room for boarders situated at the second floor, it is used for any recreational purposes, group activities and, prefect-boarders meetings."
     },
     {
         "title":"Dorm",
-        "image":"/facilityPhoto/dorm.png",
+        "image":"/facilityPhoto/dorm.jpg",
         "description":"Situated at the first and the second floor, it is spacious and has a capacity of about 14 heads. Each boarder is provided with provided with a bed, a study table and a chair. There's also a shoe rack for the boarders."
     },
     
@@ -23,13 +23,13 @@ export const rooms = [
 
     {
         "title":"Security Post",
-        "image":"/facilityPhoto/security post.png",
+        "image":"/facilityPhoto/security_post.jpg",
         "description":"Situated near the entrance gate of our hostel, the Security Mahis are always there to lend a helping hand."
     },
 
     {
         "title":"Warden's Office",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/facilityPhoto/warden_room.jpg",
         "description":"Warden's office is arranged such that hostel's administration meetings can be held."
     }
 ]
@@ -42,7 +42,7 @@ export const mess = [
     },
     {
         "title":"Kitchen",
-        "image":"/facilityPhoto/kitchen.png",
+        "image":"/facilityPhoto/kitchen.jpg",
         "description":"Attached alongside the dining hall at the ground floor, this huge and clean kitchen hall is provided with all the basic kitchen requirements to cook a meal of 250+ people at a time."
     },
     {
@@ -61,30 +61,30 @@ export const mess = [
 export const wash = [
     {
         "title":"Basin area",
-        "image":"/facilityPhoto/basin.jpeg",
+        "image":"/facilityPhoto/basin1.jpeg",
         "description":"Set of three basins along with mirrors which is sanitized on a regular basis, is provided near bathroom area of all the six wings of this hostel."
     },
     {
         "title":"Washing area",
-        "image":"/facilityPhoto/washing area.png",
+        "image":"/facilityPhoto/washing.jpg",
         "description":"Provided with three taps, this marble floored area is quite spacious and is used for washing activity by the boarders."
     },
 
     {
         "title":"Bathroom area",
-        "image":"/facilityPhoto/bathroom area.png",
+        "image":"/facilityPhoto/bath.jpg",
         "description":"Each wing has five bathrooms and five toilets which are properly maintained, is hygenic and, cleaned on a regular basis."
     },
     
     {
         "title":"Washing Macine",
-        "image":"/facilityPhoto/washing machine.png",
+        "image":"/facilityPhoto/washing_machine.jpg",
         "description":"Placed on the first floor, it is available to boarders for free of cost from 07:00 to 18:00 everyday."
     },
 
     {
         "title":"PwD Washroom",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/facilityPhoto/pwd.jpg",
         "description":"Situated at the ground floor in each wing, these washrooms are specially designed to accomodate people with disabilties."
     },
 
@@ -108,26 +108,20 @@ export const gen = [
     },
     {
         "title":"Water Purifier",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/facilityPhoto/drinking_water.jpg",
         "description":"Available at each floor for safe and purified drinking water."
     },
     
     {
         "title":"Cycle Stand",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/facilityPhoto/cycle_stand.jpg",
         "description":"Under Construction....this will provide shelter and shade to our already deteriorating cycles"
                                             
     },
 
     {
-        "title":"Cycle Stand",
-        "image":"/facilityPhoto/no photo.png",
+        "title":"Rinwater Harvesting",
+        "image":"/facilityPhoto/rainwater harvesting.jpg",
         "description":"in terms of cycle stand, we have no cycle stand."
     },
-
-    {
-        "title":"blah blah",
-        "image":"/facilityPhoto/no photo.png",
-        "description":"not yet built, but we are hoping to use it someday."
-    }
 ]
