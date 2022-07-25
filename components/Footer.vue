@@ -33,7 +33,7 @@
           <a href="http://agnee.tezu.ernet.in/src/login.php" class="hover:text-red-200">Student Webmail</a>
         </p>
         <p class="mb-2"> >
-          <a href="/docu/bus_timing.pdf" class="hover:text-red-200">Bus Timings</a>
+          <a href="/docu/Bus timings.pdf" class="hover:text-red-200">Bus Timings</a>
         </p>
         <p class="mb-2"> >
           <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">Central Library</a>
@@ -45,7 +45,7 @@
           <a href="http://www.tezu.ernet.in/students_affairs/" class="hover:text-red-200">Student Affairs</a>
         </p>
         <p class="mb-2"> >
-          <a href="#!" class="hover:text-red-200">Holiday List</a>
+          <a href="/docu/HOLIDAY_LIST_2022.pdf" class="hover:text-red-200">Holiday List</a>
         </p>
        </div>
 

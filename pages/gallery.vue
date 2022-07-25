@@ -144,6 +144,6 @@ img{
 }
 
 .card-shadow {
-   box-shadow: 0 40px 20px -5px rgb(175 13 13 / 16%), 0 40px 20px -5px rgb(135 67 86 / 0%)
+   box-shadow: 0 40px 20px -5px rgb(175 13 13 / 10%), 0 40px 20px -5px rgb(135 67 86 / 0%)
 }
 </style>
