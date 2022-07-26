@@ -120,7 +120,7 @@ export const gen = [
     },
 
     {
-        "title":"Rinwater Harvesting",
+        "title":"Rainwater Harvesting",
         "image":"/facilityPhoto/rainwater harvesting.jpg",
         "description":"A rainwater harvester has been installed which serves the purpose by reducing the loss of water by its running–off, avoiding flooding of the grounds and sometimes also meeting the demands of water in case of an emergency."
     },
