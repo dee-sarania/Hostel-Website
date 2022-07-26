@@ -33,6 +33,23 @@ export const prefects=[
         "phoneNo": "919876542413",
         "email": "msi18014@tezu.ernet.in"
     },
+
+    {
+        "name": "Nayanita Saikia",
+        "image":"/images/profile/nayanita.jpg",
+        "designation": "Assistant Prefect",
+        "department": "Dept. of Food Engg. and Technology",
+        "phoneNo": "919876542413",
+        "email": "feb19011@tezu.ernet.in"
+    },
+    {
+        "name": "Stanzin Tsangyang",
+        "image":"/images/profile/noimage.jpeg",
+        "designation": "Assistant Prefect",
+        "department": "Dept. of Mechanical Engineering",
+        "phoneNo": "919876542413",
+        "email": "meb19040@tezu.ernet.in"
+    },
     ]
 export const officeStaffs=[
     {
@@ -76,22 +93,21 @@ export const officeStaffs=[
 export const messConvenors=[
 
     {
-        "name": "firstname surname",
-        "image":"/images/profile/noimage.jpeg",
-        "designation": "Mess Convenor",
-        "department": "Dept. of ",
+        "name": "Nayanita Saikia",
+        "image":"/images/profile/nayanita.jpg",
+        "designation": "Mess Convenors",
+        "department": "Dept. of Food Engg. and Technology",
         "phoneNo": "919876542413",
-        "email": "email@tezu.ernet.in"
-      },
-
-      {
-        "name": "firstname surname",
+        "email": "feb19011@tezu.ernet.in"
+    },
+    {
+        "name": "Stanzin Tsangyang",
         "image":"/images/profile/noimage.jpeg",
-        "designation": "Mess Convenor",
-        "department": "Dept. of ",
+        "designation": "Mess Convenors",
+        "department": "Dept. of Mechanical Engineering",
         "phoneNo": "919876542413",
-        "email": "email@tezu.ernet.in"
-      },  
+        "email": "meb19040@tezu.ernet.in"
+    },
     ]
 
 export const webTeams=[
