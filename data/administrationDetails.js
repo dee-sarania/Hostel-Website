@@ -44,7 +44,7 @@ export const prefects=[
     },
     {
         "name": "Stanzin Tsangyang",
-        "image":"/images/profile/noimage.jpeg",
+        "image":"/images/profile/stanzin.jpg",
         "designation": "Assistant Prefect",
         "department": "Dept. of Mechanical Engineering",
         "phoneNo": "919876542413",

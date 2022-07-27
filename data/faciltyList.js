@@ -90,7 +90,7 @@ export const wash = [
 
     {
         "title":"Drying Area",
-        "image":"/facilityPhoto/no photo.png",
+        "image":"/facilityPhoto/drying.jpeg",
         "description":"Vertical metal beams are attached in front of the basin area and washing area for drying cloth articles."
     }
 ]
