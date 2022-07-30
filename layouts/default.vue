@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar v-if="renderPage" />
-    <Sidebar />
+    <!-- <Sidebar /> -->
     <Nuxt />
     <Footer v-if="renderPage" />
 
@@ -72,7 +72,10 @@ body {
 
 .header-margin {
   padding-top: 175px;
+  padding-bottom: 50px;
 }
 
-
+.pswp img {
+  object-fit: contain;
+}
 </style>

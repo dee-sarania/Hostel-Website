@@ -1,9 +1,12 @@
 <template>
-<div class="py-64 px-64">
-    <div class="container"> <h1 class="text-4xl text-burgundy justify-left font-bold">List of Boarders</h1><p class="mt-20 text-para text-xl font-semibold uppercase"> *This list was last updated on 24 June 2022</p></div> <!-- boarders list in pdf format -->
-     <embed src="/docu/boarder.pdf#view=FitH" class="w-full h-screen"/>
-  
-  <!--  <table>
+  <div class="header-margin">
+    <div class="container px-6">
+      <!-- boarders list in pdf format -->
+      <h1 class="text-4xl text-burgundy justify-left font-bold pb-4">List of Boarders</h1>
+      <embed src="/docu/boarder.pdf#view=FitH" class="w-full h-screen" />
+      <p class="mt-4 text-para text-sm font-semibold uppercase"> *This list was last updated on 24 June 2022</p>
+
+      <!--  <table>
         <thead>
             <th><td>Room No</td></th>
             <th><td>Boarder Name</td></th>
@@ -21,8 +24,8 @@
     </table>
 </div> -->
 
-<!-- boarders list in tabular format -->
-<!--
+      <!-- boarders list in tabular format -->
+      <!--
 <div class=" container flex flex-col">
   <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
     <div class="py-2 inline-block min-w-full sm:px-6 lg:px-8">
@@ -64,32 +67,15 @@
   </div>
 </div>
 -->
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    </div>
+  </div>
 </template>
 
 <script>
 import data from '@/data/boarderList.json';
 export default {
-    async fetch() {
-        this.content = data
-    },
+  async fetch() {
+    this.content = data
+  },
 }
 </script>
