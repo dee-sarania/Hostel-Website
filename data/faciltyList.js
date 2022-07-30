@@ -115,7 +115,7 @@ export const gen = [
     {
         "title":"Cycle Stand",
         "image":"/facilityPhoto/cycle_stand.jpg",
-        "description":"Under Construction....this will provide shelter and shade to our already deteriorating cycles"
+        "description":"Under Construction....this will provide shelter and shade to boarders' cycles"
                                             
     },
 
