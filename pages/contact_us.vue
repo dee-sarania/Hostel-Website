@@ -1,14 +1,13 @@
 <template>
   <div class="header-margin pb-64">
     <div>
-      <div class="container w-auto">
-        <p class="mt-20 mb-10 justify-center text-center capitalize text-4xl text-burgundy font-semibold">- Contact Us -
-        </p>
-        <div class="card flex justify-center lg:flex-row flex-col-reverse outline-none m-8">
-          <div
-            class="contact bg-burgundy text-white grid grid-cols-3 rounded-2xl lg:rounded-l-2xl lg:rounded-r-none p-6 lg:p-14 w-full">
-            <div class="col-span-3 lg:col-span-1">
-              <img class="h-24" src="/icons/logomain.jpeg" alt="">
+    <div class="container w-auto">
+      <p class="m-20 justify-center text-center capitalize text-4xl text-burgundy font-semibold">- Contact Us -</p>
+      <div class="card grid grid-cols-3 border rounded-2xl outline-none m-8">
+        <div class="contact bg-burgundy col-span-2 justify-items-center text-white grid grid-cols-3 border rounded-l-2xl p-14">
+           
+            <div class="m-8">
+                  <img :src="`${$config.baseURL}icons/logomain.jpeg`" alt="">
             </div>
             <div class="col-span-3 lg:col-span-2 mt-10 lg:mt-0 lg:text-right">
               <h6 class=" font-bold mb-2 text-2xl">Jiri Women's Hostel</h6>

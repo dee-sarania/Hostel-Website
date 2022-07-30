@@ -9,7 +9,6 @@
 </template>
 
 <script>
-import Sidebar from '~/components/Sidebar.vue'
 export default {
     data() {
         return {
@@ -22,7 +21,6 @@ export default {
         }
     },
     methods: {},
-    components: { Sidebar }
 }
 </script>
 

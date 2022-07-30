@@ -31,9 +31,9 @@
         
         <div class="bg-burgundy ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg rounded-tl-lg card-shadow max-w-xs w-full lg:max-w-3xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
           <div class="h-auto w-72 overflow-hidden" >
-            <img src="/images/profile/imranak.jpeg" class="h-80 rounded-bl-lg rounded-tl-lg object-cover object-center">
+            <img :src="`${$config.baseURL}images/profile/imranak.jpeg`" class="h-80 rounded-bl-lg rounded-tl-lg object-cover object-center">
           </div>
-          <div class="ml-10 mt-8 p-6">
+          <div class="mt-8 p-6">
             <div>
               <p class="text-white text-md mb-2 font-bold uppercase">- Content Writer -</p>
               <h1 class="mt-5 text-xl font-bold text-white mb-2"> Imrana Khan</h1>
@@ -51,7 +51,7 @@
 
 <style scoped>
 .card-shadow {
-   box-shadow: 0 40px 20px -5px rgb(175 13 13 / 16%), 0 40px 20px -5px rgb(135 67 86 / 0%)
+   box-shadow: 0 40px 20px -5px rgb(175 13 13 / 10%), 0 40px 20px -5px rgb(135 67 86 / 0%)
 }
 </style>
 

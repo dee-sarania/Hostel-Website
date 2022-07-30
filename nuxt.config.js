@@ -8,11 +8,11 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: "This is the official website of Jiri Women's Hostel of Tezpur University" },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/icons/circle_logo.png' },
+      { rel: 'icon', type: 'image/x-icon', href: `${process.env.BASE_URL}icons/circle_logo.png` },
       {
         rel: "stylesheet",
         href:
@@ -74,5 +74,13 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+  
+  publicRuntimeConfig: {
+    baseURL: process.env.BASE_URL
+  },
+
+  router: {
+    base: process.env.BASE_URL
+  },
 }

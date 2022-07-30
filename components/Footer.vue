@@ -11,13 +11,13 @@
           <a href="#!" class="hover:text-red-200"> Boarder Certificate</a>
         </p>
         <p class="mb-2"> >
-          <a href="/docu/Hostel_Accomodation_Form.pdf" class="hover:text-red-200">Hostel Accomodation</a>
+          <a :href="`${$config.baseURL}docu/Hostel_Accomodation_Form.pdf`" class="hover:text-red-200">Hostel Accomodation</a>
         </p>
         <p class="mb-2"> >
-          <a href="/docu/hostel_withdrawal_form.pdf" class=" hover:text-red-200">Hostel Withdrawal Form</a>
+          <a :href="`${$config.baseURL}docu/hostel_withdrawal_form.pdf`" class=" hover:text-red-200">Hostel Withdrawal Form</a>
         </p>
         <p class="mb-2"> >
-          <a href="/docu/Hostel_Rule_11_July_2015.pdf" class="hover:text-red-200">Hostel Rules</a>
+          <a :href="`${$config.baseURL}docu/Hostel_Rule_11_July_2015.pdf`" class="hover:text-red-200">Hostel Rules</a>
         </p>
         <p class="mb-2"> >
           <a href="" class="hover:text-red-200">Late Entry Form</a>
@@ -33,7 +33,7 @@
           <a href="http://agnee.tezu.ernet.in/src/login.php" class="hover:text-red-200">Student Webmail</a>
         </p>
         <p class="mb-2"> >
-          <a href="/docu/bus_timing.pdf" class="hover:text-red-200">Bus Timings</a>
+          <a :href="`${$config.baseURL}/Bus timings.pdf`" class="hover:text-red-200">Bus Timings</a>
         </p>
         <p class="mb-2"> >
           <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">Central Library</a>
@@ -45,7 +45,7 @@
           <a href="http://www.tezu.ernet.in/students_affairs/" class="hover:text-red-200">Student Affairs</a>
         </p>
         <p class="mb-2"> >
-          <a href="#!" class="hover:text-red-200">Holiday List</a>
+          <a :href="`${$config.baseURL}docu/HOLIDAY_LIST_2022.pdf`" class="hover:text-red-200">Holiday List</a>
         </p>
        </div>
 

@@ -1,9 +1,0 @@
-Administration
-    Warden (Senior and Normal) (according to the years)
-    Prefect (normal and Assisstant) (aacording to the years)
-    Mess manager (according to the terms)
-    Webmasters
-    Office Staff (according to designations)
-    
-Boarders
-    pic boxes including wing wise list with drop down
