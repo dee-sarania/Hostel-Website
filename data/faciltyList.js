@@ -2,7 +2,7 @@ export const rooms = [
     {
         "title":"Boarder's room",
         "image":"/facilityPhoto/boarder.jpg",
-        "description":"There are 329 rooms, each includes two closet and, an open wardrobe. Currently a three-sitter room, it also includes three sets of tables and chairs."
+        "description":"There are 90 rooms, each includes two closet and, an open wardrobe. Currently a three-sitter room, it also includes three sets of tables and chairs."
     },
     {
         "title":"Common room",
