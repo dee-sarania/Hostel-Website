@@ -6,7 +6,7 @@
     <div class="grid grid-cols-12 w-full gap-4 px-56 pt-20 mb-0">
       <div v-for="(p, i) in images" :key="i" :class="p.styles">
         <div class="animation">
-          <img :title="p.title" :alt="p.alt" :src="p.src" />
+          <img :title="p.title" :alt="p.alt" :src="`${$config.baseURL}${p.src}`" />
         </div>
       </div>
     </div>
@@ -17,7 +17,7 @@
         <p class="justify-center text-center capitalize text-3xl text-burgundy font-semibold mb-10">- Photo Credits -</p>
         <div class="bg-burgundy ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg card-shadow max-w-xs w-full lg:max-w-3xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
           <div class="h-auto w-72 overflow-hidden" >
-            <img src="/images/profile/pahari_di.jpeg" class="rounded-bl-lg rounded-tl-lg object-cover object-center">
+            <img :src="`${$config.baseURL}images/profile/pahari_di.jpeg`" class="rounded-bl-lg rounded-tl-lg object-cover object-center">
           </div>
           <div class="ml-10 mt-5 p-4">
             <div>
@@ -43,67 +43,67 @@ export default {
     return {
       images: [
         {
-          src: "/images/inauguration3.jpg",
+          src: "images/inauguration3.jpg",
           title: "inauguration",
           styles: "w3"
         },
         {
-          src: "/images/freshers3.jpeg",
+          src: "images/freshers3.jpeg",
           title: "Test Image",
           styles: "w3"
         },
         {
-          src: "/images/inauguration1.jpg",
+          src: "images/inauguration1.jpg",
           title: "Test Image",
           styles: "w3"
         },
         {
-          src: "/images/inauguration2.jpg",
+          src: "images/inauguration2.jpg",
           title: "Test Image",
           styles: "w3"
         },
         {
-          src: "/images/event1.jpg",
+          src: "images/event1.jpg",
           title: "Test Image",
           styles: "w2"
         },
         {
-          src: "/images/inauguration7.JPG",
+          src: "images/inauguration7.JPG",
           title: "Test Image",
           styles: "w4"
         },
         {
-          src: "/images/freshers2.jpeg",
+          src: "images/freshers2.jpeg",
           title: "Test Image",
           styles: "w4"
         },
         {
-          src: "/images/inauguration5.jpeg",
+          src: "images/inauguration5.jpeg",
           title: "Test Image",
           styles: "w4"
         },
         {
-          src: "/images/inauguration13.jpeg",
+          src: "images/inauguration13.jpeg",
           title: "Test Image",
           styles: "w4"
         },
         {
-          src: "/images/freshers1.jpeg",
+          src: "images/freshers1.jpeg",
           title: "Test Image",
           styles: "w2 h2"
         },
           {
-          src: "/images/inauguration.jpeg",
+          src: "images/inauguration.jpeg",
           title: "Test Image",
           styles: "w-4-2"
         },
           {
-          src: "/images/freshers4.jpg",
+          src: "images/freshers4.jpg",
           title: "Test Image",
           styles: "w4"
         },
         {
-          src: "/images/inauguration4.jpeg",
+          src: "images/inauguration4.jpeg",
           title: "Test Image",
           styles: "w4"
         },

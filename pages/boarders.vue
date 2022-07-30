@@ -1,7 +1,7 @@
 <template>
 <div class="py-64 px-64">
     <div class="container"> <h1 class="text-4xl text-burgundy justify-left font-bold">List of Boarders</h1><p class="mt-20 text-para text-xl font-semibold uppercase"> *This list was last updated on 24 June 2022</p></div> <!-- boarders list in pdf format -->
-     <embed src="/docu/boarder.pdf#view=FitH" class="w-full h-screen"/>
+     <embed :href="`${$config.baseURL}docu/boarder.pdf#view=FitH`" class="w-full h-screen"/>
   
   <!--  <table>
         <thead>

@@ -31,7 +31,7 @@
         
         <div class="bg-burgundy ml-36 rounded-tr-lg rounded-br-lg rounded-bl-lg rounded-tl-lg card-shadow max-w-xs w-full lg:max-w-3xl lg:flex lg:h-80 transform transition duration-500 hover:scale-105">
           <div class="h-auto w-72 overflow-hidden" >
-            <img src="/images/profile/imranak.jpeg" class="h-80 rounded-bl-lg rounded-tl-lg object-cover object-center">
+            <img :src="`${$config.baseURL}images/profile/imranak.jpeg`" class="h-80 rounded-bl-lg rounded-tl-lg object-cover object-center">
           </div>
           <div class="mt-8 p-6">
             <div>
