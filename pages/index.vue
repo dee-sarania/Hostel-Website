@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-light_pink">
+  <div class="bg-light_pink lg:-mt-1.5">
     <!-- main photo with the title card saying "welcome...." -->
 
     <Carousel />
