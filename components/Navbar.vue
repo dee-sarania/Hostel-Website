@@ -128,6 +128,7 @@ export default {
         navClasses.remove('scrolled'); // won't error if no class found
       }
       
+      console.log(currentScroll)
       if (isDownMobile && !navClassesMobile.contains('scrolled') && currentScroll > 0) {
         // scrolling down, didn't add class yet
         navClassesMobile.add('scrolled'); // we hide the navbar
@@ -170,12 +171,6 @@ export default {
   -moz-transition: -moz-transform .4s;
   -o-transition: transform .4s;
   transition: transform .4s;
-  &.scrolled {
-    /* subtract your height */
-    -webkit-transform: translate3d(0, -112px, 0);
-    -moz-transform: translate3d(0, -112px, 0);
-    transform: translate3d(0, -112px, 0);
-  }
 }
 
 #mobile-header{
@@ -190,12 +185,13 @@ export default {
   -moz-transition: -moz-transform .4s;
   -o-transition: transform .4s;
   transition: transform .4s;
-  &.scrolled {
-    /* subtract your height */
-    -webkit-transform: translate3d(0, -77px, 0);
-    -moz-transform: translate3d(0, -77px, 0);
-    transform: translate3d(0, -77px, 0);
-  }
+}
+
+.scrolled {
+  /* subtract your height */
+  -webkit-transform: translate3d(0, -77px, 0);
+  -moz-transform: translate3d(0, -77px, 0);
+  transform: translate3d(0, -77px, 0);
 }
 
 .nav-item {

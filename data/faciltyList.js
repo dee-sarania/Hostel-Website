@@ -2,17 +2,17 @@ export const rooms = [
     {
         "title":"Boarder's room",
         "image":"facilityPhoto/boarder.jpg",
-        "description":"There are 90 rooms, each includes two closet and, an open wardrobe. Currently a three-sitter room, it also includes three sets of tables and chairs."
+        "description":"There are 90 rooms, each includes two closet and, an open wardrobe. Currently a three-sitter room, it also includes three sets of tables and chairs.Routers are connected along the corridors for wifi connection which provide 24*7 internet access."
     },
     {
         "title":"Common room",
         "image":"facilityPhoto/common_room.jpeg",
-        "description":"A multi-purpose room for boarders situated at the second floor, it is used for any recreational purposes, group activities and, prefect-boarders meetings."
+        "description":"A multi-purpose room for boarders situated at the second floor, it is used for any recreational purposes, group activities and, general meetings."
     },
     {
         "title":"Dorm",
         "image":"facilityPhoto/dorm.jpg",
-        "description":"Situated at the first and the second floor, it is spacious and has a capacity of about 14 heads. Each boarder is provided with provided with a bed, a study table and a chair. There's also a shoe rack for the boarders."
+        "description":"Situated at the first and the second floor, it is spacious and has a capacity of about 14 heads. This dorm is very useful when some guest arrives or some emergency situation occurs."
     },
     
     {
@@ -44,11 +44,6 @@ export const mess = [
         "title":"Kitchen",
         "image":"facilityPhoto/kitchen.jpg",
         "description":"Attached alongside the dining hall at the ground floor, this huge and clean kitchen hall is provided with all the basic kitchen requirements to cook a meal of 250+ people at a time."
-    },
-    {
-        "title":"Water Cooler",
-        "image":"facilityPhoto/cooler.jpg",
-        "description":"There are four water coolers placed inside the hostel, one of which is placed at the Dining Hall"
     },
     
     {
@@ -97,31 +92,28 @@ export const wash = [
 
 export const gen = [
     {
-        "title":"Internet Access",
-        "image":"facilityPhoto/server.jpeg",
-        "description":"The hostel provides 24*7 internet access to the boarders. Routers are connected along the corridors for wifi connection."
-    },
-    {
-        "title":"Insect Killer",
-        "image":"facilityPhoto/insect.jpg",
-        "description":"Placed inside the Dining Hall and high above anyone's reach, it's purpose is to lure flies, mosquitoes and other annoying pests. "
-    },
-    {
-        "title":"Water Purifier",
-        "image":"facilityPhoto/drinking_water.jpg",
-        "description":"Available at each floor for safe and purified drinking water."
+        "title":"Water Purifier and cooler",
+        "image":"facilityPhoto/cooler.jpg",
+        "description":"Available at each floor for safe and purified drinking water.Even water coolers are available."
     },
     
-    {
-        "title":"Cycle Stand",
-        "image":"facilityPhoto/cycle_stand.jpg",
-        "description":"Under Construction....this will provide shelter and shade to boarders' cycles"
-                                            
-    },
 
     {
         "title":"Rainwater Harvesting",
         "image":"facilityPhoto/rainwater harvesting.jpg",
-        "description":"A rainwater harvester has been installed which serves the purpose by reducing the loss of water by its running–off, avoiding flooding of the grounds and sometimes also meeting the demands of water in case of an emergency."
+        "description":"A rainwater harvester has been installed.The water collected from this are used for gardening purpose and many other emergency situation."
     },
+    {
+        "title":"Cycle Stand",
+        "image":"/facilityPhoto/cycle_stand.jpg",
+        "description":"Under Construction....this will provide shelter and shade to boarders' cycles"
+                                            
+    },
+    {
+        
+        "title":"Daily newspaper",
+        "image":"/facilityPhoto/newspaper3.jpg",
+        "description":"Morning newspaper facility is available for students and staff members."
+    }
+
 ]
