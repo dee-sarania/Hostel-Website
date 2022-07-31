@@ -1,9 +1,13 @@
 <template>
-<div class="py-64 px-64">
-    <div class="container"> <h1 class="text-4xl text-burgundy justify-left font-bold">List of Boarders</h1><p class="mt-20 text-para text-xl font-semibold uppercase"> *This list was last updated on 24 June 2022</p></div> <!-- boarders list in pdf format -->
-     <embed :href="`${$config.baseURL}docu/boarder.pdf#view=FitH`" class="w-full h-screen"/>
-  
-  <!--  <table>
+  <div class="pt-32 lg:pt-72 pb-32">
+    <div class="container px-6">
+      <h1 class="text-4xl text-burgundy justify-left font-bold">List of Boarders</h1>
+      <p class="mt-4 text-para font-semibold uppercase"> *This list was last updated on 24 June 2022</p>
+       <!-- boarders list in pdf format -->
+      <embed src="docu/boarder.pdf#view=FitH`" class="w-full h-screen mt-10"  type="application/pdf" />
+    </div>
+
+    <!--  <table>
         <thead>
             <th><td>Room No</td></th>
             <th><td>Boarder Name</td></th>
@@ -21,8 +25,8 @@
     </table>
 </div> -->
 
-      <!-- boarders list in tabular format -->
-      <!--
+    <!-- boarders list in tabular format -->
+    <!--
 <div class=" container flex flex-col">
   <div class="overflow-x-auto sm:-mx-6 lg:-mx-8">
     <div class="py-2 inline-block min-w-full sm:px-6 lg:px-8">
@@ -64,7 +68,6 @@
   </div>
 </div>
 -->
-    </div>
   </div>
 </template>
 

@@ -1,18 +1,19 @@
 <template>
-  <div class="header-margin pb-64">
+  <div class="pt-32 lg:pt-72 pb-64">
     <div>
-    <div class="container w-auto">
-      <p class="m-20 justify-center text-center capitalize text-4xl text-burgundy font-semibold">- Contact Us -</p>
-      <div class="card grid grid-cols-3 border rounded-2xl outline-none m-8">
-        <div class="contact bg-burgundy col-span-2 justify-items-center text-white grid grid-cols-3 border rounded-l-2xl p-14">
-           
-            <div class="m-8">
-                  <img :src="`${$config.baseURL}icons/logomain.jpeg`" alt="">
+      <div class="container w-auto">
+        <p class="capitalize pt-0 lg:pt-28 text-center lg:text-center text-2xl lg:text-4xl text-burgundy font-bold">- Contact Us -
+        </p>
+        <div class="card flex justify-center lg:flex-row flex-col-reverse outline-none m-8">
+          <div
+            class="contact bg-burgundy text-white grid grid-cols-3 rounded-2xl lg:rounded-l-2xl lg:rounded-r-none p-6 lg:p-14 w-full">
+            <div class="col-span-3 sm:col-span-1">
+              <img class="h-24" :src="`${$config.baseURL}icons/logomain.jpeg`" alt="">
             </div>
-            <div class="col-span-3 lg:col-span-2 mt-10 lg:mt-0 lg:text-right">
+            <div class="col-span-3 sm:col-span-2 mt-10 sm:mt-0 sm:text-right">
               <h6 class=" font-bold mb-2 text-2xl">Jiri Women's Hostel</h6>
               <h6 class="">Tezpur University <br> Napaam, Tezpur, Assam - 784028</h6> &nbsp;
-              <div class="flex items-center lg:justify-end">
+              <div class="flex items-center sm:justify-end">
                 <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone" class="w-4 mr-2 transform rotate-90"
                   role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                   <path fill="currentColor"
@@ -21,7 +22,7 @@
                 </svg>
                 <a href="tel:+91-1234506789" class="hover:underline hover:text-red-100">+91-1234506789</a>
               </div>
-              <div class="flex items-center my-4 lg:my-2 lg:justify-end">
+              <div class="flex items-center my-4 lg:my-2 sm:justify-end">
                 <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" class="mr-2 h-4"
                   role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
                   <path fill="currentColor"
@@ -33,7 +34,7 @@
               </div>
             </div>
             <div class="flex flex-wrap col-span-3 mt-10">
-              <div class="w-full lg:w-1/3 mb-10 lg:mb-0">
+              <div class="w-full sm:w-1/3 mb-10 lg:mb-0">
                 <p class="font-bold">Senior Warden</p>
                 <p class="flex items-center md:justify-start hover:underline mt-2">
                   <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone" class="w-4 mr-2 transform rotate-90"
@@ -45,7 +46,7 @@
                   +91-1234506789
                 </p>
               </div>
-              <div class="w-full lg:w-1/3 mb-10 lg:mb-0">
+              <div class="w-full sm:w-1/3 mb-10 lg:mb-0">
                 <p class="font-bold">Warden</p>
                 <p class="flex items-center md:justify-start hover:underline mt-2">
                   <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone" class="w-4 mr-2 transform rotate-90"
@@ -58,7 +59,7 @@
 
                 </p>
               </div>
-              <div class="w-full lg:w-1/3">
+              <div class="w-full sm:w-1/3">
                 <p class="font-bold">Prefect</p>
                 <p class="flex items-center md:justify-start hover:underline mt-2">
                   <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone" class="w-4 mr-2 transform rotate-90"
