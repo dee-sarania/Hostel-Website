@@ -83,8 +83,12 @@ dist
 # Service worker
 sw.*
 
+static/sw.js
+
 # macOS
 .DS_Store
+
+**/.DS_Store
 
 # Vim swap files
 *.swp
