@@ -105,14 +105,14 @@ export const gen = [
     },
     {
         "title":"Cycle Stand",
-        "image":"/facilityPhoto/cycle_stand.jpg",
+        "image":"facilityPhoto/cycle_stand.jpg",
         "description":"Under Construction....this will provide shelter and shade to boarders' cycles"
                                             
     },
     {
         
         "title":"Daily newspaper",
-        "image":"/facilityPhoto/newspaper3.jpg",
+        "image":"facilityPhoto/newspaper3.jpg",
         "description":"Morning newspaper facility is available for students and staff members."
     }
 
