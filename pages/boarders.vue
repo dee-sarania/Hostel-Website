@@ -2,9 +2,9 @@
   <div class="pt-32 lg:pt-72 pb-32">
     <div class="container px-6">
       <h1 class="text-4xl text-burgundy justify-left font-bold">List of Boarders</h1>
-      <p class="mt-4 text-para font-semibold uppercase"> *This list was last updated on 24 June 2022</p>
+      <p class="mt-4 text-para font-semibold uppercase"> *This list was last updated on 21 January 2023</p>
        <!-- boarders list in pdf format -->
-      <embed src="docu/boarder.pdf#view=FitH" class="w-full h-screen mt-10"  type="application/pdf" />
+      <embed src="docu/Jiriboarders.pdf#view=FitH`" class="w-full h-screen mt-10"  type="application/pdf" />
     </div>
 
     <!--  <table>

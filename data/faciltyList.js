@@ -91,6 +91,7 @@ export const wash = [
 ]
 
 export const gen = [
+    
     {
         "title":"Water Purifier and cooler",
         "image":"facilityPhoto/cooler.jpg",

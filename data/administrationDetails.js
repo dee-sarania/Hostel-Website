@@ -129,7 +129,7 @@ export const webTeams=[
     },
     {
         "name": "Dhritideepa Sarania",
-        "image":"images/profile/dhritideepa.jpeg",
+        "image":"images/profile/d1.jpg",
         "designation":"B.Tech",
         "department": "Dept. of Computer Science & Engg.",
         "phoneNo": "----",
