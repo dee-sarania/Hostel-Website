@@ -1,5 +1,8 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
+  server:{
+    host: '0.0.0.0'
+  },
   head: {
     title: "Jiri Women's Hostel",
     meta: [
@@ -17,7 +20,7 @@ export default {
       }, {
         rel: "stylesheet",
         href:
-          "https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap"
+          "https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap"
       },
     ]
   },
@@ -28,7 +31,8 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
-    { src: '@/plugins/splideplugin' , mode: 'client' }, 
+    { src: '@/plugins/splideplugin' , ssr: false }, 
+    {src: '@/plugins/photoswipe', ssr: false}
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components

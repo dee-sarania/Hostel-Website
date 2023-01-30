@@ -1,7 +1,7 @@
 <template>
   <div>
     <Navbar v-if="renderPage" />
-    <Sidebar />
+    <!-- <Sidebar /> -->
     <Nuxt />
     <Footer v-if="renderPage" />
 
@@ -24,7 +24,7 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
 html {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
@@ -70,7 +70,10 @@ body {
 
 .header-margin {
   padding-top: 175px;
+  padding-bottom: 50px;
 }
 
-
+.pswp img {
+  object-fit: contain;
+}
 </style>
