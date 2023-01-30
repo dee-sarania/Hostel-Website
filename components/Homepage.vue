@@ -8,9 +8,10 @@
     <div class="w-full h-80 mt-20 mb-20">
         
         <div class="container flex px-18 py-2 space-x-16 lg:space-x-28 ">
-            <img :src="`${$config.baseURL}images/hostel.jpeg`" class="mb-4 flex max-w-sm max-h-72 lg:max-h-96  object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105 rounded-lg">
+            <img class="mb-4 flex max-w-sm max-h-72 lg:max-h-96  object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105 rounded-lg" :src="`${$config.baseURl}images/hostel.jpeg`">
             <div>
                 <div class="container justify-left text-burgundy lg:text-4xl text-2xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
+
              <p class="container w-lg lg:w-1/2 mt-16 lg:mt-20 pr-8 lg:pr-12 text-justify text-base lg:text-xl font-semibold text-para leading-relaxed tracking-wide"> 
                 Jiri Women's Hostel was inaugurated on 26th May 2022 by Dr. Vinod Kumar Jain, Vice Chancellor of Tezpur University. <br>This hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from Boro Ninglo area of Dima Hasao district.<br> Recently built, Jiri Women's Hostel has excellent infrastructure and accomodates 200+ boarders. 
             </p>
