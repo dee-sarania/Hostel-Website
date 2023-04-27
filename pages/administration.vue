@@ -7,7 +7,8 @@
          <!-- wardens informantion cards -->
          <div>
          
-            <p class="capitalize pt-0 lg:pt-28 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold text-center">administration</p>
+            <p class="capitalize pt-0 lg:pt-14 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold text-center">administration</p>
+            <div> <Tabs/> </div>
          <div id="wardens">
             <p class="mt-4 lg:mt-20 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
          </div>
@@ -17,12 +18,19 @@
       </div>
       </div>
 
-      <!-- prefects information card -->
-      <div class="container" id="prefects">
-      <div class="container w-full" >
+  <!--<div class="container w-full">
+      <div class="container justify-items-center" id="prefects" >
          <p class="mt-28 lg:mt-60 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- prefects -</p>
       </div>
-         <ProfileCard :people="prefects" />
+         <PrefectCard :people="prefects" />
+      </div> -->
+
+      <!-- prefects information card -->
+      <div>
+      <div class="container justify-items-center" id="web">
+         <p class="mt-28 lg:mt-60 capitalize justify-center text-center text-xl lg:text-3xl text-burgundy font-semibold">- Prefects -</p>
+      </div>
+        <PrefectCard :people="prefects" />
       </div>
 
       <!-- office staff -->

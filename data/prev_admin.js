@@ -1,7 +1,7 @@
 export const wardens= [
     {
       "name": "Dr. Poonam Mishra",
-      "image": "images/profile/noimage.jpeg",
+      "image": "images/profile/warden1.jpeg",
       "designation": "Senior Warden",
       "department": "Dept. of Food Engg. & Technology",
       "phoneNo": "----",
@@ -18,30 +18,38 @@ export const wardens= [
     ]
 export const prefects=[
     {
-        "name": "Barasha Saikia Borah",
-        "image":"images/profile/Barasha.jpg",
+        "name": "Preetishree Gogoi",
+        "image":"images/profile/prefect.jpg",
         "designation": "Prefect",
         "department": "Dept. of Mathematical Sciences",
         "phoneNo": "----",
         "email": "msi18009@tezu.ernet.in"
     },
     {
-        "name": "Hrishita Bhuyan",
-        "image":"images/profile/Hrishita.jpeg",
+        "name": "Kaberi Changmai",
+        "image":"images/profile/asstPrefect.jpeg",
         "designation": "Assistant Prefect",
-        "department": "Dept. of Computer Science & Engg.",
+        "department": "Dept. of Mathematical Sciences",
         "phoneNo": "----",
-        "email": "csb21097@tezu.ernet.in"
+        "email": "msi18014@tezu.ernet.in"
     },
 
     {
-        "name": "Probahinee Gogoi",
-        "image":"images/profile/noimage.jpeg",
+        "name": "Nayanita Saikia",
+        "image":"images/profile/nayanita.jpg",
         "designation": "Assistant Prefect",
-        "department": "Dept. of Commerce",
+        "department": "Dept. of Food Engg. and Technology",
         "phoneNo": "----",
         "email": "feb19011@tezu.ernet.in"
-    }
+    },
+    {
+        "name": "Stanzin Tsangyang",
+        "image":"images/profile/stanzin.jpg",
+        "designation": "Assistant Prefect",
+        "department": "Dept. of Mechanical Engineering",
+        "phoneNo": "----",
+        "email": "meb19040@tezu.ernet.in"
+    },
     ]
 export const officeStaffs=[
     {
@@ -85,18 +93,18 @@ export const officeStaffs=[
 export const messConvenors=[
 
     {
-        "name": "Lupamudra Hazarika",
-        "image":"images/profile/noimage.jpeg",
+        "name": "Nayanita Saikia",
+        "image":"images/profile/nayanita.jpg",
         "designation": "Mess Convenors",
-        "department": "Dept. of ------------------",
+        "department": "Dept. of Food Engg. and Technology",
         "phoneNo": "----",
         "email": "feb19011@tezu.ernet.in"
     },
     {
-        "name": "Anuska Borah",
-        "image":"images/profile/noimage.jpeg",
+        "name": "Stanzin Tsangyang",
+        "image":"images/profile/stanzin.jpg",
         "designation": "Mess Convenors",
-        "department": "Dept. of Coomerce",
+        "department": "Dept. of Mechanical Engineering",
         "phoneNo": "----",
         "email": "meb19040@tezu.ernet.in"
     },
@@ -128,4 +136,3 @@ export const webTeams=[
         "email": "csb21070@tezu.ernet.in"
     },
 ]
-
