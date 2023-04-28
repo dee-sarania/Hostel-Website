@@ -8,7 +8,7 @@
          <div>
          
             <p class="capitalize pt-0 lg:pt-14 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold text-center">administration</p>
-            <div> <Tabs/> </div>
+           <div> <Tabs/> </div>
          <div id="wardens">
             <p class="mt-4 lg:mt-20 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
          </div>

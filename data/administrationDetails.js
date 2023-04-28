@@ -96,7 +96,7 @@ export const messConvenors=[
         "name": "Anuska Borah",
         "image":"images/profile/noimage.jpeg",
         "designation": "Mess Convenors",
-        "department": "Dept. of Coomerce",
+        "department": "Dept. of Commerce",
         "phoneNo": "----",
         "email": "meb19040@tezu.ernet.in"
     },
