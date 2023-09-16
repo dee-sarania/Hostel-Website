@@ -31,21 +31,21 @@
             DOWNLOAD LINKS
           </h6>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/Boarder_certificate.pdf`" class="hover:text-red-200"> Boarder Certificate</a>
+            <a :href="`${$config.baseURL}docu/Boarder_certificate.pdf`" class="hover:text-red-200" target="_blank"> Boarder Certificate</a>
           </p>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/Hostel_Accomodation_Form.pdf`" class="hover:text-red-200">Hostel
+            <a :href="`${$config.baseURL}docu/Hostel_Accomodation_Form.pdf`" class="hover:text-red-200" target="_blank">Hostel
               Accomodation</a>
           </p>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/hostel_withdrawal_form.pdf`" class=" hover:text-red-200">Hostel Withdrawal
+            <a :href="`${$config.baseURL}docu/hostel_withdrawal_form.pdf`" class=" hover:text-red-200" target="_blank">Hostel Withdrawal
               Form</a>
           </p>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/Hostel_Rule_11_July_2015.pdf`" class="hover:text-red-200">Hostel Rules</a>
+            <a :href="`${$config.baseURL}docu/Hostel_Rule_11_July_2015.pdf`" class="hover:text-red-200" target="_blank">Hostel Rules</a>
           </p>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/late_entry_form.pdf`" class="hover:text-red-200">Late Entry Form</a>
+            <a :href="`${$config.baseURL}docu/late_entry_form.pdf`" class="hover:text-red-200" target="_blank">Late Entry Form</a>
           </p>
         </div>
 
@@ -55,23 +55,23 @@
             UNIVERSITY LINKS
           </h6>
           <p class="mb-2"> >
-            <a href="http://agnee.tezu.ernet.in/src/login.php" class="hover:text-red-200">Student Webmail</a>
+            <a href="http://agnee.tezu.ernet.in/src/login.php" class="hover:text-red-200" target="_blank">Student Webmail</a>
           </p>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/bus_timings.pdf`" class="hover:text-red-200">Bus Timings</a>
+            <a :href="`${$config.baseURL}docu/bus_timings.pdf`" class="hover:text-red-200" target="_blank">Bus Timings</a>
           </p>
           <p class="mb-2"> >
-            <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200">Central Library</a>
+            <a href="http://www.tezu.ernet.in/Library/" class="hover:text-red-200" target="_blank">Central Library</a>
           </p>
           <p class="mb-2"> >
-            <a href="http://www.tezu.ernet.in/contact/utility.html" class="hover:text-red-200">Campus Utility
+            <a href="http://www.tezu.ernet.in/contact/utility.html" class="hover:text-red-200" target="_blank">Campus Utility
               Services</a>
           </p>
           <p class="mb-2"> >
-            <a href="http://www.tezu.ernet.in/students_affairs/" class="hover:text-red-200">Student Affairs</a>
+            <a href="http://www.tezu.ernet.in/students_affairs/" class="hover:text-red-200" target="_blank">Student Affairs</a>
           </p>
           <p class="mb-2"> >
-            <a :href="`${$config.baseURL}docu/HOLIDAY_LIST_2022.pdf`" class="hover:text-red-200">Holiday List</a>
+            <a :href="`${$config.baseURL}docu/HOLIDAY_LIST_2022.pdf`" class="hover:text-red-200" target="_blank">Holiday List</a>
           </p>
         </div>
 
@@ -80,7 +80,7 @@
         <div class="justify-center items-center">
           <h6 class="uppercase font-semibold mb-4 text-white md:justify-start"> FOLLOW US</h6>
           <div class="flex pt-4 space-x-2">
-            <a href="https://www.instagram.com/"><svg version="1.0"
+            <a href="https://www.facebook.com/" target="_blank"><svg version="1.0"
                 class="w-8 mr-4 transform transition duration-500 hover:scale-110" xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 512.000000 512.000000" preserveAspectRatio="xMidYMid meet">
                 <g transform="translate(0.000000,512.000000) scale(0.100000,-0.100000)" fill="#ffffff" stroke="none">
@@ -89,7 +89,7 @@
                   </path>
                 </g>
               </svg> </a>
-            <a href="https://www.instagram.com/">
+            <a href="https://www.instagram.com/jiriwomenshostel/" target="_blank">
               <svg version="1.0" class="w-8 h-8 mr-8 transform transition duration-500 hover:scale-110"
                 xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512.000000 512.000000"
                 preserveAspectRatio="xMidYMid meet">

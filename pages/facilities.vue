@@ -25,7 +25,7 @@
       </div>
        <div class="pt-16">
         <p class="text-center capitalize text-3xl text-burgundy font-semibold mb-10">- Content Writer -</p>
-        <CreditCard :src="`${$config.baseURL}images/profile/imranak.jpeg`" name="Imrana Khan" dept="B.Tech" branch="Dept. of Electronics and Communication Engg. " phone="+91 9876542413" email="mcm21018@tezu.ernet.in" />
+        <CreditCard :src="`${$config.baseURL}images/profile/imranak.jpeg`" name="Imrana Khan" dept="B.Tech" branch="Dept. of Electronics and Communication Engg. " phone="+91 9876542413" email="ecb21086tezu.ernet.in" />
       </div>
     </div>
 

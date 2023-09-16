@@ -8,7 +8,7 @@
           <div
             class="contact bg-burgundy text-white grid grid-cols-3 rounded-2xl lg:rounded-l-2xl lg:rounded-r-none p-6 lg:p-14 w-full">
             <div class="col-span-3 sm:col-span-1">
-              <img class="h-24" :src="`${$config.baseURL}icons/logomain.jpeg`" alt="">
+              <img class="h-24" :src="`${$config.baseURL}icons/logo.png`" alt="">
             </div>
             <div class="col-span-3 sm:col-span-2 mt-10 sm:mt-0 sm:text-right">
               <h6 class=" font-bold mb-2 text-2xl">Jiri Women's Hostel</h6>

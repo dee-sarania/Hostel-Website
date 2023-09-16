@@ -33,33 +33,45 @@ export default {
     return {
       images: [
         {
-          src: "images/inauguration3.jpg",
+          src: "images/diwali.jpg",
           styles: "w3",
            w: 1024,
           h: 768
         },
         {
-          src: "images/freshers3.jpeg",
+          src: "images/inauguration5.jpeg",
           styles: "w3",
            w: 1024,
           h: 768
 
         },
         {
-          src: "images/inauguration1.jpg",
+          src: "images/oykoton.jpg",
+          styles: "w3",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/fre.jpeg",
           styles: "w3",
            w: 1024,
           h: 768
         },
         {
           src: "images/inauguration2.jpg",
-          styles: "w3",
+          styles: "w2",
            w: 1024,
           h: 768
         },
         {
-          src: "images/event1.jpg",
-          styles: "w2",
+          src: "images/missJiri.jpg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/inauguration.jpeg",
+          styles: "w4",
            w: 1024,
           h: 768
         },
@@ -70,43 +82,31 @@ export default {
           h: 768
         },
         {
-          src: "images/freshers2.jpeg",
+          src: "images/diwali1.jpg",
           styles: "w4",
            w: 1024,
           h: 768
         },
         {
-          src: "images/inauguration5.jpeg",
+          src: "images/oykoton1.jpg",
+          styles: "w2 h2",
+           w: 1024,
+          h: 768
+        },
+          {
+          src: "images/guest.jpg",
+          styles: "w-4-2",
+           w: 1024,
+          h: 768
+        },
+          {
+          src: "images/freshers1.jpeg",
           styles: "w4",
            w: 1024,
           h: 768
         },
         {
           src: "images/inauguration13.jpeg",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/freshers1.jpeg",
-          styles: "w2 h2",
-           w: 1024,
-          h: 768
-        },
-          {
-          src: "images/inauguration.jpeg",
-          styles: "w-4-2",
-           w: 1024,
-          h: 768
-        },
-          {
-          src: "images/freshers4.jpg",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/inauguration4.jpeg",
           styles: "w4",
            w: 1024,
           h: 768
