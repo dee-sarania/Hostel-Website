@@ -14,13 +14,13 @@
                     <img class="w-full h-full object-cover object-center" :src="`${$config.baseURL}images/main.jpg`" />
                 </splide-slide>
                 <splide-slide>
-                    <img class="w-full h-full object-cover" :src="`${$config.baseURL}images/inauguration2.jpg`" />
+                    <img class="w-full h-full object-cover" :src="`${$config.baseURL}images/IMG-20230209-WA0032.jpg`" />
                 </splide-slide>
                 <splide-slide>
-                    <img class="w-full h-full object-cover object-left-top" :src="`${$config.baseURL}images/inauguration13.jpeg`" />
+                    <img class="w-full h-full object-cover object-left-top" :src="`${$config.baseURL}images/20230205_201620-01.jpeg`" />
                 </splide-slide>
                 <splide-slide>
-                    <img class="w-full h-full object-cover" :src="`${$config.baseURL}images/inauguration3.jpg`" />
+                    <img class="w-full h-full object-cover" :src="`${$config.baseURL}images/IMG_20230902_215608533.jpg`" />
                 </splide-slide>
             </splide>
         </client-only>

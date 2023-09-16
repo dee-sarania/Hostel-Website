@@ -1,6 +1,6 @@
 <template>
     <div
-        class="md:flex md:flex-wrap grid-cols-none grid-row justify-center justify-items-center justify-evenly grid lg:grid lg:grid-cols-3">
+        class="md:flex md:flex-wrap grid-cols-none grid-row justify-center justify-items-center  grid lg:grid lg:grid-cols-3">
         <div class="transform transition duration-500 hover:scale-105" v-for="(p, i ) in people" :key="i">
             <div class="lg:max-w-sm mt-14 overflow-hidden card-shadow rounded-tr-3xl rounded-bl-3xl">
                 <div class="container overflow-hidden h-96 w-full"><img class="w-96 h-full object-cover object-center"
