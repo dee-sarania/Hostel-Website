@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-light_pink">
+  <div class="bg-light_pink lg:-mt-1.5">
     <!-- main photo with the title card saying "welcome...." -->
 
     <Carousel />
@@ -8,7 +8,7 @@
     <div class="w-full my-10 md:my-20">
 
       <div class="container flex-col md:flex-row flex px-6 py-2">
-        <img src="/images/hostel.jpeg"
+        <img :src="`${$config.baseURL}images/hostel.jpeg`"
           class="flex w-full md:max-w-sm max-h-72 lg:max-h-96 object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105 rounded-tr-3xl">
         <div class="flex flex-col justify-center md:mt-0 mt-10 md:ml-16 ml-0">
           <h1 class="font-bold text-burgundy text-4xl">About Jiri</h1>
