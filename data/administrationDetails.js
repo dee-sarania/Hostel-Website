@@ -39,7 +39,7 @@ export const prefects=[
         "image":"images/profile/nayanita.jpg",
         "designation": "Assistant Prefect",
         "department": "Dept. of Food Engg. and Technology",
-        "phoneNo": "----",
+        "phoneNo": "919876542413",
         "email": "feb19011@tezu.ernet.in"
     },
     {
@@ -47,7 +47,7 @@ export const prefects=[
         "image":"images/profile/stanzin.jpg",
         "designation": "Assistant Prefect",
         "department": "Dept. of Mechanical Engineering",
-        "phoneNo": "----",
+        "phoneNo": "919876542413",
         "email": "meb19040@tezu.ernet.in"
     },
     ]
