@@ -39,7 +39,7 @@ export const prefects=[
         "image":"images/profile/nayanita.jpg",
         "designation": "Assistant Prefect",
         "department": "Dept. of Food Engg. and Technology",
-        "phoneNo": "----",
+        "phoneNo": "919876542413",
         "email": "feb19011@tezu.ernet.in"
     },
     {
@@ -47,7 +47,7 @@ export const prefects=[
         "image":"images/profile/stanzin.jpg",
         "designation": "Assistant Prefect",
         "department": "Dept. of Mechanical Engineering",
-        "phoneNo": "----",
+        "phoneNo": "919876542413",
         "email": "meb19040@tezu.ernet.in"
     },
     ]
@@ -129,7 +129,7 @@ export const webTeams=[
     },
     {
         "name": "Dhritideepa Sarania",
-        "image":"images/profile/dhritideepa.jpeg",
+        "image":"images/profile/d1.jpg",
         "designation":"B.Tech",
         "department": "Dept. of Computer Science & Engg.",
         "phoneNo": "----",
