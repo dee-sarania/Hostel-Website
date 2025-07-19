@@ -1,55 +1,48 @@
 export const wardens= [
     {
-      "name": "Dr. Poonam Mishra",
-      "image": "images/profile/warden1.jpeg",
+      "name": "Dr. Nayanmoni Gogoi",
+      "image": "images/profile/nayanmoni.jpg",
       "designation": "Senior Warden",
-      "department": "Dept. of Food Engg. & Technology",
-      "phoneNo": "+91 9876542413",
-      "email": "poonam@tezu.ernet.in"
+      "department": "Dept. of Environmental Science",
+      "phoneNo": "----",
+      "email": "nayanmoni@tezu.ernet.in"
     },
     {
         "name": "Dr. Saona Seth",
         "image":"images/profile/saonamaam.jpeg",
         "designation": "Warden",
         "department": "Dept. of Applied Sciences",
-        "phoneNo": "+91 9876542413",
-        "email": "saona@tezu.ernet.in"
+        "phoneNo": "----",
+        "email": "saonas@tezu.ernet.in"
     },
     ]
 export const prefects=[
     {
-        "name": "Preetishree Gogoi",
-        "image":"images/profile/prefect.jpg",
+        "name": "Barasha Saikia Borah",
+        "image":"images/profile/barasha.jpg",
         "designation": "Prefect",
         "department": "Dept. of Mathematical Sciences",
-        "phoneNo": "919876542413",
-        "email": "msi18009@tezu.ernet.in"
+        "phoneNo": "----",
+        "email": "msi21008@tezu.ernet.in"
     },
     {
-        "name": "Kaberi Changmai",
-        "image":"images/profile/asstPrefect.jpeg",
+        "name": "Probahini Gogoi",
+        "image":"images/profile/probahini.jpg",
         "designation": "Assistant Prefect",
-        "department": "Dept. of Mathematical Sciences",
-        "phoneNo": "919876542413",
-        "email": "msi18014@tezu.ernet.in"
+        "department": "Dept. of Commerce",
+        "phoneNo": "----",
+        "email": "coi21029@tezu.ac.in"
     },
 
     {
-        "name": "Nayanita Saikia",
-        "image":"images/profile/nayanita.jpg",
+        "name": "Hrishita Bhuyan",
+        "image":"images/profile/hrishita.jpeg",
         "designation": "Assistant Prefect",
-        "department": "Dept. of Food Engg. and Technology",
-        "phoneNo": "919876542413",
-        "email": "feb19011@tezu.ernet.in"
+        "department": "Dept. of Computer Science & Engg.",
+        "phoneNo": "----",
+        "email": "csb21097@tezu.ac.in"
     },
-    {
-        "name": "Stanzin Tsangyang",
-        "image":"images/profile/stanzin.jpg",
-        "designation": "Assistant Prefect",
-        "department": "Dept. of Mechanical Engineering",
-        "phoneNo": "919876542413",
-        "email": "meb19040@tezu.ernet.in"
-    },
+
     ]
 export const officeStaffs=[
     {
@@ -60,10 +53,10 @@ export const officeStaffs=[
         "email": "----"
     },
     {
-        "name": "Anjana Gowala ",
-        "image":"images/profile/caretaker.jpeg",
+        "name": "Rina Das",
+        "image":"images/profile/noimage.jpeg",
         "designation": "Caretaker",
-        "phoneNo": "+91-9365573051",
+        "phoneNo": "+91-99547 35802",
         "email": "----"
     },
     {
@@ -93,20 +86,20 @@ export const officeStaffs=[
 export const messConvenors=[
 
     {
-        "name": "Nayanita Saikia",
-        "image":"images/profile/nayanita.jpg",
-        "designation": "Mess Convenors",
-        "department": "Dept. of Food Engg. and Technology",
-        "phoneNo": "919876542413",
-        "email": "feb19011@tezu.ernet.in"
+        "name": "Anushka Borah",
+        "image":"images/profile/anuska.jpeg",
+        "designation": "Mess Convenor",
+        "department": "Dept. of Commerce",
+        "phoneNo": "----",
+        "email": "coi21010@tezu.ernet.in"
     },
     {
-        "name": "Stanzin Tsangyang",
-        "image":"images/profile/stanzin.jpg",
-        "designation": "Mess Convenors",
-        "department": "Dept. of Mechanical Engineering",
-        "phoneNo": "919876542413",
-        "email": "meb19040@tezu.ernet.in"
+        "name": "Antara Bhuyan",
+        "image":"images/profile/asstConvernor.jpeg",
+        "designation": "Assistant Mess Convenor",
+        "department": "Dept. of Chemical Sciences",
+        "phoneNo": "----",
+        "email": "chb22015@tezu.ac.in"
     },
     ]
 
@@ -116,7 +109,7 @@ export const webTeams=[
         "image":"images/profile/rachna.jpeg",
         "designation":"MCA",
         "department": "Dept. of Computer Science & Engg.",
-        "phoneNo": "+91 9876542413",
+        "phoneNo": "----",
         "email": "csm21005@tezu.ernet.in"
     },
     {
@@ -124,15 +117,15 @@ export const webTeams=[
         "image":"images/profile/ChandrimaP.jpeg",
         "designation":"B.Tech",
         "department": "Dept. of Computer Science & Engg.",
-        "phoneNo": "+91 9876542413",
+        "phoneNo": "----",
         "email": "csb21087@tezu.ernet.in"
     },
     {
         "name": "Dhritideepa Sarania",
-        "image":"images/profile/dhritideepa.jpeg",
+        "image":"images/profile/d1.jpg",
         "designation":"B.Tech",
         "department": "Dept. of Computer Science & Engg.",
-        "phoneNo": "+91 9876542413",
+        "phoneNo": "----",
         "email": "csb21070@tezu.ernet.in"
     },
 ]

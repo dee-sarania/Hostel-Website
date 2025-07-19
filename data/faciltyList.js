@@ -96,6 +96,7 @@ export const wash = [
 ]
 
 export const gen = [
+    
     {
         "title":"Internet Access",
         "image":"facilityPhoto/server.jpeg",

@@ -33,81 +33,93 @@ export default {
     return {
       images: [
         {
-          src: "images/inauguration3.jpg",
+          src: "images/IMG_20230902_201812899.jpg",
           styles: "w3",
            w: 1024,
           h: 768
         },
         {
-          src: "images/freshers3.jpeg",
+          src: "images/IMG-20230209-WA0030.jpg",
           styles: "w3",
            w: 1024,
           h: 768
 
         },
         {
-          src: "images/inauguration1.jpg",
+          src: "images/IMG-20230205-WA0025.jpg",
           styles: "w3",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/PXL_20230507_132613245.NIGHT.jpg",
+          styles: "w3",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/IMG_20230902_215600746.jpg",
+          styles: "w2",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/IMG-20230209-WA0010.jpg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/inauguration.jpeg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/IMG-20230211-WA0047.jpg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/diwali1.jpg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/IMG_20230902_194814935.jpg",
+          styles: "w2 h2",
+           w: 1024,
+          h: 768
+        },
+          {
+          src: "images/IMG_5686.JPG ",
+          styles: "w-4-2",
+           w: 1024,
+          h: 768
+        },
+          {
+          src: "images/freshers1.jpeg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+          src: "images/_AIF1962.jpg",
+          styles: "w4",
+           w: 1024,
+          h: 768
+        },
+        {
+        src: "images/IMG-20230206-WA0028.jpg",
+          styles: "w2",
            w: 1024,
           h: 768
         },
         {
           src: "images/inauguration2.jpg",
           styles: "w3",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/event1.jpg",
-          styles: "w2",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/inauguration7.JPG",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/freshers2.jpeg",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/inauguration5.jpeg",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/inauguration13.jpeg",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/freshers1.jpeg",
-          styles: "w2 h2",
-           w: 1024,
-          h: 768
-        },
-          {
-          src: "images/inauguration.jpeg",
-          styles: "w-4-2",
-           w: 1024,
-          h: 768
-        },
-          {
-          src: "images/freshers4.jpg",
-          styles: "w4",
-           w: 1024,
-          h: 768
-        },
-        {
-          src: "images/inauguration4.jpeg",
-          styles: "w4",
            w: 1024,
           h: 768
         },

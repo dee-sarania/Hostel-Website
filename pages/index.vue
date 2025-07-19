@@ -8,12 +8,12 @@
     <div class="w-full my-10 md:my-20">
 
       <div class="container flex-col md:flex-row flex px-6 py-2">
-        <img src="/images/hostel.jpeg"
+        <img :src="`${$config.baseURL}/images/hostel.jpeg`"
           class="flex w-full md:max-w-sm max-h-72 lg:max-h-96 object-cover object-center justify-left opacity-90 transform transition duration-500 hover:scale-105 rounded-tr-3xl">
         <div class="flex flex-col justify-center md:mt-0 mt-10 md:ml-16 ml-0">
           <h1 class="font-bold text-burgundy text-4xl">About Jiri</h1>
           <p class="text-burgundy text-lg md:text-xl mt-5 description">
-            Jiri Women's Hostel was inaugurated on 26th May 2022 by Dr. Vinod Kumar Jain, Vice Chancellor of Tezpur
+            Jiri Women's Hostel was inaugurated on 26th May 2022 by Prof. Vinod Kumar Jain, Vice Chancellor of Tezpur
             University. This hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from
             Boro Ninglo area of Dima Hasao district. Recently built, Jiri Women's Hostel has excellent
             infrastructure and accomodates 200+ boarders.
@@ -212,35 +212,35 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
 
     <div class="mb-24 md:mt-20 py-6">
       <div class="container text-center text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold">
-
-        <div class=" py-4 md:text-4xl text-2xl tracking-wide font-bold text-center text-burgundy ">Gallery</div>
+        <NuxtLink to="/gallery" class="nav-link">
+        <div class=" py-4 md:text-4xl text-2xl tracking-wide font-bold text-center text-burgundy ">Gallery</div></NuxtLink>
       </div>
       <div class="container px-6 pt-8 lg:pt-20 grid grid-flow-row-dense grid-cols-1 md:grid-cols-3 grid-rows-3 gap-4">
         <div class="overflow-hidden col-span-2 md:col-span-1">
           <div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110">
-            <img :src="`${$config.baseURL}images/inauguration3.jpg`">
+            <img :src="`${$config.baseURL}images/IMG-20230209-WA0010.jpg`">
           </div>
         </div>
         <div class="overflow-hidden col-span-2 md:col-span-1 rounded">
           <div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img
-              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/freshers3.jpeg`"></div>
+              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/IMG_20230902_194814935.jpg`"></div>
         </div>
         <div class="overflow-hidden col-span-2 md:col-span-1 rounded">
           <div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img
-              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/inauguration1.jpg`"></div>
+              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/IMG-20230209-WA0032.jpg`"></div>
         </div>
         <div class="overflow-hidden col-span-2 md:col-span-1 rounded">
           <div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img
-              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/inauguration2.jpg`"></div>
+              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/IMG_20230902_215608533.jpg`"></div>
         </div>
         <div class="bg-blue-500 h-64 col-span-2 row-span-1 rounded"><img
-            class="container h-64 w-full object-cover object-center  rounded" :src="`${$config.baseURL}images/event1.jpg`"></div>
+            class="container h-64 w-full object-cover object-center  rounded" :src="`${$config.baseURL}images/IMG_20230212_205649.jpg`"></div>
         <div class="bg-blue-500 h-64 col-span-2 row-span-1 rounded"><img
             class="container h-64 w-full object-cover object-center  rounded"
-            :src="`${$config.baseURL}images/inauguration7.JPG`"></div>
+            :src="`${$config.baseURL}images/IMG-20230211-WA0027.jpg`"></div>
         <div class="overflow-hidden col-span-2 md:col-span-1 rounded">
           <div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img
-              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/freshers2.jpeg`"></div>
+              class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/IMG_20230902_201812899.jpg`"></div>
         </div>
 
 

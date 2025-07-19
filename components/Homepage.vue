@@ -12,7 +12,7 @@
             <div>
                 <div class="container justify-left text-burgundy lg:text-4xl text-2xl tracking-wide font-bold"> <h1> About Jiri </h1></div>
              <p class="container w-lg lg:w-1/2 mt-16 lg:mt-20 pr-8 lg:pr-12 text-justify text-base lg:text-xl font-semibold text-para leading-relaxed tracking-wide"> 
-                Jiri Women's Hostel was inaugurated on 26th May 2022 by Dr. Vinod Kumar Jain, Vice Chancellor of Tezpur University. <br>This hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from Boro Ninglo area of Dima Hasao district.<br> Recently built, Jiri Women's Hostel has excellent infrastructure and accomodates 200+ boarders. 
+                Jiri Women's Hostel was inaugurated on 26th May 2022 by Prof. Vinod Kumar Jain, Vice Chancellor of Tezpur University. <br>This hostel is named after tributary 'Jiri' of the Barak river of Assam and originates from Boro Ninglo area of Dima Hasao district.<br> Recently built, Jiri Women's Hostel has excellent infrastructure and accomodates 200+ boarders. 
             </p>
             </div>
              
@@ -185,11 +185,11 @@ l0 95 203 0 c174 0 208 3 242 19 51 23 101 79 114 128 16 56 14 644 -1 697
     <div class="xl:mt-32 mb-24 md:mt-20 ">
         <div class="container text-center text-burgundy xl:text-4xl md:text-2xl tracking-wide font-bold"> <NuxtLink to="/gallery" class="nav-link"> Gallery</NuxtLink> </div> 
        <div class="px-56 pt-20 grid grid-flow-row-dense grid-cols-3 grid-rows-3 gap-4">  
-  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img :src="`${$config.baseURL}images/inauguration3.jpg`"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/freshers3.jpeg`"></div></div>
+  <div class="overflow-hidden"><div class=" h-64 bg-burgundy transform transition duration-700 hover:scale-110"><img :src="`${$config.baseURL}images/diwali.jpg`"></div></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transition transform duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/guest.jpg`"></div></div>
     <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/inauguration1.jpg`"></div></div>
-    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/inauguration2.jpg`"></div></div>
-    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/event1.jpg`"></div>
+    <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/missJiri.jpg`"></div></div>
+    <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/oykoton.jpg`"></div>
     <div class="bg-blue-500 h-64 col-span-2 row-span-1"><img class="container h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/inauguration7.JPG`"></div>
     <div class="overflow-hidden"><div class=" bg-burgundy h-64 transform transition duration-700 hover:scale-110"><img class="h-64 w-full object-cover object-center" :src="`${$config.baseURL}images/freshers2.jpeg`"></div></div>
     

@@ -7,7 +7,21 @@
          <!-- wardens informantion cards -->
          <div>
          
-            <p class="capitalize pt-0 lg:pt-28 text-center lg:text-left text-2xl lg:text-4xl text-burgundy font-bold text-center">administration</p>
+            <p class="capitalize pt-0 lg:pt-28 lg:text-left text-2xl lg:text-4xl text-burgundy font-bold text-center">administration</p>
+
+         <!-- admin tabs prev and current -->   
+         <div>
+            <div class="flex mt-16 mb-12 pb-4 space-x-10 border-b-2">
+               <div class="text-2xl font-semibold capitalize text-burgundy hover:text-burgundy"><nuxt-link to="/administration" class="">Current</nuxt-link></div>
+               <div class="text-2xl font-semibold capitalize text-gray-400  text-center hover:text-burgundy"><nuxt-link to="/prev_admin">Previous</nuxt-link></div>
+            </div>
+      
+            </div>
+
+
+
+         <!--profile cards -->
+
          <div id="wardens">
             <p class="mt-4 lg:mt-20 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- wardens -</p>
          </div>
@@ -18,11 +32,11 @@
       </div>
 
       <!-- prefects information card -->
-      <div class="container" id="prefects">
-      <div class="container w-full" >
-         <p class="mt-28 lg:mt-60 justify-center text-center capitalize text-xl lg:text-3xl text-burgundy font-semibold">- prefects -</p>
+      <div>
+      <div class="container justify-items-center" id="prefects" >
+         <p class="mt-28 lg:mt-60 capitalize justify-center text-center text-xl lg:text-3xl text-burgundy font-semibold">- prefects -</p>
       </div>
-         <ProfileCard :people="prefects" />
+         <WebCard :people="prefects" />
       </div>
 
       <!-- office staff -->
